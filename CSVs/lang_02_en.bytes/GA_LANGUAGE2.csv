@@ -1,0 +1,907 @@
+"Hash","string"
+"637c5052","What is this place?"
+"627c4eff","It's pitch black! I can't see a thing!"
+"617c4d0c","I'm scared... {0}! Hold my hand!"
+"607c4b99","..."
+"5f7c4a26","Hey! That's MY hand, {0}!"
+"5e7c48b3","No fair, Himari!"
+"5d7c46c0","Goodness, what noise."
+"6c7c5ebd","Who're you?!"
+"6b7c5cca","Pleased to meet you."
+"5e7a09dc","My name is Mirei Mikagura."
+"5f7a0b4f","A human?! You saved us, didn't you! So, um..."
+"607a0d22","We don't have time to chat right now. Let me just tell you
+the most important parts."
+"617a0e95","What attacked you just now was the entity known as the
+Enforcer."
+"5a7a0390","What? That monster was the Enforcer?!"
+"5b7a0503","It's under the influence of the ""Brain Hack Program."""
+"5c7a06f6","Brain Hack...? Is that what it sounds like?"
+"5d7a0869","Yes. The BH Program is a virus that illegally hacks into
+a Digimon's ""brain"", so to speak, and alters its behavior."
+"667a16b4","Those infected by the BH Program exhibit a few typical
+symptoms:"
+"677a1827","Memory damage, disturbed consciousness, collapse of the ego,
+sudden violent tendencies..."
+"f081abb7","Now I see. My partner must have been infected, too..."
+"ef81a9c4","So who's responsible for this? Who'd write a program that
+could hack into the world's self-purification function?"
+"f281ae9d","The only one who can determine that is {0}.
+You all came from the real world, so..."
+"f181ad2a","Time's up. Tell this world's Digimon about what we've said.
+It may be some time before I can speak to you again."
+"ec81a50b","Till next time, then."
+"eb81a398","Huh. So, I guess... she helped us? I was positive we were
+done for."
+"ee81a851","Her name was Mirei, right? What do you think her deal is?
+She seems to know a whole lot, but... Think can we trust her?"
+"ed81a6fe","I couldn't say, but right now, we've got no other leads.
+We've got to warn the Digimon about the BH Program."
+"e8819edf","All right, I'm going into town too. I haven't said hello to
+this world's Jijimon yet."
+"e7819d6c","Hey, wait! I don't trust you yet either! Wait up!"
+"6a7e99ce","Whoa, Mameo's faaast!"
+"68d77edf","We heard everything from Mr. Mameo, {0}."
+"69d780b2","Including my self-introduction, and the explanation of why
+I'm innocent."
+"6ad78225","So, {0}, now that you're here, let's get to the
+topic at hand."
+"63d77720","Hmm..."
+"64d77893","If this Mirei is to be believed, the BH Program would seem
+to be the root of our troubles."
+"65d77a06","Those Digimon being altered into Machinedramon, and..."
+"66d77bf9","Omegamon Zwart D... the Enforcer. To think that even
+he's been infected..."
+"6fd789c4","Omegamon Zwart D, huh? Wonder if he'll end up turning into a
+Machinedramon, too."
+"70d78bb7","Any thoughts as to how the user behind the BH Program could
+have disseminated it?"
+"6dd9c555","...Not a one."
+"6cd9c3e2","Nothing?!"
+"6bd9c20f","Still, if someone made this virus, there ought to be a way
+of making an antivirus program to counter it."
+"6ad9c09c","Of course, discovering the hacker behind the BH Program
+would be a great step forward as well."
+"69d9bf29","Guess that's gonna be our job, right, {0}?"
+"68d9bdb6","This Mirei lady said you'd meet her again, didn't she? I've
+got a few things I'd like to ask her."
+"67d9bbc3","We'll speed up our plan to develop an antivirus program. Mr.
+Mameo, might I ask you to tell us more about Machinedramon?"
+"66d9ba50","Mm, all right. That's easy enough."
+"75d9d1cd","Hmm... I guess we made a little progress, right? We should
+get back to work. Gotta feed Rikka and the others, too!"
+"74d9d05a","Hey, {0}... Did you get the feeling that Mirei
+what's-her-face knew us somehow?"
+"73dc0d5e","True that! She was calling you by name.
+She didn't recognize me or Kouta right away, though."
+"74dc0f31","Why did the three of us get pulled into this world, anyway?
+Maybe it DOES have to do with that tournament back then."
+"71dc0a78","But Mameo wasn't Shoma Tsuzuki, after all...
+Maybe it was just a coincidence?"
+"72dc0beb","I wonder... Let's ask next time we see him."
+"77dc138a","Shoma... Tsuzuki? It couldn't be."
+"9daa64","Here we go, {0}."
+"39daf3d","I came up with a general outline of how things will go, and
+wanted to give you a rundown."
+"29dad4a","That Mirei woman still hasn't reappeared, and it looks like
+analyzing the BH Program will take a good long while."
+"fd9da5ab","We'll need to gather a whole lot of different data to code
+an antivirus program, too, and that'll take some work."
+"fc9da438","So we've decided that your job will be finding helping hands
+and protecting the Digimon that aren't affected."
+"ff9da8f1","I've told Kouta and Himari the news by DigiMail."
+"fe9da71e","I would've liked to just tell you by DigiMail too, but I've
+actually got something to discuss with you, just between us."
+"f99d9f7f","?"
+"f89d9d8c","I want to give you this. I know it might be a bother, but
+just do me a favor and take it."
+"fb9b63ee","You got a Prototype Antivirus Program from Mameo."
+"fc9b6541","It's a prototype antivirus program I made based on my own
+research. You might've had a glimpse of it earlier."
+"f99b6088","I tried injecting it into a Digimon that was about to be
+altered, so it wouldn't become a Machinedramon, but..."
+"fa9b627b","While it did slow down the process, it couldn't stop the
+transformation completely."
+"ff9b6a1a","But hey, at least it showed some results."
+"9b6b8d","..."
+"fd9b6734","Why would you give me this?
+This is kinda shady...
+You're pretty dedicated, aren't you?"
+"fe9b68a7","Cause I like you. No, not really."
+"f39b5776","Don't trust me yet, huh? Well, listen."
+"f49b58e9","Yeah, just call me Mr. Serious. You're sure calm about this,
+aren't you?"
+"f5991be5","This will disappear if it's copied, and I only made one. So
+I wanted to deliver it by hand."
+"f4991a72","I thought about giving it to Jijimon and Taomon for
+reference, obviously, but..."
+"f399189f","Since you're going to be out of town the most, I figured it
+was most likely to be helpful to you. Just a guess."
+"f299172c","I've got something I want to look into on my own, too. So
+I'll let you know if I find anything useful. Later."
+"ca599e91","C'mon, Kouta! Fight fight fight!"
+"c75999d8","That's right! We fall down, and we get back up again. As
+long as you don't give up, the road will open up before you."
+"c8599b4b","That's good to hear, but Himari and {0} got
+here at the same time, and look how far ahead they are..."
+"c8599b4a","That's good to hear, but it sure looks like I'm
+the only one getting left behind."
+"cd59a36a","It sure looks from here like I'm the only one getting left
+behind."
+"ce59a4dd","They say slow and steady wins the race, Kouta. Hurrying
+won't get us anywhere."
+"cb59a004","Yeah, but they say he who hesitates is lost, too. Especially
+at a time like this."
+"cc59a1f7","If this is all I can do, I'm just a burden on them."
+"c1599046","I can't do ANYTHING. You're helpful, Kouta!"
+"c2599239","Exactly. You're doing something that the Digital World truly
+needs in order to be saved, Kouta."
+"cf5be527","Well... Thanks, you two. But, and I'm sorry to ask... Could
+you leave me alone for a while?"
+"ce5be3b4","Kouta's making it so Yukimura can't Digivolve. He says
+he's weak!"
+"d15be80d","It's not Kouta's fault. I'm just a coward, and I can't seem
+to figure out what I should do..."
+"d05be69a","Don't YOU get all down too, Yukimura!"
+"cb5bdefb","Ah, you're right. This is exactly the time when I need to
+support Kouta the most."
+"ca5bdd08","It's okay, {0}! Leave Kouta to us!"
+"9cac000e","Swing and a miss...again."
+"9babfe9b","As far as I can tell, we've tried just about every piece of
+transmission equipment now."
+"9aabfd28","I think we've gone about everywhere we could, except for the
+places we couldn't get into."
+"a1ac082d","I guess there's really no way to get in touch with the real
+world after all."
+"a0ac06ba","Look, Himari, just tell me already. Why do you want to
+contact the real world so badly?"
+"9fac04c7","Well, that's..."
+"9eac0354","Oh, there you are, {0}. How's it going on your
+end? Finding some residents for town?"
+"95abf509","Hmm... Yeah, we're working to save the Digital World, aren't
+we."
+"94abf396","Hey, {0}...do you ever want to go back home to
+the real world?"
+"97a9b9f8","..."
+"98a9bb6b","Of course I want to.
+Eventually, I guess.
+This place might actually work better for me."
+"9ff73c74","Of course I want to.
+Sure, eventually.
+I think this place may actually suit me better."
+"99a9bcde","Yeah! Right? Anyone would!"
+"9aa9beb1","Whoa, you're sure calm about it! I'm jealous."
+"9ba9c024","What?! I... That's..."
+"9ca9c197","Never mind. Forget it. Talking about that now won't solve
+anything."
+"9da9c30a","We'll never be able to patch up these network outages if we
+don't find out about the BH Program and move forward."
+"9ea9c4fd","I understand. I get it, I really do..."
+"8fa9ad00","Let's take a break, Himari. You seem pretty worn out."
+"90a9aef3","Yeah... Thanks. Not that our bodies can get tired in this
+world, but..."
+"9b12933","I think I'm kind of emotionally exhausted. I could use a
+little change of pace. See ya later, {0}."
+"4538a7fb","Just cut it out already!"
+"4638a96e","Himari, calm down, would you?"
+"4738aac1","Don't you tell me to calm down! Look around. Everything just
+keeps getting worse!"
+"4838acb4","Himari. Taking it out on Jijimon won't help anything. It's
+not his fault things are bad."
+"4938ae27","Actually, if not for Jijimon, we wouldn't even know how bad
+things were. We should be grateful."
+"4a38af9a","Argh! Whose side are you even on, Rikka?"
+"4b38b10d","No one's taking any sides. I'm just calmly, objectively
+telling you the truth."
+"3c389990","Oh, I see! Why don't you talk about it with the other calm
+people, then!"
+"3d389b03","Himari!"
+"4a3aee71","Don't follow me! You and I are from different worlds,
+Rikka! You just don't understand me at all!"
+"493aec9e","To think she could let her feelings manipulate her so...
+How weak humans are!"
+"483aeb2b","Hey, watch what you're saying. I know how Himari feels all
+too well."
+"473ae9b8","Let me tell you, it's pretty awful feeling like you're stuck
+with no way out."
+"4e3af4bd","Kouta..."
+"4d3af2ca","No... Actually, Himari's nothing like me. She's so much
+stronger than I am."
+"4c3af157","I'd better keep getting stronger, right, Yukimura? 'Cause if
+I don't, well, I'm..."
+"4b3aefe4","Taomon, you went a little too far. They're terrified, but
+they're still fighting for the sake of the Digital World."
+"423ae199","...This is true."
+"413ae026","Perhaps I ought to have kept my temper in check. I'll give
+my apologies to the two of them."
+"503d367a","No, I think it might backfire if you were to go now. Let me
+and {0} handle this one."
+"513d37ed","{0}, can you go talk to Himari? I'll go
+after Kouta."
+"4e3d3314","I'll go too!"
+"4f3d3487","You better stay put. This is very delicate stuff. Not the
+time for kids to play around."
+"4c3d2fce","Hey, don't treat me like a little kid! I'm worried about 'em
+too!"
+"4d3d31a1","Before you go after Himari, {0}, we'd better
+explain the situation to you, too."
+"4a3d2ce8","We've actually found a way to determine if someone's been
+infected by the BH Program."
+"4b3d2e5b","!"
+"483d2982","That's the good news. But there's more, I'm afraid. When we
+tried testing our method on the townspeople..."
+"493d2b75","Every single one of them tested positive."
+"b6401543","!!!"
+"b54013d0","The time the BH Program lies dormant varies from victim to
+victim, and we can't yet detect when it's about to flare up."
+"b84018a9","And when it does... Well, you know what happens."
+"b7401736","..."
+"ba401b8f","So now you know how bleak things have gotten."
+"b9401a1c","The virus could take hold of us just about anytime. I can
+hardly believe the danger we're in."
+"bc401ed5","I doubt your partners are an exception, either."
+"bb401d62","We haven't got a moment to spare. We've got to form a plan,
+or all of the Digital World will fall into chaos."
+"be40223b","So please, {0}..."
+"bd402048","Bring Kouta and Himari back, and then lend us a hand finding
+a way to stop the BH Program!"
+"bc425d4c","You got it!
+I'll see what I can do.
+I'm not sure I can do this..."
+"bd425f3f","Hmm, glad to hear! That's our {0}!"
+"be426092","We appreciate it. That's all we can ask. Make sure and tell
+Kouta and Himari not to overdo it, either."
+"bf426205","And yet you've taken it on for us anyway. We can't thank you
+enough."
+"b8425700","I, too, beseech you. We're entrusting you with the fate of
+the Digital World."
+"8ea08b00","Huh? Who's there?"
+"91a08fd9","Oh, it's you, {0}. Thanks... Thanks for coming."
+"90a08e66","My partner... Himari, she... I went after her, but she...
+She said, ""Don't come near me,"" and then she ran off..."
+"93a0933f","She should be around here somewhere... I'd be very grateful
+if you could help me find her."
+"92a0914c","Thank you..."
+"cc1cd76d","Himari!"
+"c91cd294","Didn't I tell you not to come near me?"
+"ca1cd407","Huh? Rikka?! What's that stuff coming out of... Wait, don't
+tell me..."
+"c71ccf4e","Huh? Whaaat?"
+"c81cd121","You sound so... Rikka, are you all right?"
+"c51ccc68","Something wrooong? I'm, I'm juuust fine... Same as
+aaaalwaaaays..."
+"c61ccddb","Rikka!"
+"c31cc902","Whooo's calling me? Himariii? Wait, who... Who's Himari?"
+"c41ccaf5","It's me! I'm your partner, Himari!"
+"311fb4c3","My partner...? My partner wouldn't... wouldn't be so..."
+"301fb350","Wouldn't be so mean to meeeeee!!!"
+"331fb829","Wait, Rikka!"
+"321fb6b6","Ah! {0}, what do we do?!"
+"351fbb0f","It looks like her form is altering, right? Is... Is it my
+fault? For pushing her away?"
+"341fb99c","Please! Help Rikka! If we can't save her, she's gonna turn
+into a Machinedramon!"
+"f8c894fa","A-aaAAAaaaa... aaAA...m-my.. mY HEAd, ittttttttttttt'sszszzs"
+"f7c89307","Rikka!!!"
+"f6c89194","HI-MA-RI... he-heLP-MEEEeeEEEE"
+"f5c89021","H-Hngh... Gyaaaaaah!!!"
+"a29270e7","Rikka!!!"
+"a392725a","Himari..."
+"a49273cd","I'm sorry! I'm so sorry, Rikka! It's all my fault!"
+"9d9268c8","I wanted to go back home, I was worried about my sisters,
+and so I got angry and took it out on you..."
+"9e926abb","Himari... You have sisters?"
+"9f926c2e","Yeah. They're twins. They're just in second grade. And we
+don't have a mom, so I take care of them."
+"a0926d81","I got so worried, thinking about how hungry they must be..."
+"9992629c","But you're important too, Rikka! I can't just abandon this
+world!"
+"9a92640f","I wanted to fix things here and zip back to the real world
+as fast as I could, but..."
+"a794b77d","Things just got worse and worse, and then I went and took it
+out on you, Rikka."
+"a694b58a","I've been... I've been awful."
+"a594b417","Himari, don't cry. I'm all right.
+{0} saved me."
+"a494b2a4","Right? You... used some program on me, didn't you?"
+"a394b131","That's right! {0}, you did something just
+before Rikka attacked, didn't you?"
+"a294af5e","So that's why Rikka's form didn't change?"
+"a194adeb","{0} explained about the prototype antivirus
+program."
+"a094ac78","A prototype antivirus program? I didn't know we even had
+anything like that!"
+"9f94aa85","But you said it can only delay the onset, right? Not prevent
+it completely?"
+"9e94a912","Which means Rikka could start changing again at any time..."
+"d979646","Himari... Do I scare you?"
+"e979839","Hah, what are you talking about, dummy? I couldn't be scared
+of you. You're my partner, and I care about you."
+"b979360","I promise if you start changing again, I'll be the one to
+stop you."
+"c9794d3","So you just rest for now. Don't worry too much about it."
+"11979cf2","Himari..."
+"12979e65","Did you Digivolve?"
+"f9799ac","Yes... I think so. My body feels... full of power."
+"10979b1f","With this much strength, I can be the one to protect YOU
+from now on."
+"1597a33e","Someone's feeling pretty bold! But thank you. I know I can
+count on you, Rikka."
+"1697a491","Oh, it's Taomon's gate. Thank goodness! C'mon, Rikka,
+let's get you back to town and patched up."
+"1399de4f","Sounds like a plan."
+"1299dcdc","Thanks so much for everything, {0}. I'm so
+grateful. I want to stay near you for the rest of my life!"
+"e8f865dd","One more time, Yukimura!"
+"e5f86104","Yeah! Exhaust Flame!"
+"e6f862f7","Come on! You won't get stronger than anybody
+with an effort like that!"
+"e3f85e3e","They've been like this since I arrived. Training like
+they're possessed."
+"e4f85f91","You can tell just from looking, Yukimura isn't up to this.
+But even using force, I don't think I could stop them now."
+"e1f85ad8","I know I'm not setting a great example, but I need to
+ask you to put a stop to it."
+"e2f85c4b","Don't try and stop us, {0}! This is Yukimura's and
+my problem to solve!"
+"dff857f2","Hey, what's the matter, Yukimura? You done already?"
+"e0f85965","No... Not yet..."
+"cdfa7a33","That's right! Do your best, Yukimura! We'll be stronger than
+anyone else out there!"
+"ccfa7840","We decided we'd do whatever it takes! Even if that means
+altering our form..."
+"cffa7d19","?!"
+"cefa7ba6","Kouta... If that's what you want, I'll..."
+"d1fa807f","Not good!"
+"d0fa7e8c","Brace yourself, Yukimura! As long as you don't lose your
+will, all that power can be yours!"
+"d3fa8345","Guh-GAAAH... AAAAAAAaaaaahhhh..."
+"d2fa81d2","Yukimura! What are you doing? Knock that curse into
+submission!"
+"d5fa86ab","G-GUOOHHHHHHHHH!!!"
+"d4fa8538","What? Why? That's not Machinedramon..."
+"5bf30af8","!"
+"5cf30c6b","UOOOOOOOOOHH!!!"
+"5df30dde","Yukimura!!!"
+"cb8a7630","Yukimura! Please, snap out of it!"
+"ce8a7a89","GOAHHHHHHHHH!"
+"cd8a7916","Ugh! {0}! Please..."
+"d08a7def","Please make Yukimura calm down!"
+"997f4fab","{0}. Try using my antivirus program one
+more time, please."
+"9a7f511e","It seems effective..."
+"9b7f52f1","That is, I wonder if my auto-learning program is doing even
+better than I thought it would, if it's working this well..."
+"9c7f5464","?"
+"9d7f55d7","Sorry, just talking to myself. Anyway, we've got other
+things to worry about."
+"9e7f574a","Uh-ungh... Yukimura... I'm sorry..."
+"9f7f593d","..."
+"907f4140","What were you so impatient for? You're not a kid anymore...
+Didn't you think for a second it might turn out like this?"
+"917f4333","...Because I've got nothing. I can't do anything. I just
+wanted to have something I could be sure about..."
+"9e819621","{0}'s obviously special, and Himari's so sure
+of herself..."
+"9d81944e","I'm the only one who's just... nothing. It was the same in
+the real world, too."
+"9c8192db","I mean, not to brag or anything, but I did great at school
+and sports, and I could read people pretty well..."
+"9b819168","I'm sure I was the kind of guy people would be jealous of.
+And of course I appreciated that, but all the same..."
+"a2819c6d","When I had to actually think about what I wanted to do in
+life, I realized I was just... empty inside."
+"a1819afa","Everyone would talk about their dreams and goals, and I'd
+just try and think of a single thing I really wanted to do."
+"a0819907","I had this vague picture of how I'd enjoy myself, find some
+job or other, get married or something, get older..."
+"9f819794","And just have a pretty average, decent life, but..."
+"96818949","Suddenly I felt like my footing wasn't stable anymore, and I
+started to panic, thinking I had to find something."
+"958187d6","And that was when I got summoned into the Digital World."
+"2484a7aa","Here, I finally felt like I was special. I believed there
+was something only I could do."
+"2584a91d","But it turned out I was wrong."
+"2284a444","I was sure of that after I met {0}. I knew right
+away... that I was just an empty nobody after all."
+"2384a637","And so I ended up mistreating my partner, the one I was
+supposed to care for more than anyone, and now..."
+"2084a17e","I'm the worst. I'm so stupid. So pathetic."
+"2184a2d1","It's true. That was pretty stupid of you."
+"1e849e18","You've got a partner who believes in you and risks all kinds
+of danger for you, no matter what."
+"1f849f8b","A bond so strong that even in altered form, they wouldn't
+lose sight of who you are."
+"1c849b32","You've got friends who come running to your aid. And you
+still think you're a nobody?"
+"1d849ca5","Ah..."
+"a86bd73","All this time, you never noticed that you had something no
+one else has in your hands all along."
+"986bb80","Heh... I guess so, huh? I sure am an idiot."
+"c86c059","Looks like help came at just the right time. Let's get back
+to town for now."
+"b86bee6","We need to let Yukimura get some rest."
+"e86c3bf","Yeah..."
+"d86c1cc","Occupational hazard, I guess. He was trying too hard to put
+up a good front."
+"1086c685","As cool as he talked, he still relied on you so
+much, {0}."
+"f86c512","Not that I'm really one to talk. Hope you can give me a pass
+there."
+"1286c9eb","You ought to take a rest, too. I have a feeling things are
+about to get pretty busy."
+"1186c878","So the antivirus program opens up new possibilities for
+altered Digimon... Fascinating."
+"64a678fe","Hey, {0}. Perfect timing."
+"63a6770b","Long time no see."
+"62a67598","Things have finally recovered to the point where we can
+send and receive video signals again."
+"69a6809d","Thanks to all of you. I can't thank you enough."
+"68a67f2a","Still, I can't maintain this for long. Apologies, but let me
+get straight to the point."
+"67a67db7","First, about the changes to the Digital World. As you're
+aware, all of it stems from the spread of the BH Program."
+"66a67bc4","I tried to look into ways to solve the problem, and that was
+when I managed to access the territory of this world."
+"5da66df9","Changes in one world can sometimes ripple outward and affect
+other worlds for the worse."
+"5ca66c06","There have been times when the Digital World began to creep
+into the real world, leading to disaster."
+"dfa368e8","Normally that simply means we must address some issues that
+seem innocuous, but this has spiraled beyond my predictions."
+"e0a36a5b","The BH Program trapped me, and I almost ceased to exist
+altogether."
+"e1a36bce","As I was trying to shake things up, I happened to access the
+Digital World's own self-purification function."
+"e2a36da1","Within that process I discovered a way to digitize humans
+from the real world and draw them into the Digital World."
+"e3a36f14","I see. So it was like what happened to me before..."
+"e4a37087","It's an emergency measure that the Digital World can take in
+times of crisis, yes."
+"e5a3727a","So the fact that we were summoned here was..."
+"e6a373ed","Yes. It was the will of the Digital World."
+"d7a35c70","Huh, it was? Guess our connection from that tournament back
+in fifth grade was just coincidence, then."
+"d8a35de3","The fact that I'm even able to connect and speak with you is
+due to your ability to resist the effects of the crisis."
+"51aad823","But it seems that our only hope against the BH Program is
+for you and the Digimon to combine forces."
+"50aad6b0","That's right. We've been pulling our weight, too."
+"53aadb09","We've been working on Mr. Mameo's prototype antivirus
+program, and it's finally getting close to completion."
+"52aad996","I hadn't told you about this yet, {0}..."
+"55aade6f","What with everything that happened with Himari and Kouta, I
+realized my prototype might be more useful than I'd thought."
+"54aadcfc","I threw together a new one and gave it to Taomon, complete
+with the new test data."
+"57aae1b5","Yes, that test data was quite useful. An unexpected benefit
+of Kouta and Himari's... episodes, perhaps."
+"56aadfc2","Uh, heh heh..."
+"59aae49b","You're... welcome?"
+"58aae328","It looks like this world chose its helpers well when it
+summoned you."
+"6ba8c25a","Only problem left is, how do we spread the antivirus
+program through the entirety of the Digital World?"
+"6ca8c3cd","There's a big mesh of underground network cables stretching
+all over the Digital World."
+"69a8bf74","If we transmit the antivirus program from Server Tower,
+it ought to spread everywhere, no problem."
+"6aa8c0e7","The Digital World's network isn't functioning properly right
+now, though."
+"67a8bc2e","I suspect that a critical cable may have suffered some
+damage during that Machinedramon rampage."
+"68a8bd81","Simultaneous transmission won't be possible unless we can
+fix it."
+"65a8b8c8","Then we'll need to pinpoint the damaged area. Let's ask
+Digimon from all over for information..."
+"66a8babb","Guess we've just got to tackle one problem at a time. Isn't
+that right, {0}?"
+"63a8b5e2","I'll gather information as well. I may not be able to
+operate freely just yet, but I can at least send DigiMail."
+"86ea2781","{0}! You're back!"
+"83ea22c8","Whoa, Luche, don't be a barnacle! Let {0}
+breathe!"
+"84ea24bb","Hee hee hee. You jealous, Himari?"
+"89ea2c5a","Me, jealous?! I have no idea what you're talking about!"
+"8aea2dcd","Spirited as ever, I see."
+"87ea2974","Hey, there you are, Mirei. How's your work coming along?"
+"88ea2ae7","I've drawn up a map of the cables that make up the network
+of the Digital World. And you?"
+"7dea19b6","We've conducted an investigation. We surveyed the townsfolk,
+new and old."
+"7eea1b29","If we check our knowledge of Machinedramon appearances
+against your cable map..."
+"8bec6e17","We should be able to refine our search for trouble spots in
+the network to a high level of precision."
+"8aec6ca4","I agree. Let's get started right away."
+"8dec717d","We've got it. Look here. The main cable and the
+Machinedramon sightings overlap perfectly."
+"8cec6f8a","And the repair kit?"
+"87ec67eb","It's ready. Here you go, {0}."
+"86ec6678","You received a Repair Kit from Jijimon."
+"89ec6b31","The spot in need of repair is within Faulty Ex Machina.
+Good luck, {0}. We're counting on you."
+"69c6a614","No mistaking it, that's the spot we're looking for. Ready
+with the repairs, {0}?"
+"6cc6aaed","Looks like it's finished."
+"6bc6a97a","..."
+"66c6a15b","Confirming network restoration. We've done it! Transmission
+capacity should be restored."
+"65c69fe8","?!"
+"68c6a4a1","Is this... a barrier? There was nothing in my sources about
+safeguards like this..."
+"67c6a2ce","Oh well. Now no one should be able to touch the cable. All
+we need to do is just transmit the antivirus program."
+"62c69b2f","Great work, {0}. Come on back to Jijimon's
+house now."
+"a5c1698f","We can't use the antivirus program? But it's complete, isn't
+it? What's the issue?"
+"a6c16b62","Technically, the program's all set. Practically speaking,
+though, we've got one head-scratcher of a problem to solve."
+"a7c16cd5","You know all Digimon have a different data makeup, right?"
+"a0c161d0","So we tried to update the antivirus program so it'd choose
+the right vaccine for each one automatically, but..."
+"a1c16343","It's a pretty... unique program, so changing any bit of it
+makes the effects fade right away."
+"a2c16536","That's my fault. Self-taught programmer. Sorry."
+"a3c166a9","Do you have any solution in mind? I doubt it'd be easy to
+make a vaccine that automatically changes to fit its target."
+"acc174f4","Well, I thought, maybe... What about Datamon?"
+"adc17667","Datamon? Who's that?"
+"aac3b005","A prodigy of a Digimon when it comes to programming. I doubt
+there's anyone in this world better suited to the job."
+"a9c3ae92","But there's one big problem. Datamon's a scaredy-cat. Almost
+never comes out where people can see it."
+"a8c3ad3f","So you don't know where Datamon is?"
+"a7c3ab4c","Not a clue."
+"a6c3a9d9","Datamon, huh... Wait a second."
+"a5c3a866","Could that be who Yuramon from town saw on the Nigh Plains?"
+"a4c3a6f3","What?!"
+"a3c3a500","Well, Yuramon is basically sleep-talking most of the time,
+so we can't really be sure, but..."
+"b2c3bcfd","Huh. I guess Yuramon could've just been floating so softly
+by, Datamon didn't even notice."
+"b1c3bb0a","{0}, sorry to pile more work on you, but could
+you talk to Yuramon and find Datamon?"
+"b0c5f80e","I'll go too, in that case. You'll probably need help if
+you're playing Digimon hide-and-seek."
+"b1c5f9e1","Me too! I'm a reeeeally good hider! You'll never find me!"
+"aec5f528","Great, now we'll be looking for two..."
+"afc5f69b","C'mon, Luche, you're a big girl. We need you to hold down
+the fort here."
+"b4c5feba","Noooo! I wanna go with {0}!"
+"b5c6002d","..."
+"b2c5fb54","Here, {0}, I'll get her. You go on and find
+Datamon for us!"
+"b3c5fcc7","HEY! Lemme go, Kouta! Stay away from me, you perv!"
+"ff19e0c2","Well, you sure made me work for this. Do you know how hard
+it was to find anyone who knew where you were?"
+"fe19df6f","What do you mean?"
+"fd19ddfc","Never mind, I was just talking to myself. Anyway, hold
+tight, Datamon pal, this won't hurt a bit."
+"fc19dc09","Ow! What's going... My... My head!"
+"fb19da96","!"
+"fa19d923","Huh? That was fast. Oh well, time for Plan B."
+"f919d7b0","All right, go get 'em, little Datamon!"
+"819ef2d","Ah... AaaAAAahhHHH!!!"
+"719edba","Awww, that's so sweet. You won't even fight back?"
+"fa179a4c","Well, that's your fatal mistake! Finish 'em off, Datamon!"
+"fb179c3f","Huh? What?! Where'd you come from?"
+"fc179d92","{0}! Stop Datamon from moving! We've still got
+time to use the antivirus program!"
+"fd179f05","Feh. This wasn't part of my calculations. Time to beat it
+before things get any worse!"
+"58982c25","OK, I think this should be good."
+"5598276c","Thank-you. That was a-grim-situation."
+"569828df","Did you know that MetalEtemon?"
+"53982406","No."
+"549825f9","Any idea why you were targeted?"
+"51982120","None. It was very-sudden. Without a word of warn-ing,
+suddenly MetalEtemon was trying to take-me-away."
+"52982293","I see. Which means the goal was probably keeping you quiet
+and under control... And it's not hard to guess why."
+"5f98372a","I've got a bad feeling about this."
+"6098389d","I cannot comprehend this sit-uation. What-is happening?"
+"5d9a72bb","Datamon, could you come with us? We've got a big favor to
+ask you. I'll explain on the way."
+"5c9a70c8","I un-der-stand. I can no longer stay here. Please take-me
+with you."
+"5f9a7581","{0}, I'll take Datamon and head back to
+Floatia."
+"5e9a742e","When you get back, let's meet up at Jijimon's house."
+"aece5038","Hey! Nice work, {0}!"
+"b1ce54f1","Wait, wasn't Mr. Mameo with you?"
+"b0ce531e","""Mr."" Mameo?"
+"b3ce57d7","Yeah, he's my teacher."
+"b2ce5664","Um... Since when exactly?"
+"b5ce5b3d","{0} explained about Mameo and Datamon."
+"b4ce594a","Wait, so they left first? Oh no... Do you think something
+could've gone wrong?"
+"a7ce4533","Or it could be that they took this opportunity to escape."
+"a6ce4340","What's that supposed to mean?"
+"a9cc09a2","Mameo and Datamon could have been in cahoots..."
+"aacc0b15","Datamon's job was to make the BH Program while Mameo called
+the shots."
+"a7cc065c","It would explain how an amateur like Mameo could code up an
+antivirus program all by himself."
+"a8cc07cf","Hmph. We cannot discount the possibility, but I can't fathom
+what Mameo's objective would be."
+"a5cc0376","Of course you can't, because this idea is totally baseless."
+"a6cc04e9","Seriously? I'm a little late getting back and you want to
+slap me in handcuffs?"
+"a3cc0010","Soooo... Mameo's a bad guy?"
+"a4cc0183","Look, now you went and led this innocent kid astray."
+"b1cc161a","Don't worry, Luche. Mameo is all right. Probably."
+"b2cc178d","Probably, huh? Well, he's guilty until proven innocent!"
+"a3c9c1b9","*chuckle* That's right."
+"a2c9bfc6","Um..."
+"a1c9be53","Glad you could make it, Datamon. Thanks a bunch."
+"a0c9bce0","It is I who-am grateful. {0} kindly res-cued me
+from a dangerous sit-u-a-tion."
+"a7c9c7e5","MetalEtemon, eh? That's one more problem to deal with, then."
+"a6c9c672","That gadget he controlled Datamon with bothers me. The idea
+of Digimon just being controlled like that..."
+"a5c9c49f","Maybe MetalEtemon is the one who made the BH Program."
+"a4c9c32c","Nah. MetalEtemon is an excellent fighter, but not the kind
+of Digimon you'd call... ""brainy."""
+"abc9ce11","There would most likely have to be a co-conspirator, or
+perhaps a leader."
+"aac9ccbe","A co-conspirator..."
+"1dc6b030","What is it, Taomon?"
+"1ec6b1a3","It's nothing. We should turn to the issue at hand. Datamon,
+you've grasped our present situation?"
+"1fc6b316","Yes. I-have heard Ma-meo's explanation. Al-low me to assist
+with the optimiza-tion of the antivirus pro-gram."
+"20c6b489","Much obliged. Then do have a look at the program for us."
+"21c6b67c","I-see, I-see. This may take a lit-tle while."
+"22c6b7ef","Please go as fast as you can. In the meanwhile, let's
+continue our preparations."
+"23c6b942","Preparations?"
+"24c6bb35","We'll need to confirm that Server Tower is functioning
+properly so we can use it as the transmitter."
+"25c6bca8","And if it isn't, we'll need to fix it... and at the same
+time, to protect it."
+"26c6be1b","Yup. The enemy could be at Server Tower by now. We've got
+to be ready to forestall them."
+"27d808ef","Then I should go! Rikka's finally all healed up and ready."
+"26d8077c","And we can't just make {0} handle everything
+all alone!"
+"29d80c35","We can do this, right, Rikka?"
+"28d80a42","Of course we can."
+"23d802a3","Great, then let's get going! {0}, we'll see
+you later on!"
+"22d80130","Himari's really throwing herself into this. She must want to
+be as strong as you pretty bad, {0}."
+"25d80589","Hey, I wanna help toooo!"
+"24d80416","Fine, sure. I'll think of something you can do, Luche."
+"2fd81547","Really?! Maybe you're not a bad guy after all, Mameo!"
+"2ed813d4","{0}, just take care, won't you? The enemy has
+Ultimates fighting for them. No letting your guard down."
+"e49db6e8","Stay away, {0}!!!"
+"e79dbba1","?!"
+"e69db9ce","Aaahh! Not your partner too...
+We have to stop them, but..."
+"e99dbe87","Fine work, {0}."
+"e89dbd14","Watch as the network cable you repaired becomes the fuse
+that detonates the door to the old world!"
+"eb9dc1ed","Mwahahaha! It's over! No... It's just begun! I, Titamon, have
+lit the fire that will forge a new world!"
+"ea9dc07a","What are you talking about? Wait, what did you just do?"
+"dd9dabe3","I've just enhanced what you call the ""BH Program,"" and
+transmitted it to the entire world at once."
+"dc9daa70","Enhanced the BH Program?!"
+"df9b7052","That's right. It's what's attacking your partners right now."
+"e09b71c5","As it drags all Digimon down into chaos, it'll become the
+cornerstone of a new world. A new order to smash the old."
+"dd9b6d0c","You're the one who made the BH Program? Are you trying to
+become a god or something?!"
+"de9b6eff","A god? The very word is pitiful. Look at you. You cling to
+these foolish ideas of government, justice, what-have-you..."
+"db9b6a26","An entity such as you would never understand. I... I am the
+executioner of gods!"
+"dc9b6b99","Wait! Stop that! If the equipment breaks, we can't transmit
+the antivirus program!"
+"d99b66c0","Fool! Your program is useless!
+{0}, surely you must have already noticed?"
+"da9b68b3","...!"
+"e79b7cca","Oh, that's right... You had the antivirus program, {0}."
+"e89b7ebd","But let's make absolutely sure! Bwahaha! Drown in despair!"
+"d9992869","Waaaait!"
+"d89926f6","Luche?!"
+"d7992503","Ngh! What are you trying to do?"
+"d6992390","Watch very closely!"
+"dd992e95","Wait, was that... movement? Did you actually manage to
+optimize the antivirus program?!"
+"dc992d22","{0}, my friend! Smack 'em down!"
+"db992b4f","!"
+"da9929dc","Tch! You impertinent little..."
+"8e6792d5","Ngh... You're strong, I admit it. But I won't allow anything
+to get in the way of my allies' plans... or mine!"
+"8b678e1c","Is Titamon seriously gonna self-destruct?!"
+"8c678f8f","!"
+"89678b36","!"
+"8a678ca9","Gah! Ngh... But... The BH Program update... Bwahaheheh...
+My task is complete!"
+"876787d0","Omegamon Zwart D! Is this...?"
+"88678943","G-GUUUH... NNGGGUUHHHH..."
+"95679dda","Is it in pain? Ah! Is this the enhanced BH Program?!"
+"96679f4d","Then we might be able to get away!"
+"9369d96b","Omegamon Zwart D's on a rampage! The transmission
+equipment's totally done for!"
+"9269d7f8","All we can do for now is run! There's no way we can beat...
+that!"
+"9569dcb1","Phew! Well, we got away somehow... Was I always this slow?
+Did I lose all my muscles studying for the entrance exams?"
+"9469dade","Me too... I'm exhausted..."
+"9769df97","..."
+"9669de24","It's quiet now..."
+"9969e2fd","Maybe that scary guy left?"
+"9869e10a","Probably."
+"8b69ccf3","..."
+"16237f0","It's totally ruined..."
+"2623963","We can't use this at all."
+"3623ad6","Is that it? Is the Digital World gonna..."
+"4623c49","No. There's... got to be another way."
+"5623e3c","So we can't give up now... Gotta keep... keep on trying..."
+"6623faf","...{0}!"
+"7624102","Let's go back... Go back and... figure out what to do...
+together."
+"4b097b63","So it even got Omegamon Zwart D? I knew the BH Program was
+fearsome, but this..."
+"4a0979f0","We're in a race against time! We need that information!"
+"a400a88a","We'll continue with our plan for the antivirus program...
+Please do hurry with your information gathering."
+"1af88182","Things have sure gotten complicated, but all we can do is
+keep trying our hardest!"
+"41f38f4e","Huh? When did you start sounding so adult-like? Hee hee.
+Sometimes that happens with Digivolution."
+"f94900c2","Mirei might know why we all got sucked into this world..."
+"5ee98e19","Such terrible things are happening...and what can I even do
+to help?"
+"9639216","Huh? Mameo disappeared! He's so fast! Where'd he go?!"
+"674c4e0","So it even got Omegamon Zwart D? I knew the BH Program was
+fearsome, but this..."
+"774c653","We're in a race against time! We need that information!!!"
+"eb9ec57d","We'll continue with our plan for the antivirus program...
+Everyone, hurry with your information-gathering."
+"c696b30d","Actually, if Mirei might know how we can get back to the
+real world..."
+"c596b19a","I wonder when we'll see her again?"
+"c35351a5","I think my bond with Himari has strengthened since I
+Digivolved. But she'll have to go home someday..."
+"86183721","Back at that tournament, I had no idea things would turn out
+this way... Is it really not related to all this, somehow?"
+"9c87d216","I don't want to show anyone that unseemly side of me ever
+again, not even for Kouta's sake."
+"e4eb07fd","Huh? Mameo was outside! But wait, now he's gone again?!
+Where'd he go now?"
+"c072eb31","Kouta doesn't look well at all. I think he's taking things
+pretty hard... I worry about the kid."
+"33760218","Kouta and the others certainly look worried, but young ones
+have a knack for turning problems into fuel for growth."
+"66fbad80","We've been checking transmission equipment all over, but we
+still can't find information on the BH Program..."
+"bc8bfd8c","Himari seems to be looking desperately for a way to contact
+the real world as we check the transmission equipment..."
+"bd8bff7f","...I wonder why?"
+"1fefb96c","What can I do as I am right now? I get so impatient, but I
+can't actually do anything..."
+"20efbadf","Man, I'm so useless!"
+"ad18937f","I have to get stronger so I can support Kouta!"
+"9815b954","Yukimura's totally into this special training!"
+"47e90e","Uh-oh. Himari's looking a bit down too, eh?"
+"147eae1","I feel awful that we keep placing these burdens on you all.
+But your strength is the best hope we've got."
+"b7bf5013","What? Now Himari's worried too? It really is a difficult
+thing sometimes, to be young."
+"3e24195b","Sorry for what happened earlier!"
+"3d2417e8","I guess I was just worn out? But I'm fine now! Don't you
+worry about me!"
+"59944d33","Why would Himari want to contact the real world that badly?"
+"58944b40","I can't help but be curious..."
+"53e7b04b","I've thought about it, and I know there's no way to change
+it, but...I'm just not strong like you all are."
+"1ee9045c","Hey! This won't do it! I need some harsher training... for
+Kouta's sake!"
+"d48f634b","Yukimura's really into it! He's training like crazy!"
+"546c5b7","You haven't just taken on the BH Program thing, you've been
+looking after Kouta and Himari, too..."
+"446c3c4","But we have to worry about them first! Just bring 'em back
+safe!"
+"cdc79a96","Normally, I'd be the one to go and apologize to Kouta and
+Himari, but..."
+"cec79c09","What Jijimon said is right. I'm counting on you to take care
+of the two of them."
+"50e4c39a","Bring me toooo! I'm worried about Kouta and Himari!!!"
+"6b1e4f14","What? Rikka's looking strange?! I have a very bad feeling
+about this..."
+"6c1e5087","Quick, just go after Rikka for now!"
+"433184b9","I see... Rikka's in an unusual state? Could this possibly
+have something to do with the BH Program?"
+"66f89581","What's wrong with Rikka?! Hurry, you gotta help her!"
+"dd531812","Thank goodness Himari and Rikka are back and safe! Now
+it's time to get Kouta and Yukimura."
+"de531985","Now where the heck can those two be?"
+"22c8c02f","It seems Himari and Rikka's bonds have strengthened. What
+does not kill one makes one stronger, I suppose."
+"39844bf7","I never told you about my sisters, did I? I didn't want
+Rikka to feel like they mattered more than her..."
+"38844a04","But I think Rikka understands now! Good communication is so
+important!"
+"f6391597","I'm so glad to know that I'm important to Himari the way her
+sisters are."
+"f5391424","I want to help her get back to them as soon as she possibly
+can!"
+"d576c4cf","Yaaay, Himari and Rikka are friends again! Sooo now we gotta
+help Kouta and Yukimura! Where'd they go?!"
+"9e2f32f0","To transmit the antivirus program, we need to find the point
+of damage in the main cable and repair it..."
+"9f2f3463","We need all the information we can get! Keep gathering those
+residents!"
+"bd68a6ad","We need to find the damaged point on the main cable. So do
+focus all your energies on gathering residents."
+"5bcff61d","The antivirus program is almost done! Is it just me, or is
+there finally a light at the end of the tunnel?"
+"5acff4aa","Well, now that we've made it this far, we've got to fight
+for the Digital World. It chose us to save it, after all!"
+"db706015","And I'll do my best to reunite Himari with her sisters as
+soon as we possibly can!"
+"5060cfd1","Huh? What am I doing? I'm asking Digimon around town about
+stuff!"
+"4f60ce7e","Yukimura's not ready to leave town yet, so I figured there
+had to be something I could do in the meantime!"
+"f4c75986","Pugii? Pugii, pugii! (Did you recognize me? It's me,
+Yukimura!)"
+"9f97df0d","Bring lotsa Digimon, bring lotsa Digimon! This is fun!"
+"ad24eeb6","The antivirus program is nearly done, but with the network
+of the Digital World in this state, well..."
+"ae24f029","Keep on bringing in townsfolk! We need to know where that
+cable is damaged!"
+"d8f26633","So the damaged point on the cable is somewhere in Faulty Ex
+Machina. Quick, go patch it up!"
+"eb56b33a","We're a few steps away from a completed antivirus program.
+Let's keep our heads in the game. Go and fix that cable."
+"cb3c1252","Faulty Ex Machina... We were just there, weren't we?"
+"cc3c13c5","If we want to get inside, we've gotta lower that bridge.
+Could there maybe be a switch somewhere?"
+"2cbaa03e","Seems like the switch that controls Faulty Ex Machina's
+bridge should be around that area..."
+"2dbaa191","That's what the Digimon in town told me, anyway. Hope it
+helps!"
+"70661f2","All right! We know where the cable damage is! That info from
+the Digimon came in handy after all!"
+"8066365","I wish I could go handle the repairs with you, but hey, I
+gotta take it slow and do what I can for now!"
+"a4351c89","Pugii, pugigi! Pugiii pugigi pupugi! (It's me, Yukimura! I
+want to get strong enough to leave town already!)"
+"dd34ee6","Ooooh, do ya think Himari's jealous? This is fun! Maybe I
+should be even huggier!"
+"5e3b24a1","We'll have the antivirus program ready in just a while.
+For now, go take care of fixing that cable!"
+"3b89d815","We need Datamon if we're going to finish this antivirus
+program. We're counting on you."
+"9c087654","We have reports of Datamon being seen in Nigh Plains, by
+Power Plant #1. You know what to do."
+"6bcb4e5c","Hey! Did you find Datamon? Not that I think things will be that easy...
+"
+"e5c8b320","I'd like to help, but I just don't think I'm up to it yet.
+Sorry to ask so much of you, but I know you can do it."
+"c1b2a178","Looks like my intelligence network is pretty solid, huh?
+Hey, get going to Nigh Plains already!"
+"c2b2a2eb","If Datamon gets away, all my hard work will go down the
+drain!"
+"8b06635b","Kouta sure seems happy to have been helpful! His face has
+brightened right up!"
+"45b58a8","I have to stay behind again?! Booooriiiing! Take me alooong!"
+"e2015307","Server Tower awaits! Good luck!"
+"4da59546","No matter what it takes, we must gain control of Server
+Tower's equipment."
+"3db3c17e","Well, we'll be keeping it steady back here. This one's up to
+you!"
+"3dd2e675","I finally Digivolved into a Guilmon! There's a long way left
+to go yet, but I feel strangely unhurried about it..."
+"3cd2e482","Maybe it's because I can feel how much more deeply Kouta and
+I have bonded now."
+"ea8eeaa","Kouta and Yukimura...acting grown-up?! Am I getting left
+behind?!"
+"7d67455d","Everything's fine here. Go take care of things with Himari!"

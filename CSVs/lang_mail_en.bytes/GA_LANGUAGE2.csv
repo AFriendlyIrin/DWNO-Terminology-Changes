@@ -1,0 +1,3535 @@
+"Hash","string"
+"mailCode0","<title>Title 0</title><body>Body 0000</body>"
+"mailCode1","<title>Bringing Digimon to town...</title>
+<body>Let's start by looking on Nigh Plains
+for Digimon to call into town.
+That seems like a good place to start.
+
+But don't forget it's very dangerous.
+It will be safer to get your partner to
+Child status before heading out.</body>"
+"mailCode2","<title>Come back to town!</title>
+<body>The Digimon search is going well.
+
+Thanks to you, I have been able to get a
+lot of information from the Digimon in
+town.
+
+When you have a spare minute, why don't
+you visit me at home?</body>"
+"mailCode3","<title>South of Nigh Plains</title>
+<body>There are more humans out there...
+What a surprise!
+
+Witnesses say they're in the area of
+Power Plant #2 south of Nigh Plains.
+
+Leave the town and just head south.</body>"
+"mailCode4","<title>Thanks!</title>
+​<body>Thank you again!
+​It is a big relief that there are humans
+other than me and ​Himari</body>"
+"mailCode5","<title>It's Himari!</title>
+<body>I'm so glad we met!
+But it's really strange that someone has
+TWO Digimon partners! Really weird...</body>"
+"mailCode6","<title>Head to Logic Volcano!</title>
+<body>Taomon has a place where it can meditate
+halfway up Logic Volcano.
+
+It's to the south of Noise Storm, next
+to Server Desert west of Nigh Plains.
+Leave town and go west, south and south.
+
+It's going to be a long journey...</body>"
+"mailCode7","<title>Burying seeds</title>
+<body>Taomon is really weird... What's up with
+suddenly asking us to bury the seeds?
+
+Where can we even bury the seeds?
+
+Oh! I know! There is a place at Power
+Plant #2 in Nigh Plains where you might
+be able to bury them!</body>"
+"mailCode8","<title>Going back to Taomon's!</title>
+<body>That was a very strange flower...
+
+Let's not worry about it now and go back
+to Taomon's instead.
+We'll see you there!</body>"
+"mailCode9","<title>Back in town!</title>
+<body>My socks were blown off when I saw
+Taomon was back!
+
+Anyway, now we can work on building the
+Machinedramon Detector!
+
+I need to talk to you about it...
+Come over to my house for a quick chat!</body>"
+"mailCode10","<title>Creating a Digimon town</title>
+<body>I still need some time before the
+Machinedramon Detector is ready.
+
+Until then, you should keep looking for
+Digimon to live in the town!</body>"
+"mailCode11","<title>Coming back to town?</title>
+<body>Is the resident search going well?
+I have almost finished my Machinedramon
+Detector.
+
+Why don't you come over to see me do the
+finishing touches to it?</body>"
+"mailCode12","<title>Going to the Server Desert!</title>
+<body>I'm heading to the Dead End Town in the
+western part of the Server Desert.
+
+Leave town and just keep heading west!
+
+The sandstorms can be a real pain, but
+keep following the signs. You'll be OK!</body>"
+"mailCode13","<title>Coming back to town?</title>
+<body>Things are calmer now that there is no
+sign of the Machinedramon.
+
+Come back to town so that I can fill you
+in.</body>"
+"mailCode14","<title>Invite more Digimon to join us!</title>
+<body>Everyone just seems to be waiting around
+for some new signal.
+
+You should keep looking for residents
+until there is some new development.</body>"
+"mailCode15","<title>Back in town!</title>
+<body>The Machinedramon Detector is reacting
+to something!
+
+Hurry back to my house, right away!</body>"
+"mailCode16","<title>Going to the Server Desert!</title>
+<body>I'm going to Stepstep in the northeast
+of the Server Desert!
+
+Leave town and go west, west, north!
+
+You need to be ready to fight off some
+Machinedramon again!</body>"
+"mailCode17","<title>Invite more Digimon to join us!</title>
+<body>I'm worried about what that Mirei said
+but not only do I not have any ideas...
+I also can't move from here...
+
+Right now I want us to stay focused on
+bringing more Digimon to the town.</body>"
+"mailCode18","<title>URGENT! Come back to town!</title>
+<body>{0}, we're in trouble here!
+You need to come and find me right now!</body>"
+"mailCode19","<title>I'm at Faulty Ex Machina!</title>
+<body>{0}, help me!
+I didn't listen to Himari and now I'm
+far, far away...
+I went to Faulty Ex Machina...
+I'm to the north of the Palace of
+Thorns, which is in the plains after the
+desert! Please help me!</body>"
+"mailCode20","DO NOT TRANSLATE"
+"mailCode21","<title>Come to MOD Cape.</title>
+<body>How is it going over there?
+I want to tell you something...
+Something is up with Kouta.
+Honestly, I can't handle it...
+
+I'm waiting for you at MOD Cape.
+Come as quickly as you can!</body>"
+"mailCode22","<title>Come back to town.</title>
+<body>Yukimura had been lost to the BH
+Program, just like Rikka...
+
+But thanks to you, {0},
+there was a happy ending.
+I want to hold a debriefing meeting, so
+please come over to my home.</body>"
+"mailCode23","<title>Invite more Digimon to join us!</title>
+<body>To locate the damaged part of the cable,
+we need to collect some information.
+
+If you bring more Digimon to the town,
+we'll be able to get what we need.
+Good luck!</body>
+"
+"mailCode24","<title>Come back to town.</title>
+<body>You've been doing good work!
+We have enough now to narrow down where
+exactly the cable is damaged.
+
+Can you come to Jijimon's house to take
+a look at what we've discovered?</body>"
+"mailCode25","<title>Go to Faulty Ex Machina!</title>
+​<body>The section of cable which needs repair
+​is on the east shore of Faulty Ex
+​Machina you can get there through the MOD
+​Ship 3.0.</body>"
+"mailCode26","<title>Come back to town.</title>
+<body>It looks like you've completed the
+repair. Good work!
+
+Be careful on the way home!</body>"
+"mailCode27","<title>Look for Datamon!</title>
+<body>We need Datamon's help to complete the
+antivirus program.
+
+I think Datamon is in Nigh Plains, but
+Yuramon in the town knows more about
+Datamon's precise location.</body>"
+"mailCode28","<title>See you in town?</title>
+<body>Datamon seems all right.
+I'll be waiting for your return.
+Be careful out there!</body>"
+"mailCode29","<title>Go to Server Tower.</title>
+<body>We have to stop the enemy at Server
+Tower before they get even stronger!
+
+Server Tower is southwest of the Server
+Graveyard.
+
+Leave town and go west, west, southwest,
+south and west. Be careful!</body>"
+"mailCode30","<title>Invite more Digimon!</title>
+<body>We need the help of even more residents
+to raise Floatia.
+
+The only one who can help us is you.
+You can take on the BH Program.
+
+We're counting on you!</body>"
+"mailCode31","<title>Come back to town.</title>
+<body>Thanks to you, {0}, we have
+got what we need to levitate Floatia!
+
+Everyone is so excited to see Floatia up in
+the sky!
+Come back safely!</body>"
+"mailCode32","<title>The town is floating!</title>
+<body>I can't believe we got attacked at the
+worst possible moment...
+
+But at least we levitated the town.
+To come back, use the phone booth.</body>"
+"mailCode33","<title>Waiting at Nigh Plains...</title>
+<body>If you get this... Come to the Vast
+Plateau on Nigh Plains...</body>"
+"mailCode34","<title>Come to Bony Resort.</title>
+<body>You just need to set the trap
+properly... But you need to set it up on
+the top of the mountain of Bony Resort
+to the west of Ohguino Wastelands
+in the Pink Stone House.
+
+It's a long journey so make sure you're
+well prepared.</body>"
+"mailCode35","<title>Invite more Digimon!</title>
+<body>We're not developed enough in Floatia
+for Reincarnation to be possible.
+It goes without saying that Floatia
+relies on the Digimon.
+
+So for further development, we need the
+help of even more Digimon!</body>"
+"mailCode36","<title>Come back to town!</title>
+<body>Luche has finished her analysis.
+Come to Jijimon's house to find out
+more!</body>"
+"mailCode37","<title>Invite more Digimon!</title>
+<body>Luche was a Digimon all along...
+I really can't believe it...
+But Luche never committed a crime.
+Tsuzuki was in the wrong. 
+
+It is Tsuzuki who we really need to stop!
+And that's why we need more residents!</body>"
+"mailCode38","<title>Come back to town!</title>
+<body>The groundwork is finished.
+Now I need to tell you something
+important about the Reincarnation.
+
+Can you come over to Jijimon's house so
+we can go over it?</body>"
+"mailCode39","<title>This is the final battle!</title>
+<body>Now is our crucial test!
+You can get to the Singular Zone from
+Ruins Lake in Nigh Plains!
+
+This will be the very final battle.
+Make sure that your Digimon are ready!
+We're all counting on you!</body>"
+"mailCode40","<title>To Infinite Cauldron!</title>
+<body>He must be at Infinite Cauldron!
+Make sure you're ready for anything!</body>"
+"mailCode41","<title>Keep going!</title>
+<body>He's run even farther than we thought.
+Keep going! We can't lose him now!</body>"
+"mailCode42","<title>To the Dimensional District!</title>
+<body>We're picking up his signal in the
+Dimensional District.
+This time, you can defeat him!
+Make sure you're ready!</body>"
+"mailCode43","<title>Thank you!</title>
+<body>We'd never have defeated him without
+you. You never fail to impress.
+But you've always been the strong one...
+Thank you, {0}.</body>"
+"mailCode44","<title>Is the population growing?</title>
+<body>I have something regarding Floatia I need to
+talk to you about.
+
+When you have a moment, please come to
+my house.
+</body>"
+"mailCode45","<title>Ask Botamon</title>
+<body>Is your Digimon search going well? I've
+picked up lots of information about
+Digimon, and asked the Botamon in my
+house to pass it on to you. If you need
+any help, go talk to him!</body>"
+"mailCode46","DO NOT TRANSLATE"
+"mailCode47","DO NOT TRANSLATE"
+"mailCode48","DO NOT TRANSLATE"
+"mailCode49","DO NOT TRANSLATE"
+"mailCode50","DO NOT TRANSLATE"
+"mailCode51","DO NOT TRANSLATE"
+"mailCode52","DO NOT TRANSLATE"
+"mailCode53","DO NOT TRANSLATE"
+"mailCode54","DO NOT TRANSLATE"
+"mailCode55","DO NOT TRANSLATE"
+"mailCode56","DO NOT TRANSLATE"
+"mailCode57","DO NOT TRANSLATE"
+"mailCode58","DO NOT TRANSLATE"
+"mailCode59","DO NOT TRANSLATE"
+"mailCode60","DO NOT TRANSLATE"
+"mailCode61","DO NOT TRANSLATE"
+"mailCode62","DO NOT TRANSLATE"
+"mailCode63","DO NOT TRANSLATE"
+"mailCode64","DO NOT TRANSLATE"
+"mailCode65","DO NOT TRANSLATE"
+"mailCode66","DO NOT TRANSLATE"
+"mailCode67","DO NOT TRANSLATE"
+"mailCode68","DO NOT TRANSLATE"
+"mailCode69","DO NOT TRANSLATE"
+"mailCode70","DO NOT TRANSLATE"
+"mailCode71","DO NOT TRANSLATE"
+"mailCode72","DO NOT TRANSLATE"
+"mailCode73","DO NOT TRANSLATE"
+"mailCode74","DO NOT TRANSLATE"
+"mailCode75","DO NOT TRANSLATE"
+"mailCode76","DO NOT TRANSLATE"
+"mailCode77","DO NOT TRANSLATE"
+"mailCode78","DO NOT TRANSLATE"
+"mailCode79","DO NOT TRANSLATE"
+"mailCode80","DO NOT TRANSLATE"
+"mailCode81","DO NOT TRANSLATE"
+"mailCode82","DO NOT TRANSLATE"
+"mailCode83","DO NOT TRANSLATE"
+"mailCode84","DO NOT TRANSLATE"
+"mailCode85","DO NOT TRANSLATE"
+"mailCode86","DO NOT TRANSLATE"
+"mailCode87","DO NOT TRANSLATE"
+"mailCode88","DO NOT TRANSLATE"
+"mailCode89","DO NOT TRANSLATE"
+"mailCode90","DO NOT TRANSLATE"
+"mailCode91","DO NOT TRANSLATE"
+"mailCode92","DO NOT TRANSLATE"
+"mailCode93","DO NOT TRANSLATE"
+"mailCode94","DO NOT TRANSLATE"
+"mailCode95","DO NOT TRANSLATE"
+"mailCode96","DO NOT TRANSLATE"
+"mailCode97","DO NOT TRANSLATE"
+"mailCode98","DO NOT TRANSLATE"
+"mailCode99","DO NOT TRANSLATE"
+"mailCode100","DO NOT TRANSLATE"
+"mailCode101","DO NOT TRANSLATE"
+"mailCode102","DO NOT TRANSLATE"
+"mailCode103","DO NOT TRANSLATE"
+"mailCode104","DO NOT TRANSLATE"
+"mailCode105","DO NOT TRANSLATE"
+"mailCode106","DO NOT TRANSLATE"
+"mailCode107","DO NOT TRANSLATE"
+"mailCode108","DO NOT TRANSLATE"
+"mailCode109","DO NOT TRANSLATE"
+"mailCode110","DO NOT TRANSLATE"
+"mailCode111","DO NOT TRANSLATE"
+"mailCode112","DO NOT TRANSLATE"
+"mailCode113","DO NOT TRANSLATE"
+"mailCode114","DO NOT TRANSLATE"
+"mailCode115","DO NOT TRANSLATE"
+"mailCode116","DO NOT TRANSLATE"
+"mailCode117","DO NOT TRANSLATE"
+"mailCode118","DO NOT TRANSLATE"
+"mailCode119","DO NOT TRANSLATE"
+"mailCode120","DO NOT TRANSLATE"
+"mailCode121","DO NOT TRANSLATE"
+"mailCode122","DO NOT TRANSLATE"
+"mailCode123","DO NOT TRANSLATE"
+"mailCode124","DO NOT TRANSLATE"
+"mailCode125","DO NOT TRANSLATE"
+"mailCode126","DO NOT TRANSLATE"
+"mailCode127","DO NOT TRANSLATE"
+"mailCode128","DO NOT TRANSLATE"
+"mailCode129","DO NOT TRANSLATE"
+"mailCode130","DO NOT TRANSLATE"
+"mailCode131","DO NOT TRANSLATE"
+"mailCode132","DO NOT TRANSLATE"
+"mailCode133","DO NOT TRANSLATE"
+"mailCode134","DO NOT TRANSLATE"
+"mailCode135","DO NOT TRANSLATE"
+"mailCode136","DO NOT TRANSLATE"
+"mailCode137","DO NOT TRANSLATE"
+"mailCode138","DO NOT TRANSLATE"
+"mailCode139","DO NOT TRANSLATE"
+"mailCode140","DO NOT TRANSLATE"
+"mailCode141","DO NOT TRANSLATE"
+"mailCode142","DO NOT TRANSLATE"
+"mailCode143","DO NOT TRANSLATE"
+"mailCode144","DO NOT TRANSLATE"
+"mailCode145","DO NOT TRANSLATE"
+"mailCode146","DO NOT TRANSLATE"
+"mailCode147","DO NOT TRANSLATE"
+"mailCode148","DO NOT TRANSLATE"
+"mailCode149","DO NOT TRANSLATE"
+"mailCode150","DO NOT TRANSLATE"
+"mailCode151","DO NOT TRANSLATE"
+"mailCode152","DO NOT TRANSLATE"
+"mailCode153","DO NOT TRANSLATE"
+"mailCode154","DO NOT TRANSLATE"
+"mailCode155","DO NOT TRANSLATE"
+"mailCode156","DO NOT TRANSLATE"
+"mailCode157","DO NOT TRANSLATE"
+"mailCode158","DO NOT TRANSLATE"
+"mailCode159","DO NOT TRANSLATE"
+"mailCode160","DO NOT TRANSLATE"
+"mailCode161","DO NOT TRANSLATE"
+"mailCode162","DO NOT TRANSLATE"
+"mailCode163","DO NOT TRANSLATE"
+"mailCode164","DO NOT TRANSLATE"
+"mailCode165","DO NOT TRANSLATE"
+"mailCode166","DO NOT TRANSLATE"
+"mailCode167","DO NOT TRANSLATE"
+"mailCode168","DO NOT TRANSLATE"
+"mailCode169","DO NOT TRANSLATE"
+"mailCode170","DO NOT TRANSLATE"
+"mailCode171","DO NOT TRANSLATE"
+"mailCode172","DO NOT TRANSLATE"
+"mailCode173","DO NOT TRANSLATE"
+"mailCode174","DO NOT TRANSLATE"
+"mailCode175","DO NOT TRANSLATE"
+"mailCode176","DO NOT TRANSLATE"
+"mailCode177","DO NOT TRANSLATE"
+"mailCode178","DO NOT TRANSLATE"
+"mailCode179","DO NOT TRANSLATE"
+"mailCode180","DO NOT TRANSLATE"
+"mailCode181","DO NOT TRANSLATE"
+"mailCode182","DO NOT TRANSLATE"
+"mailCode183","DO NOT TRANSLATE"
+"mailCode184","DO NOT TRANSLATE"
+"mailCode185","DO NOT TRANSLATE"
+"mailCode186","DO NOT TRANSLATE"
+"mailCode187","DO NOT TRANSLATE"
+"mailCode188","DO NOT TRANSLATE"
+"mailCode189","DO NOT TRANSLATE"
+"mailCode190","DO NOT TRANSLATE"
+"mailCode191","DO NOT TRANSLATE"
+"mailCode192","DO NOT TRANSLATE"
+"mailCode193","DO NOT TRANSLATE"
+"mailCode194","DO NOT TRANSLATE"
+"mailCode195","DO NOT TRANSLATE"
+"mailCode196","DO NOT TRANSLATE"
+"mailCode197","DO NOT TRANSLATE"
+"mailCode198","DO NOT TRANSLATE"
+"mailCode199","DO NOT TRANSLATE"
+"mailCode200","DO NOT TRANSLATE"
+"mailCode201","DO NOT TRANSLATE"
+"mailCode202","DO NOT TRANSLATE"
+"mailCode203","DO NOT TRANSLATE"
+"mailCode204","DO NOT TRANSLATE"
+"mailCode205","DO NOT TRANSLATE"
+"mailCode206","DO NOT TRANSLATE"
+"mailCode207","DO NOT TRANSLATE"
+"mailCode208","DO NOT TRANSLATE"
+"mailCode209","DO NOT TRANSLATE"
+"mailCode210","DO NOT TRANSLATE"
+"mailCode211","DO NOT TRANSLATE"
+"mailCode212","DO NOT TRANSLATE"
+"mailCode213","DO NOT TRANSLATE"
+"mailCode214","DO NOT TRANSLATE"
+"mailCode215","DO NOT TRANSLATE"
+"mailCode216","DO NOT TRANSLATE"
+"mailCode217","DO NOT TRANSLATE"
+"mailCode218","DO NOT TRANSLATE"
+"mailCode219","DO NOT TRANSLATE"
+"mailCode220","DO NOT TRANSLATE"
+"mailCode221","DO NOT TRANSLATE"
+"mailCode222","DO NOT TRANSLATE"
+"mailCode223","DO NOT TRANSLATE"
+"mailCode224","DO NOT TRANSLATE"
+"mailCode225","DO NOT TRANSLATE"
+"mailCode226","DO NOT TRANSLATE"
+"mailCode227","DO NOT TRANSLATE"
+"mailCode228","DO NOT TRANSLATE"
+"mailCode229","DO NOT TRANSLATE"
+"mailCode230","DO NOT TRANSLATE"
+"mailCode231","DO NOT TRANSLATE"
+"mailCode232","DO NOT TRANSLATE"
+"mailCode233","DO NOT TRANSLATE"
+"mailCode234","DO NOT TRANSLATE"
+"mailCode235","DO NOT TRANSLATE"
+"mailCode236","DO NOT TRANSLATE"
+"mailCode237","DO NOT TRANSLATE"
+"mailCode238","DO NOT TRANSLATE"
+"mailCode239","DO NOT TRANSLATE"
+"mailCode240","DO NOT TRANSLATE"
+"mailCode241","DO NOT TRANSLATE"
+"mailCode242","DO NOT TRANSLATE"
+"mailCode243","DO NOT TRANSLATE"
+"mailCode244","DO NOT TRANSLATE"
+"mailCode245","DO NOT TRANSLATE"
+"mailCode246","DO NOT TRANSLATE"
+"mailCode247","DO NOT TRANSLATE"
+"mailCode248","DO NOT TRANSLATE"
+"mailCode249","DO NOT TRANSLATE"
+"mailCode250","DO NOT TRANSLATE"
+"mailCode251","DO NOT TRANSLATE"
+"mailCode252","DO NOT TRANSLATE"
+"mailCode253","DO NOT TRANSLATE"
+"mailCode254","DO NOT TRANSLATE"
+"mailCode255","DO NOT TRANSLATE"
+"mailCode256","DO NOT TRANSLATE"
+"mailCode257","DO NOT TRANSLATE"
+"mailCode258","DO NOT TRANSLATE"
+"mailCode259","DO NOT TRANSLATE"
+"mailCode260","DO NOT TRANSLATE"
+"mailCode261","DO NOT TRANSLATE"
+"mailCode262","DO NOT TRANSLATE"
+"mailCode263","DO NOT TRANSLATE"
+"mailCode264","DO NOT TRANSLATE"
+"mailCode265","DO NOT TRANSLATE"
+"mailCode266","DO NOT TRANSLATE"
+"mailCode267","DO NOT TRANSLATE"
+"mailCode268","DO NOT TRANSLATE"
+"mailCode269","DO NOT TRANSLATE"
+"mailCode270","DO NOT TRANSLATE"
+"mailCode271","DO NOT TRANSLATE"
+"mailCode272","DO NOT TRANSLATE"
+"mailCode273","DO NOT TRANSLATE"
+"mailCode274","DO NOT TRANSLATE"
+"mailCode275","DO NOT TRANSLATE"
+"mailCode276","DO NOT TRANSLATE"
+"mailCode277","DO NOT TRANSLATE"
+"mailCode278","DO NOT TRANSLATE"
+"mailCode279","DO NOT TRANSLATE"
+"mailCode280","DO NOT TRANSLATE"
+"mailCode281","DO NOT TRANSLATE"
+"mailCode282","DO NOT TRANSLATE"
+"mailCode283","DO NOT TRANSLATE"
+"mailCode284","DO NOT TRANSLATE"
+"mailCode285","DO NOT TRANSLATE"
+"mailCode286","DO NOT TRANSLATE"
+"mailCode287","DO NOT TRANSLATE"
+"mailCode288","DO NOT TRANSLATE"
+"mailCode289","DO NOT TRANSLATE"
+"mailCode290","DO NOT TRANSLATE"
+"mailCode291","DO NOT TRANSLATE"
+"mailCode292","DO NOT TRANSLATE"
+"mailCode293","DO NOT TRANSLATE"
+"mailCode294","DO NOT TRANSLATE"
+"mailCode295","DO NOT TRANSLATE"
+"mailCode296","DO NOT TRANSLATE"
+"mailCode297","DO NOT TRANSLATE"
+"mailCode298","DO NOT TRANSLATE"
+"mailCode299","DO NOT TRANSLATE"
+"mailCode300","DO NOT TRANSLATE"
+"mailCode301","DO NOT TRANSLATE"
+"mailCode302","DO NOT TRANSLATE"
+"mailCode303","DO NOT TRANSLATE"
+"mailCode304","DO NOT TRANSLATE"
+"mailCode305","DO NOT TRANSLATE"
+"mailCode306","DO NOT TRANSLATE"
+"mailCode307","DO NOT TRANSLATE"
+"mailCode308","DO NOT TRANSLATE"
+"mailCode309","DO NOT TRANSLATE"
+"mailCode310","DO NOT TRANSLATE"
+"mailCode311","DO NOT TRANSLATE"
+"mailCode312","DO NOT TRANSLATE"
+"mailCode313","DO NOT TRANSLATE"
+"mailCode314","DO NOT TRANSLATE"
+"mailCode315","DO NOT TRANSLATE"
+"mailCode316","DO NOT TRANSLATE"
+"mailCode317","DO NOT TRANSLATE"
+"mailCode318","DO NOT TRANSLATE"
+"mailCode319","DO NOT TRANSLATE"
+"mailCode320","DO NOT TRANSLATE"
+"mailCode321","DO NOT TRANSLATE"
+"mailCode322","DO NOT TRANSLATE"
+"mailCode323","DO NOT TRANSLATE"
+"mailCode324","DO NOT TRANSLATE"
+"mailCode325","DO NOT TRANSLATE"
+"mailCode326","DO NOT TRANSLATE"
+"mailCode327","DO NOT TRANSLATE"
+"mailCode328","DO NOT TRANSLATE"
+"mailCode329","DO NOT TRANSLATE"
+"mailCode330","DO NOT TRANSLATE"
+"mailCode331","DO NOT TRANSLATE"
+"mailCode332","DO NOT TRANSLATE"
+"mailCode333","DO NOT TRANSLATE"
+"mailCode334","DO NOT TRANSLATE"
+"mailCode335","DO NOT TRANSLATE"
+"mailCode336","DO NOT TRANSLATE"
+"mailCode337","DO NOT TRANSLATE"
+"mailCode338","DO NOT TRANSLATE"
+"mailCode339","DO NOT TRANSLATE"
+"mailCode340","DO NOT TRANSLATE"
+"mailCode341","DO NOT TRANSLATE"
+"mailCode342","DO NOT TRANSLATE"
+"mailCode343","DO NOT TRANSLATE"
+"mailCode344","DO NOT TRANSLATE"
+"mailCode345","DO NOT TRANSLATE"
+"mailCode346","DO NOT TRANSLATE"
+"mailCode347","DO NOT TRANSLATE"
+"mailCode348","DO NOT TRANSLATE"
+"mailCode349","DO NOT TRANSLATE"
+"mailCode350","DO NOT TRANSLATE"
+"mailCode351","DO NOT TRANSLATE"
+"mailCode352","DO NOT TRANSLATE"
+"mailCode353","DO NOT TRANSLATE"
+"mailCode354","DO NOT TRANSLATE"
+"mailCode355","DO NOT TRANSLATE"
+"mailCode356","DO NOT TRANSLATE"
+"mailCode357","DO NOT TRANSLATE"
+"mailCode358","DO NOT TRANSLATE"
+"mailCode359","DO NOT TRANSLATE"
+"mailCode360","DO NOT TRANSLATE"
+"mailCode361","DO NOT TRANSLATE"
+"mailCode362","DO NOT TRANSLATE"
+"mailCode363","DO NOT TRANSLATE"
+"mailCode364","DO NOT TRANSLATE"
+"mailCode365","DO NOT TRANSLATE"
+"mailCode366","DO NOT TRANSLATE"
+"mailCode367","DO NOT TRANSLATE"
+"mailCode368","DO NOT TRANSLATE"
+"mailCode369","DO NOT TRANSLATE"
+"mailCode370","DO NOT TRANSLATE"
+"mailCode371","DO NOT TRANSLATE"
+"mailCode372","DO NOT TRANSLATE"
+"mailCode373","DO NOT TRANSLATE"
+"mailCode374","DO NOT TRANSLATE"
+"mailCode375","DO NOT TRANSLATE"
+"mailCode376","DO NOT TRANSLATE"
+"mailCode377","DO NOT TRANSLATE"
+"mailCode378","DO NOT TRANSLATE"
+"mailCode379","DO NOT TRANSLATE"
+"mailCode380","DO NOT TRANSLATE"
+"mailCode381","DO NOT TRANSLATE"
+"mailCode382","DO NOT TRANSLATE"
+"mailCode383","DO NOT TRANSLATE"
+"mailCode384","DO NOT TRANSLATE"
+"mailCode385","DO NOT TRANSLATE"
+"mailCode386","DO NOT TRANSLATE"
+"mailCode387","DO NOT TRANSLATE"
+"mailCode388","DO NOT TRANSLATE"
+"mailCode389","DO NOT TRANSLATE"
+"mailCode390","DO NOT TRANSLATE"
+"mailCode391","DO NOT TRANSLATE"
+"mailCode392","DO NOT TRANSLATE"
+"mailCode393","DO NOT TRANSLATE"
+"mailCode394","DO NOT TRANSLATE"
+"mailCode395","DO NOT TRANSLATE"
+"mailCode396","DO NOT TRANSLATE"
+"mailCode397","DO NOT TRANSLATE"
+"mailCode398","DO NOT TRANSLATE"
+"mailCode399","DO NOT TRANSLATE"
+"mailCode400","DO NOT TRANSLATE"
+"mailCode401","DO NOT TRANSLATE"
+"mailCode402","DO NOT TRANSLATE"
+"mailCode403","DO NOT TRANSLATE"
+"mailCode404","DO NOT TRANSLATE"
+"mailCode405","DO NOT TRANSLATE"
+"mailCode406","DO NOT TRANSLATE"
+"mailCode407","DO NOT TRANSLATE"
+"mailCode408","DO NOT TRANSLATE"
+"mailCode409","DO NOT TRANSLATE"
+"mailCode410","DO NOT TRANSLATE"
+"mailCode411","DO NOT TRANSLATE"
+"mailCode412","DO NOT TRANSLATE"
+"mailCode413","DO NOT TRANSLATE"
+"mailCode414","DO NOT TRANSLATE"
+"mailCode415","DO NOT TRANSLATE"
+"mailCode416","DO NOT TRANSLATE"
+"mailCode417","DO NOT TRANSLATE"
+"mailCode418","DO NOT TRANSLATE"
+"mailCode419","DO NOT TRANSLATE"
+"mailCode420","DO NOT TRANSLATE"
+"mailCode421","DO NOT TRANSLATE"
+"mailCode422","DO NOT TRANSLATE"
+"mailCode423","DO NOT TRANSLATE"
+"mailCode424","DO NOT TRANSLATE"
+"mailCode425","DO NOT TRANSLATE"
+"mailCode426","DO NOT TRANSLATE"
+"mailCode427","DO NOT TRANSLATE"
+"mailCode428","DO NOT TRANSLATE"
+"mailCode429","DO NOT TRANSLATE"
+"mailCode430","DO NOT TRANSLATE"
+"mailCode431","DO NOT TRANSLATE"
+"mailCode432","DO NOT TRANSLATE"
+"mailCode433","DO NOT TRANSLATE"
+"mailCode434","DO NOT TRANSLATE"
+"mailCode435","DO NOT TRANSLATE"
+"mailCode436","DO NOT TRANSLATE"
+"mailCode437","DO NOT TRANSLATE"
+"mailCode438","DO NOT TRANSLATE"
+"mailCode439","DO NOT TRANSLATE"
+"mailCode440","DO NOT TRANSLATE"
+"mailCode441","DO NOT TRANSLATE"
+"mailCode442","DO NOT TRANSLATE"
+"mailCode443","DO NOT TRANSLATE"
+"mailCode444","DO NOT TRANSLATE"
+"mailCode445","DO NOT TRANSLATE"
+"mailCode446","DO NOT TRANSLATE"
+"mailCode447","DO NOT TRANSLATE"
+"mailCode448","DO NOT TRANSLATE"
+"mailCode449","DO NOT TRANSLATE"
+"mailCode450","DO NOT TRANSLATE"
+"mailCode451","DO NOT TRANSLATE"
+"mailCode452","DO NOT TRANSLATE"
+"mailCode453","DO NOT TRANSLATE"
+"mailCode454","DO NOT TRANSLATE"
+"mailCode455","DO NOT TRANSLATE"
+"mailCode456","DO NOT TRANSLATE"
+"mailCode457","DO NOT TRANSLATE"
+"mailCode458","DO NOT TRANSLATE"
+"mailCode459","DO NOT TRANSLATE"
+"mailCode460","DO NOT TRANSLATE"
+"mailCode461","DO NOT TRANSLATE"
+"mailCode462","DO NOT TRANSLATE"
+"mailCode463","DO NOT TRANSLATE"
+"mailCode464","DO NOT TRANSLATE"
+"mailCode465","DO NOT TRANSLATE"
+"mailCode466","DO NOT TRANSLATE"
+"mailCode467","DO NOT TRANSLATE"
+"mailCode468","DO NOT TRANSLATE"
+"mailCode469","DO NOT TRANSLATE"
+"mailCode470","DO NOT TRANSLATE"
+"mailCode471","DO NOT TRANSLATE"
+"mailCode472","DO NOT TRANSLATE"
+"mailCode473","DO NOT TRANSLATE"
+"mailCode474","DO NOT TRANSLATE"
+"mailCode475","DO NOT TRANSLATE"
+"mailCode476","DO NOT TRANSLATE"
+"mailCode477","DO NOT TRANSLATE"
+"mailCode478","DO NOT TRANSLATE"
+"mailCode479","DO NOT TRANSLATE"
+"mailCode480","DO NOT TRANSLATE"
+"mailCode481","DO NOT TRANSLATE"
+"mailCode482","DO NOT TRANSLATE"
+"mailCode483","DO NOT TRANSLATE"
+"mailCode484","DO NOT TRANSLATE"
+"mailCode485","DO NOT TRANSLATE"
+"mailCode486","DO NOT TRANSLATE"
+"mailCode487","DO NOT TRANSLATE"
+"mailCode488","DO NOT TRANSLATE"
+"mailCode489","DO NOT TRANSLATE"
+"mailCode490","DO NOT TRANSLATE"
+"mailCode491","DO NOT TRANSLATE"
+"mailCode492","DO NOT TRANSLATE"
+"mailCode493","DO NOT TRANSLATE"
+"mailCode494","DO NOT TRANSLATE"
+"mailCode495","DO NOT TRANSLATE"
+"mailCode496","DO NOT TRANSLATE"
+"mailCode497","DO NOT TRANSLATE"
+"mailCode498","DO NOT TRANSLATE"
+"mailCode499","DO NOT TRANSLATE"
+"mailCode500","<title>Going back to town...</title>
+<body>I'm going back to town to see what I can
+do there.
+{0}, keep trying your best, too!</body>"
+"mailCode501","DO NOT TRANSLATE"
+"mailCode502","DO NOT TRANSLATE"
+"mailCode503","<title>I want to fly in the sky!</title>
+<body>There must be a Digimon who can
+teach me! I need you to find that
+Digimon!
+
+If I could meet them in town, that would be great!</body>"
+"mailCode504","DO NOT TRANSLATE"
+"mailCode505","DO NOT TRANSLATE"
+"mailCode506","<title>A stick...</title>
+<body>I need a stick that I can use as a
+fishing rod...
+Looking forward to it!</body>"
+"mailCode507","DO NOT TRANSLATE"
+"mailCode508","DO NOT TRANSLATE"
+"mailCode509","<title>Delicious meat...</title>
+<body>Don't forget:
+Cheerful Apple, Digistalk, 
+and Salty Fruit!</body>"
+"mailCode510","DO NOT TRANSLATE"
+"mailCode511","DO NOT TRANSLATE"
+"mailCode512","DO NOT TRANSLATE"
+"mailCode513","DO NOT TRANSLATE"
+"mailCode514","DO NOT TRANSLATE"
+"mailCode515","<title>Please!</title>
+<body>Digicarp!
+I don't need anything else.
+Looking forward to good news...</body>"
+"mailCode516","DO NOT TRANSLATE"
+"mailCode517","DO NOT TRANSLATE"
+"mailCode518","<title>I'm hungry...</title>
+<body>I'm really starving!
+Please... Find me...
+five Green Digistalks...</body>"
+"mailCode519","DO NOT TRANSLATE"
+"mailCode520","DO NOT TRANSLATE"
+"mailCode521","DO NOT TRANSLATE"
+"mailCode522","DO NOT TRANSLATE"
+"mailCode523","DO NOT TRANSLATE"
+"mailCode524","<title>Please help me...</title>
+<body>You can find Royal Digijelly on the
+forest paths in Nigh Plains.
+You're the only one who can help me...
+Please!</body>"
+"mailCode525","DO NOT TRANSLATE"
+"mailCode526","DO NOT TRANSLATE"
+"mailCode527","DO NOT TRANSLATE"
+"mailCode528","DO NOT TRANSLATE"
+"mailCode529","DO NOT TRANSLATE"
+"mailCode530","DO NOT TRANSLATE"
+"mailCode531","DO NOT TRANSLATE"
+"mailCode532","DO NOT TRANSLATE"
+"mailCode533","DO NOT TRANSLATE"
+"mailCode534","DO NOT TRANSLATE"
+"mailCode535","DO NOT TRANSLATE"
+"mailCode536","<title>Togemon is a blockhead!</title>
+<body>I'm not coming back to town until
+Togemon apologizes!</body>"
+"mailCode537","DO NOT TRANSLATE"
+"mailCode538","DO NOT TRANSLATE"
+"mailCode539","<title>Help me!</title>
+<body>Veemon can be so reckless!
+Veemon needs to be nicer!
+
+I think Veemon must be in the Noise
+Storm at Server Desert.... Please help!</body>"
+"mailCode540","DO NOT TRANSLATE"
+"mailCode541","DO NOT TRANSLATE"
+"mailCode542","<title>Magma Lozenge!</title>
+<body>Bring back the Magma Lozenge dropped
+somewhere on the Logic Volcano!
+Thanks!</body>"
+"mailCode543","DO NOT TRANSLATE"
+"mailCode544","DO NOT TRANSLATE"
+"mailCode545","DO NOT TRANSLATE"
+"mailCode546","DO NOT TRANSLATE"
+"mailCode547","DO NOT TRANSLATE"
+"mailCode548","DO NOT TRANSLATE"
+"mailCode549","DO NOT TRANSLATE"
+"mailCode550","DO NOT TRANSLATE"
+"mailCode551","<title>I need Cyber Grease!</title>
+<body>You can find Cyber Grease in the Server
+Desert.
+I think Gargomon has it.
+I'm counting on you!</body>"
+"mailCode552","DO NOT TRANSLATE"
+"mailCode553","DO NOT TRANSLATE"
+"mailCode554","DO NOT TRANSLATE"
+"mailCode555","DO NOT TRANSLATE"
+"mailCode556","DO NOT TRANSLATE"
+"mailCode557","DO NOT TRANSLATE"
+"mailCode558","DO NOT TRANSLATE"
+"mailCode559","DO NOT TRANSLATE"
+"mailCode560","DO NOT TRANSLATE"
+"mailCode561","DO NOT TRANSLATE"
+"mailCode562","DO NOT TRANSLATE"
+"mailCode563","DO NOT TRANSLATE"
+"mailCode564","DO NOT TRANSLATE"
+"mailCode565","DO NOT TRANSLATE"
+"mailCode566","DO NOT TRANSLATE"
+"mailCode567","DO NOT TRANSLATE"
+"mailCode568","DO NOT TRANSLATE"
+"mailCode569","DO NOT TRANSLATE"
+"mailCode570","DO NOT TRANSLATE"
+"mailCode571","DO NOT TRANSLATE"
+"mailCode572","DO NOT TRANSLATE"
+"mailCode573","DO NOT TRANSLATE"
+"mailCode574","DO NOT TRANSLATE"
+"mailCode575","DO NOT TRANSLATE"
+"mailCode576","DO NOT TRANSLATE"
+"mailCode577","DO NOT TRANSLATE"
+"mailCode578","DO NOT TRANSLATE"
+"mailCode579","DO NOT TRANSLATE"
+"mailCode580","DO NOT TRANSLATE"
+"mailCode581","DO NOT TRANSLATE"
+"mailCode582","DO NOT TRANSLATE"
+"mailCode583","DO NOT TRANSLATE"
+"mailCode584","DO NOT TRANSLATE"
+"mailCode585","DO NOT TRANSLATE"
+"mailCode586","DO NOT TRANSLATE"
+"mailCode587","DO NOT TRANSLATE"
+"mailCode588","DO NOT TRANSLATE"
+"mailCode589","DO NOT TRANSLATE"
+"mailCode590","DO NOT TRANSLATE"
+"mailCode591","DO NOT TRANSLATE"
+"mailCode592","DO NOT TRANSLATE"
+"mailCode593","DO NOT TRANSLATE"
+"mailCode594","DO NOT TRANSLATE"
+"mailCode595","DO NOT TRANSLATE"
+"mailCode596","DO NOT TRANSLATE"
+"mailCode597","DO NOT TRANSLATE"
+"mailCode598","DO NOT TRANSLATE"
+"mailCode599","DO NOT TRANSLATE"
+"mailCode600","DO NOT TRANSLATE"
+"mailCode601","DO NOT TRANSLATE"
+"mailCode602","<title>Stop him!</title>
+<body>The world is facing Armageddon!
+
+The Dragon Emperor Examon is in the
+Flame Lands of Logic Volcano.
+Now is our chance to stop the violence!
+
+I would go myself, but I must leave this
+up to you! Good luck!</body>"
+"mailCode603","DO NOT TRANSLATE"
+"mailCode604","DO NOT TRANSLATE"
+"mailCode605","DO NOT TRANSLATE"
+"mailCode606","DO NOT TRANSLATE"
+"mailCode607","DO NOT TRANSLATE"
+"mailCode608","DO NOT TRANSLATE"
+"mailCode609","DO NOT TRANSLATE"
+"mailCode610","DO NOT TRANSLATE"
+"mailCode611","DO NOT TRANSLATE"
+"mailCode612","DO NOT TRANSLATE"
+"mailCode613","DO NOT TRANSLATE"
+"mailCode614","DO NOT TRANSLATE"
+"mailCode615","DO NOT TRANSLATE"
+"mailCode616","DO NOT TRANSLATE"
+"mailCode617","DO NOT TRANSLATE"
+"mailCode618","DO NOT TRANSLATE"
+"mailCode619","DO NOT TRANSLATE"
+"mailCode620","DO NOT TRANSLATE"
+"mailCode621","DO NOT TRANSLATE"
+"mailCode622","DO NOT TRANSLATE"
+"mailCode623","DO NOT TRANSLATE"
+"mailCode624","DO NOT TRANSLATE"
+"mailCode625","DO NOT TRANSLATE"
+"mailCode626","DO NOT TRANSLATE"
+"mailCode627","DO NOT TRANSLATE"
+"mailCode628","DO NOT TRANSLATE"
+"mailCode629","<title>Meat sandbags</title>
+<body>Instead of Sandbags, bring me 20 Hunks
+of Meat!</body>"
+"mailCode630","DO NOT TRANSLATE"
+"mailCode631","DO NOT TRANSLATE"
+"mailCode632","<title>I want meat...</title>
+<body>If you bring me 20 pieces of Rotten
+Meat, I'll let you through the tunnel!</body>"
+"mailCode633","DO NOT TRANSLATE"
+"mailCode634","DO NOT TRANSLATE"
+"mailCode635","<title>Proof of Meat</title>
+<body>If you bring 20 pieces of the Best Meat,
+I will believe you and let you through
+the tunnel.</body>"
+"mailCode636","DO NOT TRANSLATE"
+"mailCode637","DO NOT TRANSLATE"
+"mailCode638","DO NOT TRANSLATE"
+"mailCode639","DO NOT TRANSLATE"
+"mailCode640","DO NOT TRANSLATE"
+"mailCode641","DO NOT TRANSLATE"
+"mailCode642","DO NOT TRANSLATE"
+"mailCode643","DO NOT TRANSLATE"
+"mailCode644","<title>The Ohguino Wastelands...</title>
+<body>We need to first understand what the
+Ohguino Wastelands are really like!
+If possible, get some information from
+the Veggie Troops!</body>"
+"mailCode645","DO NOT TRANSLATE"
+"mailCode646","DO NOT TRANSLATE"
+"mailCode647","DO NOT TRANSLATE"
+"mailCode648","DO NOT TRANSLATE"
+"mailCode649","DO NOT TRANSLATE"
+"mailCode650","DO NOT TRANSLATE"
+"mailCode651","DO NOT TRANSLATE"
+"mailCode652","DO NOT TRANSLATE"
+"mailCode653","<title>Retake the fields!</title>
+<body>Expel the Vegiemon who are occupying the
+fields of the Palace of Thorns.
+Retake what is ours!</body>"
+"mailCode654","DO NOT TRANSLATE"
+"mailCode655","DO NOT TRANSLATE"
+"mailCode656","DO NOT TRANSLATE"
+"mailCode657","DO NOT TRANSLATE"
+"mailCode658","DO NOT TRANSLATE"
+"mailCode659","DO NOT TRANSLATE"
+"mailCode660","DO NOT TRANSLATE"
+"mailCode661","DO NOT TRANSLATE"
+"mailCode662","<title>Help me!</title>
+<body>My worries are so grave...
+I can't get any sleep...
+I need the item to solve my troubles.
+
+Don't forget... Please...</body>"
+"mailCode663","DO NOT TRANSLATE"
+"mailCode664","DO NOT TRANSLATE"
+"mailCode665","DO NOT TRANSLATE"
+"mailCode666","DO NOT TRANSLATE"
+"mailCode667","<title>I'll keep my promise!</title>
+<body>My body is finally fully healed!
+I'm sorry I made you wait.
+But now I can finally fulfil my promise.
+I will move to the town and help you...
+I can't wait to see you again!
+</body>"
+"mailCode668","<title>The Holy Chalice</title>
+<body>Bring me Vikemon's treasure...
+Bring me the Holy Chalice! I'll split it
+with you! So don't run off!</body>"
+"mailCode669","DO NOT TRANSLATE"
+"mailCode670","DO NOT TRANSLATE"
+"mailCode671","DO NOT TRANSLATE"
+"mailCode672","DO NOT TRANSLATE"
+"mailCode673","DO NOT TRANSLATE"
+"mailCode674","<title>Pond fish</title>
+<body>I need Digifry, Digicrucians, and
+Digikoi for my fishing pond.
+Please catch some for me!</body>"
+"mailCode675","DO NOT TRANSLATE"
+"mailCode676","DO NOT TRANSLATE"
+"mailCode677","<title>I need an autograph!</title>
+<body>Will you bring me the amazing Magnamon's
+autograph?
+Ask Veedramon in Absolute Zero where you
+can find Magnamon!</body>"
+"mailCode678","DO NOT TRANSLATE"
+"mailCode679","DO NOT TRANSLATE"
+"mailCode680","<title>Deliver a letter!</title>
+<body>I need you to take a letter to
+MegaKabuterimon... MegaKabuterimon is
+somewhere...in this world... Thanks!</body>"
+"mailCode681","DO NOT TRANSLATE"
+"mailCode682","DO NOT TRANSLATE"
+"mailCode683","DO NOT TRANSLATE"
+"mailCode684","DO NOT TRANSLATE"
+"mailCode685","DO NOT TRANSLATE"
+"mailCode686","<title>My pupil...</title>
+<body>Can you tell Gumdramon I'm sorry and
+bring him back! I think you'll find him
+at Logic Volcano!</body>"
+"mailCode687","DO NOT TRANSLATE"
+"mailCode688","DO NOT TRANSLATE"
+"mailCode689","DO NOT TRANSLATE"
+"mailCode690","DO NOT TRANSLATE"
+"mailCode691","DO NOT TRANSLATE"
+"mailCode692","DO NOT TRANSLATE"
+"mailCode693","DO NOT TRANSLATE"
+"mailCode694","DO NOT TRANSLATE"
+"mailCode695","DO NOT TRANSLATE"
+"mailCode696","DO NOT TRANSLATE"
+"mailCode697","DO NOT TRANSLATE"
+"mailCode698","DO NOT TRANSLATE"
+"mailCode699","DO NOT TRANSLATE"
+"mailCode700","DO NOT TRANSLATE"
+"mailCode701","DO NOT TRANSLATE"
+"mailCode702","DO NOT TRANSLATE"
+"mailCode703","DO NOT TRANSLATE"
+"mailCode704","DO NOT TRANSLATE"
+"mailCode705","DO NOT TRANSLATE"
+"mailCode706","DO NOT TRANSLATE"
+"mailCode707","DO NOT TRANSLATE"
+"mailCode708","DO NOT TRANSLATE"
+"mailCode709","DO NOT TRANSLATE"
+"mailCode710","<title>Bring me a Haguru Gear</title>
+<body>Please bring me the Haguru Gear I need.
+The Hagurumon with the gear is in the
+control room of Faulty Ex Machina.</body>"
+"mailCode711","DO NOT TRANSLATE"
+"mailCode712","DO NOT TRANSLATE"
+"mailCode713","DO NOT TRANSLATE"
+"mailCode714","DO NOT TRANSLATE"
+"mailCode715","DO NOT TRANSLATE"
+"mailCode716","DO NOT TRANSLATE"
+"mailCode717","DO NOT TRANSLATE"
+"mailCode718","DO NOT TRANSLATE"
+"mailCode719","<title>Digimon arbitration!</title>
+<body>We need to stop this fight between
+MetalGreymon and MetalTyrannomon.
+I've totally given up!</body>"
+"mailCode720","DO NOT TRANSLATE"
+"mailCode721","DO NOT TRANSLATE"
+"mailCode722","DO NOT TRANSLATE"
+"mailCode723","DO NOT TRANSLATE"
+"mailCode724","DO NOT TRANSLATE"
+"mailCode725","DO NOT TRANSLATE"
+"mailCode726","DO NOT TRANSLATE"
+"mailCode727","DO NOT TRANSLATE"
+"mailCode728","<title>Lost phone...</title>
+​<body>Please bring my homemade phone back from
+​Boulder Island in Faulty Ex Machina, where
+​I dropped it!</body>"
+"mailCode729","DO NOT TRANSLATE"
+"mailCode730","DO NOT TRANSLATE"
+"mailCode731","DO NOT TRANSLATE"
+"mailCode732","DO NOT TRANSLATE"
+"mailCode733","DO NOT TRANSLATE"
+"mailCode734","DO NOT TRANSLATE"
+"mailCode735","DO NOT TRANSLATE"
+"mailCode736","DO NOT TRANSLATE"
+"mailCode737","DO NOT TRANSLATE"
+"mailCode738","DO NOT TRANSLATE"
+"mailCode739","DO NOT TRANSLATE"
+"mailCode740","DO NOT TRANSLATE"
+"mailCode741","DO NOT TRANSLATE"
+"mailCode742","DO NOT TRANSLATE"
+"mailCode743","<title>My block...</title>
+<body>Can you get back my body block, which
+Monzaemon took?
+
+Monzaemon is probably somewhere in Bony
+Resort...
+</body>"
+"mailCode744","DO NOT TRANSLATE"
+"mailCode745","DO NOT TRANSLATE"
+"mailCode746","DO NOT TRANSLATE"
+"mailCode747","DO NOT TRANSLATE"
+"mailCode748","DO NOT TRANSLATE"
+"mailCode749","DO NOT TRANSLATE"
+"mailCode750","DO NOT TRANSLATE"
+"mailCode751","DO NOT TRANSLATE"
+"mailCode752","<title>Help please!</title>
+<body>Garurumon should be somewhere in the
+Ohguino Wastelands.
+Somewhere around Rosemon's hobby castle.
+
+Please just find him...
+Thank you in advance.</body>"
+"mailCode753","DO NOT TRANSLATE"
+"mailCode754","DO NOT TRANSLATE"
+"mailCode755","DO NOT TRANSLATE"
+"mailCode756","DO NOT TRANSLATE"
+"mailCode757","DO NOT TRANSLATE"
+"mailCode758","<title>Recapture the Myobrella!</title>
+<body>Please bring back the Myobrella that
+Turuiemon of Logic Volcano stole away!
+This'll be easier than slicing butter!
+Butter straight from the microwave!</body>"
+"mailCode759","DO NOT TRANSLATE"
+"mailCode760","DO NOT TRANSLATE"
+"mailCode761","<title>SkullGrey Ring</title>
+<body>Can you somehow get a SkullGrey Ring
+from SkullGreymon and bring it to me?
+Find SkullGreymon in Bony Resort. You
+can do it with your negotiation skills!</body>"
+"mailCode762","DO NOT TRANSLATE"
+"mailCode763","DO NOT TRANSLATE"
+"mailCode764","DO NOT TRANSLATE"
+"mailCode765","DO NOT TRANSLATE"
+"mailCode766","DO NOT TRANSLATE"
+"mailCode767","<title>The battery's dead!</title>
+<body>The battery in my mic is dead!
+Go and get me a Digi-Battery from the
+Power Plant in Nigh Plains!</body>"
+"mailCode768","DO NOT TRANSLATE"
+"mailCode769","DO NOT TRANSLATE"
+"mailCode770","DO NOT TRANSLATE"
+"mailCode771","DO NOT TRANSLATE"
+"mailCode772","DO NOT TRANSLATE"
+"mailCode773","<title>Platinum Poop Medal</title>
+<body>There is only one Platinum Poop Medal in
+this world!
+Find it for me!</body>"
+"mailCode774","DO NOT TRANSLATE"
+"mailCode775","DO NOT TRANSLATE"
+"mailCode776","DO NOT TRANSLATE"
+"mailCode777","DO NOT TRANSLATE"
+"mailCode778","DO NOT TRANSLATE"
+"mailCode779","DO NOT TRANSLATE"
+"mailCode780","DO NOT TRANSLATE"
+"mailCode781","DO NOT TRANSLATE"
+"mailCode782","DO NOT TRANSLATE"
+"mailCode783","DO NOT TRANSLATE"
+"mailCode784","DO NOT TRANSLATE"
+"mailCode785","<title>Fishy Picture!</title>
+<body>Can you get me a Fishy Picture from a
+MegaSeadramon in MOD Cape?
+Pretty please!
+I can hardly contain my excitement!</body>"
+"mailCode786","DO NOT TRANSLATE"
+"mailCode787","DO NOT TRANSLATE"
+"mailCode788","DO NOT TRANSLATE"
+"mailCode789","DO NOT TRANSLATE"
+"mailCode790","DO NOT TRANSLATE"
+"mailCode791","<title>A worrying injury...</title>
+<body>If it doesn't get any worse, it should
+be okay, but I'm really worried!
+
+I think Hackmon is at the Garbage Pile
+at Logic Volcano...
+He seems to misunderstand me, so I can't
+go myself. Please go look in on him
+for me. Thanks!</body>"
+"mailCode792","DO NOT TRANSLATE"
+"mailCode793","DO NOT TRANSLATE"
+"mailCode794","DO NOT TRANSLATE"
+"mailCode795","DO NOT TRANSLATE"
+"mailCode796","DO NOT TRANSLATE"
+"mailCode797","DO NOT TRANSLATE"
+"mailCode798","DO NOT TRANSLATE"
+"mailCode799","DO NOT TRANSLATE"
+"mailCode800","<title>Yummy! Yummy! Yummy!</title>
+<body>I have a request!
+It's a delicious request...
+
+Do you know the Seraphimon in the Server
+Desert? You know, in Dead End Town.
+You need to get them for me!
+My mouth is watering just remembering
+the taste!</body>"
+"mailCode801","DO NOT TRANSLATE"
+"mailCode802","DO NOT TRANSLATE"
+"mailCode803","DO NOT TRANSLATE"
+"mailCode804","DO NOT TRANSLATE"
+"mailCode805","DO NOT TRANSLATE"
+"mailCode806","DO NOT TRANSLATE"
+"mailCode807","DO NOT TRANSLATE"
+"mailCode808","DO NOT TRANSLATE"
+"mailCode809","DO NOT TRANSLATE"
+"mailCode810","DO NOT TRANSLATE"
+"mailCode811","DO NOT TRANSLATE"
+"mailCode812","<title>A wicked aura...</title>
+<body>There is an aura of wickedness emanating
+from the Concealed Gorge in Absolute
+Zero! You need to get rid of it!
+I'll be praying for you!</body>"
+"mailCode813","DO NOT TRANSLATE"
+"mailCode814","DO NOT TRANSLATE"
+"mailCode815","DO NOT TRANSLATE"
+"mailCode816","DO NOT TRANSLATE"
+"mailCode817","DO NOT TRANSLATE"
+"mailCode818","DO NOT TRANSLATE"
+"mailCode819","DO NOT TRANSLATE"
+"mailCode820","DO NOT TRANSLATE"
+"mailCode821","DO NOT TRANSLATE"
+"mailCode822","DO NOT TRANSLATE"
+"mailCode823","DO NOT TRANSLATE"
+"mailCode824","DO NOT TRANSLATE"
+"mailCode825","DO NOT TRANSLATE"
+"mailCode826","DO NOT TRANSLATE"
+"mailCode827","DO NOT TRANSLATE"
+"mailCode828","DO NOT TRANSLATE"
+"mailCode829","DO NOT TRANSLATE"
+"mailCode830","DO NOT TRANSLATE"
+"mailCode831","DO NOT TRANSLATE"
+"mailCode832","DO NOT TRANSLATE"
+"mailCode833","DO NOT TRANSLATE"
+"mailCode834","DO NOT TRANSLATE"
+"mailCode835","DO NOT TRANSLATE"
+"mailCode836","DO NOT TRANSLATE"
+"mailCode837","DO NOT TRANSLATE"
+"mailCode838","DO NOT TRANSLATE"
+"mailCode839","DO NOT TRANSLATE"
+"mailCode840","DO NOT TRANSLATE"
+"mailCode841","DO NOT TRANSLATE"
+"mailCode842","DO NOT TRANSLATE"
+"mailCode843","DO NOT TRANSLATE"
+"mailCode844","DO NOT TRANSLATE"
+"mailCode845","<title>The end of the world!</title>
+<body>He is still close!
+We are getting a RustTyranomon signal
+from Layer 04 in Infinite Cauldron!
+
+We can't just do nothing about this
+destructive power... This might be our
+only chance to defeat him.
+He can't be immortal. Please...</body>"
+"mailCode846","DO NOT TRANSLATE"
+"mailCode847","DO NOT TRANSLATE"
+"mailCode848","<title>Please...</title>
+<body>Please bring me a Large Double Disk...
+
+Before I disappear... Please!</body>"
+"mailCode849","DO NOT TRANSLATE"
+"mailCode850","DO NOT TRANSLATE"
+"mailCode851","DO NOT TRANSLATE"
+"mailCode852","DO NOT TRANSLATE"
+"mailCode853","DO NOT TRANSLATE"
+"mailCode854","DO NOT TRANSLATE"
+"mailCode855","DO NOT TRANSLATE"
+"mailCode856","DO NOT TRANSLATE"
+"mailCode857","DO NOT TRANSLATE"
+"mailCode858","DO NOT TRANSLATE"
+"mailCode859","DO NOT TRANSLATE"
+"mailCode860","DO NOT TRANSLATE"
+"mailCode861","DO NOT TRANSLATE"
+"mailCode862","DO NOT TRANSLATE"
+"mailCode863","DO NOT TRANSLATE"
+"mailCode864","DO NOT TRANSLATE"
+"mailCode865","DO NOT TRANSLATE"
+"mailCode866","DO NOT TRANSLATE"
+"mailCode867","DO NOT TRANSLATE"
+"mailCode868","DO NOT TRANSLATE"
+"mailCode869","DO NOT TRANSLATE"
+"mailCode870","DO NOT TRANSLATE"
+"mailCode871","DO NOT TRANSLATE"
+"mailCode872","DO NOT TRANSLATE"
+"mailCode873","DO NOT TRANSLATE"
+"mailCode874","DO NOT TRANSLATE"
+"mailCode875","DO NOT TRANSLATE"
+"mailCode876","DO NOT TRANSLATE"
+"mailCode877","DO NOT TRANSLATE"
+"mailCode878","DO NOT TRANSLATE"
+"mailCode879","DO NOT TRANSLATE"
+"mailCode880","DO NOT TRANSLATE"
+"mailCode881","DO NOT TRANSLATE"
+"mailCode882","DO NOT TRANSLATE"
+"mailCode883","DO NOT TRANSLATE"
+"mailCode884","<title>Materials to collect</title>
+<body>Bring me Thorny Ivy growing on the outer
+walls of the Palace of Thorns in the
+Ohguino Wastelands. It must be moist ivy
+from the southern wall, so you have to
+pick it in the morning.</body>"
+"mailCode885","<title>Materials memo 2</title>
+<body>I need a Speed Chip.
+It's a precious item, so one is enough.</body>"
+"mailCode886","<title>Materials memo 3</title>
+<body>Give your partners a total of 8,000 HP!
+And raise one of your partners HP to
+8,001 or higher!</body>"
+"mailCode887","<title>Find MagnaGarurumon</title>
+<body>Without the materials I asked
+MagnaGarurumon to get, we can't revive
+Susanomon. He's probably in a place
+where the Digimon are real tough, but...
+Please find him.</body>"
+"mailCode888","<title>Bring this to Dianamon</title>
+<body>Please deliver this Red Gift Box to
+Dianamon. I think Dianamon is somewhere
+in Absolute Zero.</body>"
+"mailCode889","<title>Another gift for Dianamon</title>
+<body>Bring this Green Gift Box to Dianamon.
+Thanks so much!</body>"
+"mailCode890","<title>Bring this to Minervamon</title>
+<body>I need to send a thank you for a gift
+from Minervamon. Would you mind
+delivering this for me?</body>"
+"mailCode891","<title>Another delivery to Minervamon</title>
+<body>Minervamon sent me another gift so I
+have to send another thank you.
+Deliver this Blue Gift Box for me, would
+you?</body>"
+"mailCode892","<title>Deadly punch</title>
+<body>Come see me when your partners master
+a deadly punch. I need a practice
+partner so I can beat Bancho.</body>"
+"mailCode893","<title>Sword practice</title>
+<body>If your partners have a katana or sword,
+I could use a training partner again.
+I'll have a hard time beating Bancho
+unless I sharpen my sword skills.</body>"
+"mailCode894","<title>School uniform</title>
+<body>Bancho wears this big flapping school
+uniform. I need a training partner who's
+got something like that. Even a cape or
+a scarf would do the trick. Please help.</body>"
+"mailCode895","<title>Lost item! Please find!</title>
+<body>I dropped a precious item on a boat
+somewhere! It's hard to explain, but
+you'll know it if you see it. Thank you!</body>"
+"mailCode896","<title>Anyone know this hero?</title>
+<body>I heard there's a Digimon who's like a
+superhero and beats up evil Digimon.
+Supposedly he's somewhere in Ex Machina!
+Has anybody seen him?</body>"
+"mailCode897","<title>I'm shocked...</title>
+<body>It looks like the hero I was talking
+about is a Digimon named Justimon.
+But I heard that this Justimon picks on
+smaller Digimon... If it's true, I'll be
+so sad!</body>"
+"mailCode898","<title>Bring it on!</title>
+<body>So you're riding pretty high now, huh?
+I was nice enough to let it go last
+time, but now I'm fed up! Come and pay
+me a visit on Control Island in Ex
+Machina and I'll give you a beating!
+Count on it!</body>"
+"mailCode899","<title>Find him for me!</title>
+<body>That Boltmon must be somewhere...
+If you spot him, let me know!
+I want a piece of him! </body>"
+"mailCode900","<title>I don't want to fight...</title>
+<body>My screw fell somewhere near the lake...
+Please tell Youkomon.</body>"
+"mailCode901","<title>More clues!</title>
+<body>Where was that Boltmon hiding?
+Please find some more clues!</body>"
+"mailCode902","<title>Please ask Myotismon</title>
+<body>Can you explain the situation to the
+Myotismon in your town and ask him to
+help? I'm begging you.</body>"
+"mailCode903","<title>Leave it to me</title>
+<body>Hehe, go back to where Boltmon is.
+I'll get everything ready. 
+For my longtime friend.</body>"
+"mailCode904","<title>Ho ho ho</title>
+<body>Find me three times.
+But you have to do it before the day
+ends. A fun game, don't you think?</body>"
+"mailCode905","<title>Please help!</title>
+<body>I need five Conductor Lemons!
+I'll be waiting at Power Plant #1!</body>"
+"mailCode906","<title>A terrible nuisance!</title>
+<body>A Digimon has taken up residence at
+Ruins Lake. It's leaving garbage
+everywhere! Could someone please do
+something?</body>"
+"mailCode907","<title>Horrible!</title>
+<body>Just after I got back from resupplying
+items, I was at the lake in front of the
+town and someone hit me from behind!
+I just know it was that MegaSeadramon
+from Ruins Lake but he's acting like he
+had nothing to do with it!</body>"
+"mailCode908","<title>Checking conditions</title>
+<body>Raise DigiFriend to 70+. One has to have
+a STR of 500+, and the other a STA of
+500+.</body>"
+"mailCode909","<title>Conditions, part 2</title>
+<body>Raise DigiFriend to 80+. Both need to
+have SPD and WIS at 600+.</body>"
+"mailCode910","<title>Conditions, part 3</title>
+<body>Raise DigiFriend to 90+. One has to have
+HP of 7,000+, and the other MP of
+7,000+.</body>"
+"mailCode911","<title>Final conditions</title>
+<body>DigiFriend needs to be 100, and both
+need STR, SPD, and WIS of 800+. </body>"
+"mailCode912","<title>Yo! Yo! Yo!</title>
+<body>Don't miss ya chance!
+Take yerself a chance!
+Get out there and dance!
+Yo! Yo! Yo!</body>"
+"mailCode913","<title>Meat wanted!</title>
+<body>Meat! Gimme some meat!
+You got some, right?
+I'll trade you some vegetables!</body>"
+"mailCode914","<title>Oh man... I'm melting...</title>
+<body>Ice magic...please...!
+Hail <mumble>...
+<mumble> Statue...
+Aurora <mumble>...
+One of them...</body>"
+"mailCode915","<title>My body...</title>
+<body>Find my parts...
+Five total: Torso, right arm, left arm,
+right leg, left leg. Find them all. 
+Considering the angle they went flying,
+they're probably in Nigh Plains, Server
+Desert, Ohguino Wastelands, MOD Cape, or
+Faulty Ex Machina.</body>"
+"mailCode916","<title>Help requested</title>
+<body>I require three Corianders, three Deep
+Sea Essences and five Oily Fruit.</body>"
+"mailCode917","<title>Pirate items!</title>
+<body>Collect the pirate items and sell 'em to
+me! And make it snappy!</body>"
+"mailCode918","<title>Shopping list!</title>
+<body>I need someone to find the shopping
+list that I dropped in Bony Resort.
+Well, if you feel like it, that is.</body>"
+"mailCode919","<title>Snack wanted</title>
+<body>Can someone bring me a snack during
+snack time? I don't know what I'd do
+without my snack!</body>"
+"mailCode920","<title>Weight help</title>
+<body>I want to reach my perfect body weight,
+so please bring me the food I need!</body>"
+"mailCode921","<title>Come back</title>
+<body>Within the next 24 hours, come to
+Eternal Glacier and report on where you
+flew off to.</body>"
+"mailCode922","DO NOT TRANSLATE"
+"mailCode923","DO NOT TRANSLATE"
+"mailCode924","DO NOT TRANSLATE"
+"mailCode925","DO NOT TRANSLATE"
+"mailCode926","DO NOT TRANSLATE"
+"mailCode927","DO NOT TRANSLATE"
+"mailCode928","DO NOT TRANSLATE"
+"mailCode929","DO NOT TRANSLATE"
+"mailCode930","DO NOT TRANSLATE"
+"mailCode931","DO NOT TRANSLATE"
+"mailCode932","DO NOT TRANSLATE"
+"mailCode933","DO NOT TRANSLATE"
+"mailCode934","DO NOT TRANSLATE"
+"mailCode935","DO NOT TRANSLATE"
+"mailCode936","DO NOT TRANSLATE"
+"mailCode937","DO NOT TRANSLATE"
+"mailCode938","DO NOT TRANSLATE"
+"mailCode939","DO NOT TRANSLATE"
+"mailCode940","DO NOT TRANSLATE"
+"mailCode941","DO NOT TRANSLATE"
+"mailCode942","DO NOT TRANSLATE"
+"mailCode943","DO NOT TRANSLATE"
+"mailCode944","DO NOT TRANSLATE"
+"mailCode945","DO NOT TRANSLATE"
+"mailCode946","DO NOT TRANSLATE"
+"mailCode947","DO NOT TRANSLATE"
+"mailCode948","DO NOT TRANSLATE"
+"mailCode949","DO NOT TRANSLATE"
+"mailCode950","DO NOT TRANSLATE"
+"mailCode951","DO NOT TRANSLATE"
+"mailCode952","DO NOT TRANSLATE"
+"mailCode953","DO NOT TRANSLATE"
+"mailCode954","DO NOT TRANSLATE"
+"mailCode955","DO NOT TRANSLATE"
+"mailCode956","DO NOT TRANSLATE"
+"mailCode957","DO NOT TRANSLATE"
+"mailCode958","DO NOT TRANSLATE"
+"mailCode959","DO NOT TRANSLATE"
+"mailCode960","DO NOT TRANSLATE"
+"mailCode961","DO NOT TRANSLATE"
+"mailCode962","DO NOT TRANSLATE"
+"mailCode963","DO NOT TRANSLATE"
+"mailCode964","DO NOT TRANSLATE"
+"mailCode965","DO NOT TRANSLATE"
+"mailCode966","DO NOT TRANSLATE"
+"mailCode967","DO NOT TRANSLATE"
+"mailCode968","DO NOT TRANSLATE"
+"mailCode969","DO NOT TRANSLATE"
+"mailCode970","DO NOT TRANSLATE"
+"mailCode971","DO NOT TRANSLATE"
+"mailCode972","DO NOT TRANSLATE"
+"mailCode973","DO NOT TRANSLATE"
+"mailCode974","DO NOT TRANSLATE"
+"mailCode975","DO NOT TRANSLATE"
+"mailCode976","DO NOT TRANSLATE"
+"mailCode977","DO NOT TRANSLATE"
+"mailCode978","DO NOT TRANSLATE"
+"mailCode979","DO NOT TRANSLATE"
+"mailCode980","DO NOT TRANSLATE"
+"mailCode981","DO NOT TRANSLATE"
+"mailCode982","DO NOT TRANSLATE"
+"mailCode983","DO NOT TRANSLATE"
+"mailCode984","DO NOT TRANSLATE"
+"mailCode985","DO NOT TRANSLATE"
+"mailCode986","DO NOT TRANSLATE"
+"mailCode987","DO NOT TRANSLATE"
+"mailCode988","DO NOT TRANSLATE"
+"mailCode989","DO NOT TRANSLATE"
+"mailCode990","DO NOT TRANSLATE"
+"mailCode991","DO NOT TRANSLATE"
+"mailCode992","DO NOT TRANSLATE"
+"mailCode993","DO NOT TRANSLATE"
+"mailCode994","DO NOT TRANSLATE"
+"mailCode995","DO NOT TRANSLATE"
+"mailCode996","DO NOT TRANSLATE"
+"mailCode997","DO NOT TRANSLATE"
+"mailCode998","DO NOT TRANSLATE"
+"mailCode999","DO NOT TRANSLATE"
+"mailCode1000","DO NOT TRANSLATE"
+"mailCode1001","DO NOT TRANSLATE"
+"mailCode1002","DO NOT TRANSLATE"
+"mailCode1003","DO NOT TRANSLATE"
+"mailCode1004","DO NOT TRANSLATE"
+"mailCode1005","DO NOT TRANSLATE"
+"mailCode1006","DO NOT TRANSLATE"
+"mailCode1007","DO NOT TRANSLATE"
+"mailCode1008","DO NOT TRANSLATE"
+"mailCode1009","DO NOT TRANSLATE"
+"mailCode1010","DO NOT TRANSLATE"
+"mailCode1011","DO NOT TRANSLATE"
+"mailCode1012","DO NOT TRANSLATE"
+"mailCode1013","DO NOT TRANSLATE"
+"mailCode1014","DO NOT TRANSLATE"
+"mailCode1015","DO NOT TRANSLATE"
+"mailCode1016","DO NOT TRANSLATE"
+"mailCode1017","DO NOT TRANSLATE"
+"mailCode1018","DO NOT TRANSLATE"
+"mailCode1019","DO NOT TRANSLATE"
+"mailCode1020","DO NOT TRANSLATE"
+"mailCode1021","DO NOT TRANSLATE"
+"mailCode1022","DO NOT TRANSLATE"
+"mailCode1023","DO NOT TRANSLATE"
+"mailCode1024","DO NOT TRANSLATE"
+"mailCode1025","DO NOT TRANSLATE"
+"mailCode1026","DO NOT TRANSLATE"
+"mailCode1027","DO NOT TRANSLATE"
+"mailCode1028","DO NOT TRANSLATE"
+"mailCode1029","DO NOT TRANSLATE"
+"mailCode1030","DO NOT TRANSLATE"
+"mailCode1031","DO NOT TRANSLATE"
+"mailCode1032","DO NOT TRANSLATE"
+"mailCode1033","DO NOT TRANSLATE"
+"mailCode1034","DO NOT TRANSLATE"
+"mailCode1035","DO NOT TRANSLATE"
+"mailCode1036","DO NOT TRANSLATE"
+"mailCode1037","DO NOT TRANSLATE"
+"mailCode1038","DO NOT TRANSLATE"
+"mailCode1039","DO NOT TRANSLATE"
+"mailCode1040","DO NOT TRANSLATE"
+"mailCode1041","DO NOT TRANSLATE"
+"mailCode1042","DO NOT TRANSLATE"
+"mailCode1043","DO NOT TRANSLATE"
+"mailCode1044","DO NOT TRANSLATE"
+"mailCode1045","DO NOT TRANSLATE"
+"mailCode1046","DO NOT TRANSLATE"
+"mailCode1047","DO NOT TRANSLATE"
+"mailCode1048","DO NOT TRANSLATE"
+"mailCode1049","DO NOT TRANSLATE"
+"mailCode1050","DO NOT TRANSLATE"
+"mailCode1051","DO NOT TRANSLATE"
+"mailCode1052","DO NOT TRANSLATE"
+"mailCode1053","DO NOT TRANSLATE"
+"mailCode1054","DO NOT TRANSLATE"
+"mailCode1055","DO NOT TRANSLATE"
+"mailCode1056","DO NOT TRANSLATE"
+"mailCode1057","DO NOT TRANSLATE"
+"mailCode1058","DO NOT TRANSLATE"
+"mailCode1059","DO NOT TRANSLATE"
+"mailCode1060","DO NOT TRANSLATE"
+"mailCode1061","DO NOT TRANSLATE"
+"mailCode1062","DO NOT TRANSLATE"
+"mailCode1063","DO NOT TRANSLATE"
+"mailCode1064","DO NOT TRANSLATE"
+"mailCode1065","DO NOT TRANSLATE"
+"mailCode1066","DO NOT TRANSLATE"
+"mailCode1067","DO NOT TRANSLATE"
+"mailCode1068","DO NOT TRANSLATE"
+"mailCode1069","DO NOT TRANSLATE"
+"mailCode1070","DO NOT TRANSLATE"
+"mailCode1071","DO NOT TRANSLATE"
+"mailCode1072","DO NOT TRANSLATE"
+"mailCode1073","DO NOT TRANSLATE"
+"mailCode1074","DO NOT TRANSLATE"
+"mailCode1075","DO NOT TRANSLATE"
+"mailCode1076","DO NOT TRANSLATE"
+"mailCode1077","DO NOT TRANSLATE"
+"mailCode1078","DO NOT TRANSLATE"
+"mailCode1079","DO NOT TRANSLATE"
+"mailCode1080","DO NOT TRANSLATE"
+"mailCode1081","DO NOT TRANSLATE"
+"mailCode1082","DO NOT TRANSLATE"
+"mailCode1083","DO NOT TRANSLATE"
+"mailCode1084","DO NOT TRANSLATE"
+"mailCode1085","DO NOT TRANSLATE"
+"mailCode1086","DO NOT TRANSLATE"
+"mailCode1087","DO NOT TRANSLATE"
+"mailCode1088","DO NOT TRANSLATE"
+"mailCode1089","DO NOT TRANSLATE"
+"mailCode1090","DO NOT TRANSLATE"
+"mailCode1091","DO NOT TRANSLATE"
+"mailCode1092","DO NOT TRANSLATE"
+"mailCode1093","DO NOT TRANSLATE"
+"mailCode1094","DO NOT TRANSLATE"
+"mailCode1095","DO NOT TRANSLATE"
+"mailCode1096","DO NOT TRANSLATE"
+"mailCode1097","DO NOT TRANSLATE"
+"mailCode1098","DO NOT TRANSLATE"
+"mailCode1099","DO NOT TRANSLATE"
+"mailCode1100","DO NOT TRANSLATE"
+"mailCode1101","DO NOT TRANSLATE"
+"mailCode1102","DO NOT TRANSLATE"
+"mailCode1103","DO NOT TRANSLATE"
+"mailCode1104","DO NOT TRANSLATE"
+"mailCode1105","DO NOT TRANSLATE"
+"mailCode1106","DO NOT TRANSLATE"
+"mailCode1107","DO NOT TRANSLATE"
+"mailCode1108","DO NOT TRANSLATE"
+"mailCode1109","DO NOT TRANSLATE"
+"mailCode1110","DO NOT TRANSLATE"
+"mailCode1111","DO NOT TRANSLATE"
+"mailCode1112","DO NOT TRANSLATE"
+"mailCode1113","DO NOT TRANSLATE"
+"mailCode1114","DO NOT TRANSLATE"
+"mailCode1115","DO NOT TRANSLATE"
+"mailCode1116","DO NOT TRANSLATE"
+"mailCode1117","DO NOT TRANSLATE"
+"mailCode1118","DO NOT TRANSLATE"
+"mailCode1119","DO NOT TRANSLATE"
+"mailCode1120","DO NOT TRANSLATE"
+"mailCode1121","DO NOT TRANSLATE"
+"mailCode1122","DO NOT TRANSLATE"
+"mailCode1123","DO NOT TRANSLATE"
+"mailCode1124","DO NOT TRANSLATE"
+"mailCode1125","DO NOT TRANSLATE"
+"mailCode1126","DO NOT TRANSLATE"
+"mailCode1127","DO NOT TRANSLATE"
+"mailCode1128","DO NOT TRANSLATE"
+"mailCode1129","DO NOT TRANSLATE"
+"mailCode1130","DO NOT TRANSLATE"
+"mailCode1131","DO NOT TRANSLATE"
+"mailCode1132","DO NOT TRANSLATE"
+"mailCode1133","DO NOT TRANSLATE"
+"mailCode1134","DO NOT TRANSLATE"
+"mailCode1135","DO NOT TRANSLATE"
+"mailCode1136","DO NOT TRANSLATE"
+"mailCode1137","DO NOT TRANSLATE"
+"mailCode1138","DO NOT TRANSLATE"
+"mailCode1139","DO NOT TRANSLATE"
+"mailCode1140","DO NOT TRANSLATE"
+"mailCode1141","DO NOT TRANSLATE"
+"mailCode1142","DO NOT TRANSLATE"
+"mailCode1143","DO NOT TRANSLATE"
+"mailCode1144","DO NOT TRANSLATE"
+"mailCode1145","DO NOT TRANSLATE"
+"mailCode1146","DO NOT TRANSLATE"
+"mailCode1147","DO NOT TRANSLATE"
+"mailCode1148","DO NOT TRANSLATE"
+"mailCode1149","DO NOT TRANSLATE"
+"mailCode1150","DO NOT TRANSLATE"
+"mailCode1151","DO NOT TRANSLATE"
+"mailCode1152","DO NOT TRANSLATE"
+"mailCode1153","DO NOT TRANSLATE"
+"mailCode1154","DO NOT TRANSLATE"
+"mailCode1155","DO NOT TRANSLATE"
+"mailCode1156","DO NOT TRANSLATE"
+"mailCode1157","DO NOT TRANSLATE"
+"mailCode1158","DO NOT TRANSLATE"
+"mailCode1159","DO NOT TRANSLATE"
+"mailCode1160","DO NOT TRANSLATE"
+"mailCode1161","DO NOT TRANSLATE"
+"mailCode1162","DO NOT TRANSLATE"
+"mailCode1163","DO NOT TRANSLATE"
+"mailCode1164","DO NOT TRANSLATE"
+"mailCode1165","DO NOT TRANSLATE"
+"mailCode1166","DO NOT TRANSLATE"
+"mailCode1167","DO NOT TRANSLATE"
+"mailCode1168","DO NOT TRANSLATE"
+"mailCode1169","DO NOT TRANSLATE"
+"mailCode1170","DO NOT TRANSLATE"
+"mailCode1171","DO NOT TRANSLATE"
+"mailCode1172","DO NOT TRANSLATE"
+"mailCode1173","DO NOT TRANSLATE"
+"mailCode1174","DO NOT TRANSLATE"
+"mailCode1175","DO NOT TRANSLATE"
+"mailCode1176","DO NOT TRANSLATE"
+"mailCode1177","DO NOT TRANSLATE"
+"mailCode1178","DO NOT TRANSLATE"
+"mailCode1179","DO NOT TRANSLATE"
+"mailCode1180","DO NOT TRANSLATE"
+"mailCode1181","DO NOT TRANSLATE"
+"mailCode1182","DO NOT TRANSLATE"
+"mailCode1183","DO NOT TRANSLATE"
+"mailCode1184","DO NOT TRANSLATE"
+"mailCode1185","DO NOT TRANSLATE"
+"mailCode1186","DO NOT TRANSLATE"
+"mailCode1187","DO NOT TRANSLATE"
+"mailCode1188","DO NOT TRANSLATE"
+"mailCode1189","DO NOT TRANSLATE"
+"mailCode1190","DO NOT TRANSLATE"
+"mailCode1191","DO NOT TRANSLATE"
+"mailCode1192","DO NOT TRANSLATE"
+"mailCode1193","DO NOT TRANSLATE"
+"mailCode1194","DO NOT TRANSLATE"
+"mailCode1195","DO NOT TRANSLATE"
+"mailCode1196","DO NOT TRANSLATE"
+"mailCode1197","DO NOT TRANSLATE"
+"mailCode1198","DO NOT TRANSLATE"
+"mailCode1199","DO NOT TRANSLATE"
+"mailCode1200","DO NOT TRANSLATE"
+"mailCode1201","DO NOT TRANSLATE"
+"mailCode1202","DO NOT TRANSLATE"
+"mailCode1203","DO NOT TRANSLATE"
+"mailCode1204","DO NOT TRANSLATE"
+"mailCode1205","DO NOT TRANSLATE"
+"mailCode1206","DO NOT TRANSLATE"
+"mailCode1207","DO NOT TRANSLATE"
+"mailCode1208","DO NOT TRANSLATE"
+"mailCode1209","DO NOT TRANSLATE"
+"mailCode1210","DO NOT TRANSLATE"
+"mailCode1211","DO NOT TRANSLATE"
+"mailCode1212","DO NOT TRANSLATE"
+"mailCode1213","DO NOT TRANSLATE"
+"mailCode1214","DO NOT TRANSLATE"
+"mailCode1215","DO NOT TRANSLATE"
+"mailCode1216","DO NOT TRANSLATE"
+"mailCode1217","DO NOT TRANSLATE"
+"mailCode1218","DO NOT TRANSLATE"
+"mailCode1219","DO NOT TRANSLATE"
+"mailCode1220","DO NOT TRANSLATE"
+"mailCode1221","DO NOT TRANSLATE"
+"mailCode1222","DO NOT TRANSLATE"
+"mailCode1223","DO NOT TRANSLATE"
+"mailCode1224","DO NOT TRANSLATE"
+"mailCode1225","DO NOT TRANSLATE"
+"mailCode1226","DO NOT TRANSLATE"
+"mailCode1227","DO NOT TRANSLATE"
+"mailCode1228","DO NOT TRANSLATE"
+"mailCode1229","DO NOT TRANSLATE"
+"mailCode1230","DO NOT TRANSLATE"
+"mailCode1231","DO NOT TRANSLATE"
+"mailCode1232","DO NOT TRANSLATE"
+"mailCode1233","DO NOT TRANSLATE"
+"mailCode1234","DO NOT TRANSLATE"
+"mailCode1235","DO NOT TRANSLATE"
+"mailCode1236","DO NOT TRANSLATE"
+"mailCode1237","DO NOT TRANSLATE"
+"mailCode1238","DO NOT TRANSLATE"
+"mailCode1239","DO NOT TRANSLATE"
+"mailCode1240","DO NOT TRANSLATE"
+"mailCode1241","DO NOT TRANSLATE"
+"mailCode1242","DO NOT TRANSLATE"
+"mailCode1243","DO NOT TRANSLATE"
+"mailCode1244","DO NOT TRANSLATE"
+"mailCode1245","DO NOT TRANSLATE"
+"mailCode1246","DO NOT TRANSLATE"
+"mailCode1247","DO NOT TRANSLATE"
+"mailCode1248","DO NOT TRANSLATE"
+"mailCode1249","DO NOT TRANSLATE"
+"mailCode1250","DO NOT TRANSLATE"
+"mailCode1251","DO NOT TRANSLATE"
+"mailCode1252","DO NOT TRANSLATE"
+"mailCode1253","DO NOT TRANSLATE"
+"mailCode1254","DO NOT TRANSLATE"
+"mailCode1255","DO NOT TRANSLATE"
+"mailCode1256","DO NOT TRANSLATE"
+"mailCode1257","DO NOT TRANSLATE"
+"mailCode1258","DO NOT TRANSLATE"
+"mailCode1259","DO NOT TRANSLATE"
+"mailCode1260","DO NOT TRANSLATE"
+"mailCode1261","DO NOT TRANSLATE"
+"mailCode1262","DO NOT TRANSLATE"
+"mailCode1263","DO NOT TRANSLATE"
+"mailCode1264","DO NOT TRANSLATE"
+"mailCode1265","DO NOT TRANSLATE"
+"mailCode1266","DO NOT TRANSLATE"
+"mailCode1267","DO NOT TRANSLATE"
+"mailCode1268","DO NOT TRANSLATE"
+"mailCode1269","DO NOT TRANSLATE"
+"mailCode1270","DO NOT TRANSLATE"
+"mailCode1271","DO NOT TRANSLATE"
+"mailCode1272","DO NOT TRANSLATE"
+"mailCode1273","DO NOT TRANSLATE"
+"mailCode1274","DO NOT TRANSLATE"
+"mailCode1275","DO NOT TRANSLATE"
+"mailCode1276","DO NOT TRANSLATE"
+"mailCode1277","DO NOT TRANSLATE"
+"mailCode1278","DO NOT TRANSLATE"
+"mailCode1279","DO NOT TRANSLATE"
+"mailCode1280","DO NOT TRANSLATE"
+"mailCode1281","DO NOT TRANSLATE"
+"mailCode1282","DO NOT TRANSLATE"
+"mailCode1283","DO NOT TRANSLATE"
+"mailCode1284","DO NOT TRANSLATE"
+"mailCode1285","DO NOT TRANSLATE"
+"mailCode1286","DO NOT TRANSLATE"
+"mailCode1287","DO NOT TRANSLATE"
+"mailCode1288","DO NOT TRANSLATE"
+"mailCode1289","DO NOT TRANSLATE"
+"mailCode1290","DO NOT TRANSLATE"
+"mailCode1291","DO NOT TRANSLATE"
+"mailCode1292","DO NOT TRANSLATE"
+"mailCode1293","DO NOT TRANSLATE"
+"mailCode1294","DO NOT TRANSLATE"
+"mailCode1295","DO NOT TRANSLATE"
+"mailCode1296","DO NOT TRANSLATE"
+"mailCode1297","DO NOT TRANSLATE"
+"mailCode1298","DO NOT TRANSLATE"
+"mailCode1299","DO NOT TRANSLATE"
+"mailCode1300","DO NOT TRANSLATE"
+"mailCode1301","DO NOT TRANSLATE"
+"mailCode1302","DO NOT TRANSLATE"
+"mailCode1303","DO NOT TRANSLATE"
+"mailCode1304","DO NOT TRANSLATE"
+"mailCode1305","DO NOT TRANSLATE"
+"mailCode1306","DO NOT TRANSLATE"
+"mailCode1307","DO NOT TRANSLATE"
+"mailCode1308","DO NOT TRANSLATE"
+"mailCode1309","DO NOT TRANSLATE"
+"mailCode1310","DO NOT TRANSLATE"
+"mailCode1311","DO NOT TRANSLATE"
+"mailCode1312","DO NOT TRANSLATE"
+"mailCode1313","DO NOT TRANSLATE"
+"mailCode1314","DO NOT TRANSLATE"
+"mailCode1315","DO NOT TRANSLATE"
+"mailCode1316","DO NOT TRANSLATE"
+"mailCode1317","DO NOT TRANSLATE"
+"mailCode1318","DO NOT TRANSLATE"
+"mailCode1319","DO NOT TRANSLATE"
+"mailCode1320","DO NOT TRANSLATE"
+"mailCode1321","DO NOT TRANSLATE"
+"mailCode1322","DO NOT TRANSLATE"
+"mailCode1323","DO NOT TRANSLATE"
+"mailCode1324","DO NOT TRANSLATE"
+"mailCode1325","DO NOT TRANSLATE"
+"mailCode1326","DO NOT TRANSLATE"
+"mailCode1327","DO NOT TRANSLATE"
+"mailCode1328","DO NOT TRANSLATE"
+"mailCode1329","DO NOT TRANSLATE"
+"mailCode1330","DO NOT TRANSLATE"
+"mailCode1331","DO NOT TRANSLATE"
+"mailCode1332","DO NOT TRANSLATE"
+"mailCode1333","DO NOT TRANSLATE"
+"mailCode1334","DO NOT TRANSLATE"
+"mailCode1335","DO NOT TRANSLATE"
+"mailCode1336","DO NOT TRANSLATE"
+"mailCode1337","DO NOT TRANSLATE"
+"mailCode1338","DO NOT TRANSLATE"
+"mailCode1339","DO NOT TRANSLATE"
+"mailCode1340","DO NOT TRANSLATE"
+"mailCode1341","DO NOT TRANSLATE"
+"mailCode1342","DO NOT TRANSLATE"
+"mailCode1343","DO NOT TRANSLATE"
+"mailCode1344","DO NOT TRANSLATE"
+"mailCode1345","DO NOT TRANSLATE"
+"mailCode1346","DO NOT TRANSLATE"
+"mailCode1347","DO NOT TRANSLATE"
+"mailCode1348","DO NOT TRANSLATE"
+"mailCode1349","DO NOT TRANSLATE"
+"mailCode1350","DO NOT TRANSLATE"
+"mailCode1351","DO NOT TRANSLATE"
+"mailCode1352","DO NOT TRANSLATE"
+"mailCode1353","DO NOT TRANSLATE"
+"mailCode1354","DO NOT TRANSLATE"
+"mailCode1355","DO NOT TRANSLATE"
+"mailCode1356","DO NOT TRANSLATE"
+"mailCode1357","DO NOT TRANSLATE"
+"mailCode1358","DO NOT TRANSLATE"
+"mailCode1359","DO NOT TRANSLATE"
+"mailCode1360","DO NOT TRANSLATE"
+"mailCode1361","DO NOT TRANSLATE"
+"mailCode1362","DO NOT TRANSLATE"
+"mailCode1363","DO NOT TRANSLATE"
+"mailCode1364","DO NOT TRANSLATE"
+"mailCode1365","DO NOT TRANSLATE"
+"mailCode1366","DO NOT TRANSLATE"
+"mailCode1367","DO NOT TRANSLATE"
+"mailCode1368","DO NOT TRANSLATE"
+"mailCode1369","DO NOT TRANSLATE"
+"mailCode1370","DO NOT TRANSLATE"
+"mailCode1371","DO NOT TRANSLATE"
+"mailCode1372","DO NOT TRANSLATE"
+"mailCode1373","DO NOT TRANSLATE"
+"mailCode1374","DO NOT TRANSLATE"
+"mailCode1375","DO NOT TRANSLATE"
+"mailCode1376","DO NOT TRANSLATE"
+"mailCode1377","DO NOT TRANSLATE"
+"mailCode1378","DO NOT TRANSLATE"
+"mailCode1379","DO NOT TRANSLATE"
+"mailCode1380","DO NOT TRANSLATE"
+"mailCode1381","DO NOT TRANSLATE"
+"mailCode1382","DO NOT TRANSLATE"
+"mailCode1383","DO NOT TRANSLATE"
+"mailCode1384","DO NOT TRANSLATE"
+"mailCode1385","DO NOT TRANSLATE"
+"mailCode1386","DO NOT TRANSLATE"
+"mailCode1387","DO NOT TRANSLATE"
+"mailCode1388","DO NOT TRANSLATE"
+"mailCode1389","DO NOT TRANSLATE"
+"mailCode1390","DO NOT TRANSLATE"
+"mailCode1391","DO NOT TRANSLATE"
+"mailCode1392","DO NOT TRANSLATE"
+"mailCode1393","DO NOT TRANSLATE"
+"mailCode1394","DO NOT TRANSLATE"
+"mailCode1395","DO NOT TRANSLATE"
+"mailCode1396","DO NOT TRANSLATE"
+"mailCode1397","DO NOT TRANSLATE"
+"mailCode1398","DO NOT TRANSLATE"
+"mailCode1399","DO NOT TRANSLATE"
+"mailCode1400","DO NOT TRANSLATE"
+"mailCode1401","DO NOT TRANSLATE"
+"mailCode1402","DO NOT TRANSLATE"
+"mailCode1403","DO NOT TRANSLATE"
+"mailCode1404","DO NOT TRANSLATE"
+"mailCode1405","DO NOT TRANSLATE"
+"mailCode1406","DO NOT TRANSLATE"
+"mailCode1407","DO NOT TRANSLATE"
+"mailCode1408","DO NOT TRANSLATE"
+"mailCode1409","DO NOT TRANSLATE"
+"mailCode1410","DO NOT TRANSLATE"
+"mailCode1411","DO NOT TRANSLATE"
+"mailCode1412","DO NOT TRANSLATE"
+"mailCode1413","DO NOT TRANSLATE"
+"mailCode1414","DO NOT TRANSLATE"
+"mailCode1415","DO NOT TRANSLATE"
+"mailCode1416","DO NOT TRANSLATE"
+"mailCode1417","DO NOT TRANSLATE"
+"mailCode1418","DO NOT TRANSLATE"
+"mailCode1419","DO NOT TRANSLATE"
+"mailCode1420","DO NOT TRANSLATE"
+"mailCode1421","DO NOT TRANSLATE"
+"mailCode1422","DO NOT TRANSLATE"
+"mailCode1423","DO NOT TRANSLATE"
+"mailCode1424","DO NOT TRANSLATE"
+"mailCode1425","DO NOT TRANSLATE"
+"mailCode1426","DO NOT TRANSLATE"
+"mailCode1427","DO NOT TRANSLATE"
+"mailCode1428","DO NOT TRANSLATE"
+"mailCode1429","DO NOT TRANSLATE"
+"mailCode1430","DO NOT TRANSLATE"
+"mailCode1431","DO NOT TRANSLATE"
+"mailCode1432","DO NOT TRANSLATE"
+"mailCode1433","DO NOT TRANSLATE"
+"mailCode1434","DO NOT TRANSLATE"
+"mailCode1435","DO NOT TRANSLATE"
+"mailCode1436","DO NOT TRANSLATE"
+"mailCode1437","DO NOT TRANSLATE"
+"mailCode1438","DO NOT TRANSLATE"
+"mailCode1439","DO NOT TRANSLATE"
+"mailCode1440","DO NOT TRANSLATE"
+"mailCode1441","DO NOT TRANSLATE"
+"mailCode1442","DO NOT TRANSLATE"
+"mailCode1443","DO NOT TRANSLATE"
+"mailCode1444","DO NOT TRANSLATE"
+"mailCode1445","DO NOT TRANSLATE"
+"mailCode1446","DO NOT TRANSLATE"
+"mailCode1447","DO NOT TRANSLATE"
+"mailCode1448","DO NOT TRANSLATE"
+"mailCode1449","DO NOT TRANSLATE"
+"mailCode1450","DO NOT TRANSLATE"
+"mailCode1451","DO NOT TRANSLATE"
+"mailCode1452","DO NOT TRANSLATE"
+"mailCode1453","DO NOT TRANSLATE"
+"mailCode1454","DO NOT TRANSLATE"
+"mailCode1455","DO NOT TRANSLATE"
+"mailCode1456","DO NOT TRANSLATE"
+"mailCode1457","DO NOT TRANSLATE"
+"mailCode1458","DO NOT TRANSLATE"
+"mailCode1459","DO NOT TRANSLATE"
+"mailCode1460","DO NOT TRANSLATE"
+"mailCode1461","DO NOT TRANSLATE"
+"mailCode1462","DO NOT TRANSLATE"
+"mailCode1463","DO NOT TRANSLATE"
+"mailCode1464","DO NOT TRANSLATE"
+"mailCode1465","DO NOT TRANSLATE"
+"mailCode1466","DO NOT TRANSLATE"
+"mailCode1467","DO NOT TRANSLATE"
+"mailCode1468","DO NOT TRANSLATE"
+"mailCode1469","DO NOT TRANSLATE"
+"mailCode1470","DO NOT TRANSLATE"
+"mailCode1471","DO NOT TRANSLATE"
+"mailCode1472","DO NOT TRANSLATE"
+"mailCode1473","DO NOT TRANSLATE"
+"mailCode1474","DO NOT TRANSLATE"
+"mailCode1475","DO NOT TRANSLATE"
+"mailCode1476","DO NOT TRANSLATE"
+"mailCode1477","DO NOT TRANSLATE"
+"mailCode1478","DO NOT TRANSLATE"
+"mailCode1479","DO NOT TRANSLATE"
+"mailCode1480","DO NOT TRANSLATE"
+"mailCode1481","DO NOT TRANSLATE"
+"mailCode1482","DO NOT TRANSLATE"
+"mailCode1483","DO NOT TRANSLATE"
+"mailCode1484","DO NOT TRANSLATE"
+"mailCode1485","DO NOT TRANSLATE"
+"mailCode1486","DO NOT TRANSLATE"
+"mailCode1487","DO NOT TRANSLATE"
+"mailCode1488","DO NOT TRANSLATE"
+"mailCode1489","DO NOT TRANSLATE"
+"mailCode1490","DO NOT TRANSLATE"
+"mailCode1491","DO NOT TRANSLATE"
+"mailCode1492","DO NOT TRANSLATE"
+"mailCode1493","DO NOT TRANSLATE"
+"mailCode1494","DO NOT TRANSLATE"
+"mailCode1495","DO NOT TRANSLATE"
+"mailCode1496","DO NOT TRANSLATE"
+"mailCode1497","DO NOT TRANSLATE"
+"mailCode1498","DO NOT TRANSLATE"
+"mailCode1499","DO NOT TRANSLATE"
+"mailCode1500","DO NOT TRANSLATE"
+"mailCode1501","DO NOT TRANSLATE"
+"mailCode1502","DO NOT TRANSLATE"
+"mailCode1503","DO NOT TRANSLATE"
+"mailCode1504","DO NOT TRANSLATE"
+"mailCode1505","DO NOT TRANSLATE"
+"mailCode1506","DO NOT TRANSLATE"
+"mailCode1507","DO NOT TRANSLATE"
+"mailCode1508","DO NOT TRANSLATE"
+"mailCode1509","DO NOT TRANSLATE"
+"mailCode1510","DO NOT TRANSLATE"
+"mailCode1511","DO NOT TRANSLATE"
+"mailCode1512","DO NOT TRANSLATE"
+"mailCode1513","DO NOT TRANSLATE"
+"mailCode1514","DO NOT TRANSLATE"
+"mailCode1515","DO NOT TRANSLATE"
+"mailCode1516","DO NOT TRANSLATE"
+"mailCode1517","DO NOT TRANSLATE"
+"mailCode1518","DO NOT TRANSLATE"
+"mailCode1519","DO NOT TRANSLATE"
+"mailCode1520","DO NOT TRANSLATE"
+"mailCode1521","DO NOT TRANSLATE"
+"mailCode1522","DO NOT TRANSLATE"
+"mailCode1523","DO NOT TRANSLATE"
+"mailCode1524","DO NOT TRANSLATE"
+"mailCode1525","DO NOT TRANSLATE"
+"mailCode1526","DO NOT TRANSLATE"
+"mailCode1527","DO NOT TRANSLATE"
+"mailCode1528","DO NOT TRANSLATE"
+"mailCode1529","DO NOT TRANSLATE"
+"mailCode1530","DO NOT TRANSLATE"
+"mailCode1531","DO NOT TRANSLATE"
+"mailCode1532","DO NOT TRANSLATE"
+"mailCode1533","DO NOT TRANSLATE"
+"mailCode1534","DO NOT TRANSLATE"
+"mailCode1535","DO NOT TRANSLATE"
+"mailCode1536","DO NOT TRANSLATE"
+"mailCode1537","DO NOT TRANSLATE"
+"mailCode1538","DO NOT TRANSLATE"
+"mailCode1539","DO NOT TRANSLATE"
+"mailCode1540","DO NOT TRANSLATE"
+"mailCode1541","DO NOT TRANSLATE"
+"mailCode1542","DO NOT TRANSLATE"
+"mailCode1543","DO NOT TRANSLATE"
+"mailCode1544","DO NOT TRANSLATE"
+"mailCode1545","DO NOT TRANSLATE"
+"mailCode1546","DO NOT TRANSLATE"
+"mailCode1547","DO NOT TRANSLATE"
+"mailCode1548","DO NOT TRANSLATE"
+"mailCode1549","DO NOT TRANSLATE"
+"mailCode1550","DO NOT TRANSLATE"
+"mailCode1551","DO NOT TRANSLATE"
+"mailCode1552","DO NOT TRANSLATE"
+"mailCode1553","DO NOT TRANSLATE"
+"mailCode1554","DO NOT TRANSLATE"
+"mailCode1555","DO NOT TRANSLATE"
+"mailCode1556","DO NOT TRANSLATE"
+"mailCode1557","DO NOT TRANSLATE"
+"mailCode1558","DO NOT TRANSLATE"
+"mailCode1559","DO NOT TRANSLATE"
+"mailCode1560","DO NOT TRANSLATE"
+"mailCode1561","DO NOT TRANSLATE"
+"mailCode1562","DO NOT TRANSLATE"
+"mailCode1563","DO NOT TRANSLATE"
+"mailCode1564","DO NOT TRANSLATE"
+"mailCode1565","DO NOT TRANSLATE"
+"mailCode1566","DO NOT TRANSLATE"
+"mailCode1567","DO NOT TRANSLATE"
+"mailCode1568","DO NOT TRANSLATE"
+"mailCode1569","DO NOT TRANSLATE"
+"mailCode1570","DO NOT TRANSLATE"
+"mailCode1571","DO NOT TRANSLATE"
+"mailCode1572","DO NOT TRANSLATE"
+"mailCode1573","DO NOT TRANSLATE"
+"mailCode1574","DO NOT TRANSLATE"
+"mailCode1575","DO NOT TRANSLATE"
+"mailCode1576","DO NOT TRANSLATE"
+"mailCode1577","DO NOT TRANSLATE"
+"mailCode1578","DO NOT TRANSLATE"
+"mailCode1579","DO NOT TRANSLATE"
+"mailCode1580","DO NOT TRANSLATE"
+"mailCode1581","DO NOT TRANSLATE"
+"mailCode1582","DO NOT TRANSLATE"
+"mailCode1583","DO NOT TRANSLATE"
+"mailCode1584","DO NOT TRANSLATE"
+"mailCode1585","DO NOT TRANSLATE"
+"mailCode1586","DO NOT TRANSLATE"
+"mailCode1587","DO NOT TRANSLATE"
+"mailCode1588","DO NOT TRANSLATE"
+"mailCode1589","DO NOT TRANSLATE"
+"mailCode1590","DO NOT TRANSLATE"
+"mailCode1591","DO NOT TRANSLATE"
+"mailCode1592","DO NOT TRANSLATE"
+"mailCode1593","DO NOT TRANSLATE"
+"mailCode1594","DO NOT TRANSLATE"
+"mailCode1595","DO NOT TRANSLATE"
+"mailCode1596","DO NOT TRANSLATE"
+"mailCode1597","DO NOT TRANSLATE"
+"mailCode1598","DO NOT TRANSLATE"
+"mailCode1599","DO NOT TRANSLATE"
+"mailCode1600","DO NOT TRANSLATE"
+"mailCode1601","DO NOT TRANSLATE"
+"mailCode1602","DO NOT TRANSLATE"
+"mailCode1603","DO NOT TRANSLATE"
+"mailCode1604","DO NOT TRANSLATE"
+"mailCode1605","DO NOT TRANSLATE"
+"mailCode1606","DO NOT TRANSLATE"
+"mailCode1607","DO NOT TRANSLATE"
+"mailCode1608","DO NOT TRANSLATE"
+"mailCode1609","DO NOT TRANSLATE"
+"mailCode1610","DO NOT TRANSLATE"
+"mailCode1611","DO NOT TRANSLATE"
+"mailCode1612","DO NOT TRANSLATE"
+"mailCode1613","DO NOT TRANSLATE"
+"mailCode1614","DO NOT TRANSLATE"
+"mailCode1615","DO NOT TRANSLATE"
+"mailCode1616","DO NOT TRANSLATE"
+"mailCode1617","DO NOT TRANSLATE"
+"mailCode1618","DO NOT TRANSLATE"
+"mailCode1619","DO NOT TRANSLATE"
+"mailCode1620","DO NOT TRANSLATE"
+"mailCode1621","DO NOT TRANSLATE"
+"mailCode1622","DO NOT TRANSLATE"
+"mailCode1623","DO NOT TRANSLATE"
+"mailCode1624","DO NOT TRANSLATE"
+"mailCode1625","DO NOT TRANSLATE"
+"mailCode1626","DO NOT TRANSLATE"
+"mailCode1627","DO NOT TRANSLATE"
+"mailCode1628","DO NOT TRANSLATE"
+"mailCode1629","DO NOT TRANSLATE"
+"mailCode1630","DO NOT TRANSLATE"
+"mailCode1631","DO NOT TRANSLATE"
+"mailCode1632","DO NOT TRANSLATE"
+"mailCode1633","DO NOT TRANSLATE"
+"mailCode1634","DO NOT TRANSLATE"
+"mailCode1635","DO NOT TRANSLATE"
+"mailCode1636","DO NOT TRANSLATE"
+"mailCode1637","DO NOT TRANSLATE"
+"mailCode1638","DO NOT TRANSLATE"
+"mailCode1639","DO NOT TRANSLATE"
+"mailCode1640","DO NOT TRANSLATE"
+"mailCode1641","DO NOT TRANSLATE"
+"mailCode1642","DO NOT TRANSLATE"
+"mailCode1643","DO NOT TRANSLATE"
+"mailCode1644","DO NOT TRANSLATE"
+"mailCode1645","DO NOT TRANSLATE"
+"mailCode1646","DO NOT TRANSLATE"
+"mailCode1647","DO NOT TRANSLATE"
+"mailCode1648","DO NOT TRANSLATE"
+"mailCode1649","DO NOT TRANSLATE"
+"mailCode1650","DO NOT TRANSLATE"
+"mailCode1651","DO NOT TRANSLATE"
+"mailCode1652","DO NOT TRANSLATE"
+"mailCode1653","DO NOT TRANSLATE"
+"mailCode1654","DO NOT TRANSLATE"
+"mailCode1655","DO NOT TRANSLATE"
+"mailCode1656","DO NOT TRANSLATE"
+"mailCode1657","DO NOT TRANSLATE"
+"mailCode1658","DO NOT TRANSLATE"
+"mailCode1659","DO NOT TRANSLATE"
+"mailCode1660","DO NOT TRANSLATE"
+"mailCode1661","DO NOT TRANSLATE"
+"mailCode1662","DO NOT TRANSLATE"
+"mailCode1663","DO NOT TRANSLATE"
+"mailCode1664","DO NOT TRANSLATE"
+"mailCode1665","DO NOT TRANSLATE"
+"mailCode1666","DO NOT TRANSLATE"
+"mailCode1667","DO NOT TRANSLATE"
+"mailCode1668","DO NOT TRANSLATE"
+"mailCode1669","DO NOT TRANSLATE"
+"mailCode1670","DO NOT TRANSLATE"
+"mailCode1671","DO NOT TRANSLATE"
+"mailCode1672","DO NOT TRANSLATE"
+"mailCode1673","DO NOT TRANSLATE"
+"mailCode1674","DO NOT TRANSLATE"
+"mailCode1675","DO NOT TRANSLATE"
+"mailCode1676","DO NOT TRANSLATE"
+"mailCode1677","DO NOT TRANSLATE"
+"mailCode1678","DO NOT TRANSLATE"
+"mailCode1679","DO NOT TRANSLATE"
+"mailCode1680","DO NOT TRANSLATE"
+"mailCode1681","DO NOT TRANSLATE"
+"mailCode1682","DO NOT TRANSLATE"
+"mailCode1683","DO NOT TRANSLATE"
+"mailCode1684","DO NOT TRANSLATE"
+"mailCode1685","DO NOT TRANSLATE"
+"mailCode1686","DO NOT TRANSLATE"
+"mailCode1687","DO NOT TRANSLATE"
+"mailCode1688","DO NOT TRANSLATE"
+"mailCode1689","DO NOT TRANSLATE"
+"mailCode1690","DO NOT TRANSLATE"
+"mailCode1691","DO NOT TRANSLATE"
+"mailCode1692","DO NOT TRANSLATE"
+"mailCode1693","DO NOT TRANSLATE"
+"mailCode1694","DO NOT TRANSLATE"
+"mailCode1695","DO NOT TRANSLATE"
+"mailCode1696","DO NOT TRANSLATE"
+"mailCode1697","DO NOT TRANSLATE"
+"mailCode1698","DO NOT TRANSLATE"
+"mailCode1699","DO NOT TRANSLATE"
+"mailCode1700","DO NOT TRANSLATE"
+"mailCode1701","DO NOT TRANSLATE"
+"mailCode1702","DO NOT TRANSLATE"
+"mailCode1703","DO NOT TRANSLATE"
+"mailCode1704","DO NOT TRANSLATE"
+"mailCode1705","DO NOT TRANSLATE"
+"mailCode1706","DO NOT TRANSLATE"
+"mailCode1707","DO NOT TRANSLATE"
+"mailCode1708","DO NOT TRANSLATE"
+"mailCode1709","DO NOT TRANSLATE"
+"mailCode1710","DO NOT TRANSLATE"
+"mailCode1711","DO NOT TRANSLATE"
+"mailCode1712","DO NOT TRANSLATE"
+"mailCode1713","DO NOT TRANSLATE"
+"mailCode1714","DO NOT TRANSLATE"
+"mailCode1715","DO NOT TRANSLATE"
+"mailCode1716","DO NOT TRANSLATE"
+"mailCode1717","DO NOT TRANSLATE"
+"mailCode1718","DO NOT TRANSLATE"
+"mailCode1719","DO NOT TRANSLATE"
+"mailCode1720","DO NOT TRANSLATE"
+"mailCode1721","DO NOT TRANSLATE"
+"mailCode1722","DO NOT TRANSLATE"
+"mailCode1723","DO NOT TRANSLATE"
+"mailCode1724","DO NOT TRANSLATE"
+"mailCode1725","DO NOT TRANSLATE"
+"mailCode1726","DO NOT TRANSLATE"
+"mailCode1727","DO NOT TRANSLATE"
+"mailCode1728","DO NOT TRANSLATE"
+"mailCode1729","DO NOT TRANSLATE"
+"mailCode1730","DO NOT TRANSLATE"
+"mailCode1731","DO NOT TRANSLATE"
+"mailCode1732","DO NOT TRANSLATE"
+"mailCode1733","DO NOT TRANSLATE"
+"mailCode1734","DO NOT TRANSLATE"
+"mailCode1735","DO NOT TRANSLATE"
+"mailCode1736","DO NOT TRANSLATE"
+"mailCode1737","DO NOT TRANSLATE"
+"mailCode1738","DO NOT TRANSLATE"
+"mailCode1739","DO NOT TRANSLATE"
+"mailCode1740","DO NOT TRANSLATE"
+"mailCode1741","DO NOT TRANSLATE"
+"mailCode1742","DO NOT TRANSLATE"
+"mailCode1743","DO NOT TRANSLATE"
+"mailCode1744","DO NOT TRANSLATE"
+"mailCode1745","DO NOT TRANSLATE"
+"mailCode1746","DO NOT TRANSLATE"
+"mailCode1747","DO NOT TRANSLATE"
+"mailCode1748","DO NOT TRANSLATE"
+"mailCode1749","DO NOT TRANSLATE"
+"mailCode1750","DO NOT TRANSLATE"
+"mailCode1751","DO NOT TRANSLATE"
+"mailCode1752","DO NOT TRANSLATE"
+"mailCode1753","DO NOT TRANSLATE"
+"mailCode1754","DO NOT TRANSLATE"
+"mailCode1755","DO NOT TRANSLATE"
+"mailCode1756","DO NOT TRANSLATE"
+"mailCode1757","DO NOT TRANSLATE"
+"mailCode1758","DO NOT TRANSLATE"
+"mailCode1759","DO NOT TRANSLATE"
+"mailCode1760","DO NOT TRANSLATE"
+"mailCode1761","DO NOT TRANSLATE"
+"mailCode1762","DO NOT TRANSLATE"
+"mailCode1763","DO NOT TRANSLATE"
+"mailCode1764","DO NOT TRANSLATE"
+"mailCode1765","DO NOT TRANSLATE"
+"mailCode1766","DO NOT TRANSLATE"
+"mailCode1767","DO NOT TRANSLATE"
+"mailCode1768","DO NOT TRANSLATE"
+"mailCode1769","DO NOT TRANSLATE"
+"mailCode1770","DO NOT TRANSLATE"
+"mailCode1771","DO NOT TRANSLATE"
+"mailCode1772","DO NOT TRANSLATE"
+"mailCode1773","DO NOT TRANSLATE"
+"mailCode1774","DO NOT TRANSLATE"
+"mailCode1775","DO NOT TRANSLATE"
+"mailCode1776","DO NOT TRANSLATE"
+"mailCode1777","DO NOT TRANSLATE"
+"mailCode1778","DO NOT TRANSLATE"
+"mailCode1779","DO NOT TRANSLATE"
+"mailCode1780","DO NOT TRANSLATE"
+"mailCode1781","DO NOT TRANSLATE"
+"mailCode1782","DO NOT TRANSLATE"
+"mailCode1783","DO NOT TRANSLATE"
+"mailCode1784","DO NOT TRANSLATE"
+"mailCode1785","DO NOT TRANSLATE"
+"mailCode1786","DO NOT TRANSLATE"
+"mailCode1787","DO NOT TRANSLATE"
+"mailCode1788","DO NOT TRANSLATE"
+"mailCode1789","DO NOT TRANSLATE"
+"mailCode1790","DO NOT TRANSLATE"
+"mailCode1791","DO NOT TRANSLATE"
+"mailCode1792","DO NOT TRANSLATE"
+"mailCode1793","DO NOT TRANSLATE"
+"mailCode1794","DO NOT TRANSLATE"
+"mailCode1795","DO NOT TRANSLATE"
+"mailCode1796","DO NOT TRANSLATE"
+"mailCode1797","DO NOT TRANSLATE"
+"mailCode1798","DO NOT TRANSLATE"
+"mailCode1799","DO NOT TRANSLATE"
+"mailCode1800","DO NOT TRANSLATE"
+"mailCode1801","DO NOT TRANSLATE"
+"mailCode1802","DO NOT TRANSLATE"
+"mailCode1803","DO NOT TRANSLATE"
+"mailCode1804","DO NOT TRANSLATE"
+"mailCode1805","DO NOT TRANSLATE"
+"mailCode1806","DO NOT TRANSLATE"
+"mailCode1807","DO NOT TRANSLATE"
+"mailCode1808","DO NOT TRANSLATE"
+"mailCode1809","DO NOT TRANSLATE"
+"mailCode1810","DO NOT TRANSLATE"
+"mailCode1811","DO NOT TRANSLATE"
+"mailCode1812","DO NOT TRANSLATE"
+"mailCode1813","DO NOT TRANSLATE"
+"mailCode1814","DO NOT TRANSLATE"
+"mailCode1815","DO NOT TRANSLATE"
+"mailCode1816","DO NOT TRANSLATE"
+"mailCode1817","DO NOT TRANSLATE"
+"mailCode1818","DO NOT TRANSLATE"
+"mailCode1819","DO NOT TRANSLATE"
+"mailCode1820","DO NOT TRANSLATE"
+"mailCode1821","DO NOT TRANSLATE"
+"mailCode1822","DO NOT TRANSLATE"
+"mailCode1823","DO NOT TRANSLATE"
+"mailCode1824","DO NOT TRANSLATE"
+"mailCode1825","DO NOT TRANSLATE"
+"mailCode1826","DO NOT TRANSLATE"
+"mailCode1827","DO NOT TRANSLATE"
+"mailCode1828","DO NOT TRANSLATE"
+"mailCode1829","DO NOT TRANSLATE"
+"mailCode1830","DO NOT TRANSLATE"
+"mailCode1831","DO NOT TRANSLATE"
+"mailCode1832","DO NOT TRANSLATE"
+"mailCode1833","DO NOT TRANSLATE"
+"mailCode1834","DO NOT TRANSLATE"
+"mailCode1835","DO NOT TRANSLATE"
+"mailCode1836","DO NOT TRANSLATE"
+"mailCode1837","DO NOT TRANSLATE"
+"mailCode1838","DO NOT TRANSLATE"
+"mailCode1839","DO NOT TRANSLATE"
+"mailCode1840","DO NOT TRANSLATE"
+"mailCode1841","DO NOT TRANSLATE"
+"mailCode1842","DO NOT TRANSLATE"
+"mailCode1843","DO NOT TRANSLATE"
+"mailCode1844","DO NOT TRANSLATE"
+"mailCode1845","DO NOT TRANSLATE"
+"mailCode1846","DO NOT TRANSLATE"
+"mailCode1847","DO NOT TRANSLATE"
+"mailCode1848","DO NOT TRANSLATE"
+"mailCode1849","DO NOT TRANSLATE"
+"mailCode1850","DO NOT TRANSLATE"
+"mailCode1851","DO NOT TRANSLATE"
+"mailCode1852","DO NOT TRANSLATE"
+"mailCode1853","DO NOT TRANSLATE"
+"mailCode1854","DO NOT TRANSLATE"
+"mailCode1855","DO NOT TRANSLATE"
+"mailCode1856","DO NOT TRANSLATE"
+"mailCode1857","DO NOT TRANSLATE"
+"mailCode1858","DO NOT TRANSLATE"
+"mailCode1859","DO NOT TRANSLATE"
+"mailCode1860","DO NOT TRANSLATE"
+"mailCode1861","DO NOT TRANSLATE"
+"mailCode1862","DO NOT TRANSLATE"
+"mailCode1863","DO NOT TRANSLATE"
+"mailCode1864","DO NOT TRANSLATE"
+"mailCode1865","DO NOT TRANSLATE"
+"mailCode1866","DO NOT TRANSLATE"
+"mailCode1867","DO NOT TRANSLATE"
+"mailCode1868","DO NOT TRANSLATE"
+"mailCode1869","DO NOT TRANSLATE"
+"mailCode1870","DO NOT TRANSLATE"
+"mailCode1871","DO NOT TRANSLATE"
+"mailCode1872","DO NOT TRANSLATE"
+"mailCode1873","DO NOT TRANSLATE"
+"mailCode1874","DO NOT TRANSLATE"
+"mailCode1875","DO NOT TRANSLATE"
+"mailCode1876","DO NOT TRANSLATE"
+"mailCode1877","DO NOT TRANSLATE"
+"mailCode1878","DO NOT TRANSLATE"
+"mailCode1879","DO NOT TRANSLATE"
+"mailCode1880","DO NOT TRANSLATE"
+"mailCode1881","DO NOT TRANSLATE"
+"mailCode1882","DO NOT TRANSLATE"
+"mailCode1883","DO NOT TRANSLATE"
+"mailCode1884","DO NOT TRANSLATE"
+"mailCode1885","DO NOT TRANSLATE"
+"mailCode1886","DO NOT TRANSLATE"
+"mailCode1887","DO NOT TRANSLATE"
+"mailCode1888","DO NOT TRANSLATE"
+"mailCode1889","DO NOT TRANSLATE"
+"mailCode1890","DO NOT TRANSLATE"
+"mailCode1891","DO NOT TRANSLATE"
+"mailCode1892","DO NOT TRANSLATE"
+"mailCode1893","DO NOT TRANSLATE"
+"mailCode1894","DO NOT TRANSLATE"
+"mailCode1895","DO NOT TRANSLATE"
+"mailCode1896","DO NOT TRANSLATE"
+"mailCode1897","DO NOT TRANSLATE"
+"mailCode1898","DO NOT TRANSLATE"
+"mailCode1899","DO NOT TRANSLATE"
+"mailCode1900","<title>You there! Yes, you!</title>
+<body>Come over here a minute!
+Nigh Plains? Cave Entrance?
+Or something like that...
+I have an urgent request! Seriously!
+What do you mean this sounds shady?!
+It is totally not shady!
+
+From the Most Beautiful Trainer Ever</body>"
+"mailCode1901","<title>My pupil!</title>
+<body>All of my pupils need to undergo ten
+training sessions! It's basic stuff!
+After that, come back here!</body>"
+"mailCode1902","<title>Get some Digistalks!</title>
+<body>When you've collected 30 Digistalks,
+bring them to me!
+Just remember, treat them as you want to
+be treated yourself...
+Actually, that probably doesn't apply
+here. Just get them!</body>"
+"mailCode1903","<title>!!!</title>
+<body>Three things:
+A Super Regen Disk,
+a Super Double Disk,
+and a Full Remedy Disk!
+Make sure you don't get the wrong
+things!
+You won't be able to deceive me!</body>"
+"mailCode1904","<title>My favorite pupil!</title>
+<body>You are now ready for my final training
+session!
+Come to the usual place!
+This will be tough, so be ready!</body>"
+"mailCode1905","<title>I'm back!</title>
+<body>Anyway... Somehow...
+Through everything...
+I have finally returned to this world...
+And where is this world precisely...?
+It's your job to find out, my pupil!</body>"
+"mailCode1906","DO NOT TRANSLATE"
+"mailCode1907","DO NOT TRANSLATE"
+"mailCode1908","DO NOT TRANSLATE"
+"mailCode1909","DO NOT TRANSLATE"
+"mailCode1910","DO NOT TRANSLATE"
+"mailCode1911","<title>Come here!</title>
+<body>I'm at a place with cables.
+I see grass and trees here, too.
+Please come save me!</body>"
+"mailCode1912","<title>Clear them out!</title>
+<body>I want you to get rid of the scary
+Digimon on the east side of the Vast
+Plateau.</body>"
+"mailCode1913","<title>Go take a look!</title>
+<body>Greenery... Soil... A waterfall...?
+A fence...? A long...bridge...?
+I remember this scenery... There must
+be...something there, I'm sure of it.</body>"
+"mailCode1914","DO NOT TRANSLATE"
+"mailCode1915","DO NOT TRANSLATE"
+"mailCode1916","DO NOT TRANSLATE"
+"mailCode1917","DO NOT TRANSLATE"
+"mailCode1918","DO NOT TRANSLATE"
+"mailCode1919","DO NOT TRANSLATE"
+"mailCode1920","DO NOT TRANSLATE"
+"mailCode1921","<title>Come here, it's urgent!</title>
+<body>We have to talk--THEY have finally
+revived!</body>"
+"mailCode1922","<title>MetalEtemon</title>
+<body>They say MetalEtemon is in Ohguino
+Wastelands, but still he's nowhere to be
+found. We'll need his power in the
+decisive battle against Titamon!</body>"
+"mailCode1923","<title>Sa...mu...</title>
+<body>Samudramon...
+in Faulty Ex Ma...east side...
+hurry...</body>"
+"mailCode1924","<title>Come back right away!</title>
+<body>I know where Kuzuhamon is. But for now,
+come back to Jijimon's house.</body>"
+"mailCode1925","DO NOT TRANSLATE"
+"mailCode1926","DO NOT TRANSLATE"
+"mailCode1927","DO NOT TRANSLATE"
+"mailCode1928","DO NOT TRANSLATE"
+"mailCode1929","DO NOT TRANSLATE"
+"mailCode1930","<title>How troubling...</title>
+<body>Hey there, {0}.
+I'm actually in a bit of a bind.
+Sorry, but would you come to my place?</body>"
+"mailCode1931","<title>Listen to their stories</title>
+<body>Numemon in the Central District, Sukamon
+in the Agricultural District, and
+PlatinumSukamon in the Business
+District. Won't you listen to what they
+have to say? Who knows, you might get a
+lead.</body>"
+"mailCode1932","<title>Vintage Digimoss</title>
+<body>It's in a side room in the Captain's
+Cabin in MOD Cape. It's a precious
+commodity, so don't rip it up! Just
+caress it a bit to get the scent on you.
+That'll be plenty against Numelfos in
+Vast Plateau. Good luck, and put an end
+to this foolishness!</body>"
+"mailCode1933","<title>Much appreciated!</title>
+<body>Our savior! Thank you for all that
+you've done. That Numelfos has been
+flushed down the drain, and the Drainage
+Path is safe. This is all thanks to you!
+Kaoriel and I will continue to protect
+the emperor. Do stop by whenever you're
+nearby! Until then...</body>"
+"mailCode1934","DO NOT TRANSLATE"
+"mailCode1935","DO NOT TRANSLATE"
+"mailCode1936","<title>Emergency meeting</title>
+<body>Another accident happened.
+I don't think it's that bad yet, but we
+need a strategy meeting at my house!</body>"
+"mailCode1937","<title>New signal</title>
+<body>So did you learn something? We just
+picked up a signal at Infinite Cauldron.
+Can you head there too?</body>"
+"mailCode1938","<title>We got one!</title>
+<body>There was a new signal from the Bus
+Terminal in Server Desert.
+Kouta is heading there now.
+Can you head there too,
+{0}?</body>"
+"mailCode1939","DO NOT TRANSLATE"
+"mailCode1940","DO NOT TRANSLATE"
+"mailCode1941","<title>Mysterious Letter! Urgent Call</title>
+<body>Somebody needs yer help again... or so
+I reckon. First, let's meet up for a
+chat, shall we?</body>"
+"mailCode1942","<title>Secret of the Pink Stone House</title>
+<body>A shadow lurks in the old house. Is it a
+ghost? A visitor from another world? Try
+and solve this bizarre mystery! You're
+the only one who can!</body>"
+"mailCode1943","DO NOT TRANSLATE"
+"mailCode1944","DO NOT TRANSLATE"
+"mailCode1945","DO NOT TRANSLATE"
+"mailCode1946","DO NOT TRANSLATE"
+"mailCode1947","DO NOT TRANSLATE"
+"mailCode1948","DO NOT TRANSLATE"
+"mailCode1949","DO NOT TRANSLATE"
+"mailCode1950","<title>8 Remaining</title>
+<body>Did you take care of the bathroom
+in Nigh Plains?
+
+I manipulated the natural forces to find
+the next location. It seems like you
+should head for the bathroom in the
+Server Cemetery in the Server Desert
+next. I wish you luck.</body>"
+"mailCode1951","<title>7 Remaining</title>
+<body>Looks like you're done with the
+Server Desert bathroom. Good work.
+
+I've used my powers again to find the
+next location. Head to bathroom in the
+Logic Volcano. Make sure to check the
+Flame Lands while you're there.</body>"
+"mailCode1952","<title>6 Remaining</title>
+<body>You're done with the Logic Volcano
+bathroom.
+
+Next is the Inlet Cape bathroom located
+in the MOD Cape. I'm sure of it.
+
+Make sure you keep your guard up while
+you're there.</body>"
+"mailCode1953","<title>5 Remaining</title>
+<body>I see you're done with the MOD
+Cape bathroom.
+
+Next head to the Guts Wastes in the
+Ohguino Wastelands. A cunning individual
+awaits you there.
+
+If anyone can handle this, you can...
+but make sure to stay on your
+guard.</body>"
+"mailCode1954","<title>4 Left, Halfway There</title>
+<body>You're done with the Guts Wastes
+bathroom.
+
+My thanks for your help with the
+Guardromons.
+
+I believe you're aware that there are
+two bathrooms in the Ohguino Wastelands.
+The one in Palace of Thorns is your next
+destination.</body>"
+"mailCode1955","<title>3 Remaining</title>
+<body>It seems you've completed your
+task at the Palace of Thorns.
+
+Next is the Bony Resort, but beware...
+you don't want to travel to the bathroom
+in Bony Drive at night.</body>"
+"mailCode1956","<title>2 Remaining</title>
+<body>It seems you're done with the
+bathroom at the Bony Resort.
+
+Next head to the Frost Cathedral
+bathroom in Absolute Zero.
+
+As for the PlatinumNumemon princess...
+Well, avoiding battle is the best
+strategy.</body>"
+"mailCode1957","<title>Only 1 Left</title>
+<body>Good work at the Absolute Zero
+bathroom.
+
+Your final destination is the West Coast
+in the Faulty Ex Machina.</body>"
+"mailCode1958","<title>One Final Task</title>
+<body>You're done with all the
+bathrooms! Outstanding work! The only
+thing left is to head to KingSukamon's
+Chamber and end this.
+
+I must admit I feel a bit uneasy... but
+this is the path down which the natural
+forces have guided us.</body>"
+"mailCode1959","<title>Excellent Work!</title>
+<body>Everyone is waiting at Jijimon's
+House. Please return soon and tell us
+what happened.
+
+But... if you could, before returning
+I'd like to ask you to walk through the
+river in the Vast Plateau.</body>"
+"mailCode1960","DO NOT TRANSLATE"
+"mailCode1961","DO NOT TRANSLATE"
+"mailCode1962","DO NOT TRANSLATE"
+"mailCode1963","DO NOT TRANSLATE"
+"mailCode1964","DO NOT TRANSLATE"
+"mailCode1965","DO NOT TRANSLATE"
+"mailCode1966","DO NOT TRANSLATE"
+"mailCode1967","DO NOT TRANSLATE"
+"mailCode1968","DO NOT TRANSLATE"
+"mailCode1969","DO NOT TRANSLATE"
+"mailCode1970","DO NOT TRANSLATE"
+"mailCode1971","DO NOT TRANSLATE"
+"mailCode1972","DO NOT TRANSLATE"
+"mailCode1973","DO NOT TRANSLATE"
+"mailCode1974","DO NOT TRANSLATE"
+"mailCode1975","DO NOT TRANSLATE"
+"mailCode1976","DO NOT TRANSLATE"
+"mailCode1977","DO NOT TRANSLATE"
+"mailCode1978","DO NOT TRANSLATE"
+"mailCode1979","DO NOT TRANSLATE"
+"mailCode1980","DO NOT TRANSLATE"
+"mailCode1981","DO NOT TRANSLATE"
+"mailCode1982","DO NOT TRANSLATE"
+"mailCode1983","DO NOT TRANSLATE"
+"mailCode1984","DO NOT TRANSLATE"
+"mailCode1985","DO NOT TRANSLATE"
+"mailCode1986","DO NOT TRANSLATE"
+"mailCode1987","DO NOT TRANSLATE"
+"mailCode1988","DO NOT TRANSLATE"
+"mailCode1989","DO NOT TRANSLATE"
+"mailCode1990","DO NOT TRANSLATE"
+"mailCode1991","DO NOT TRANSLATE"
+"mailCode1992","DO NOT TRANSLATE"
+"mailCode1993","DO NOT TRANSLATE"
+"mailCode1994","DO NOT TRANSLATE"
+"mailCode1995","DO NOT TRANSLATE"
+"mailCode1996","DO NOT TRANSLATE"
+"mailCode1997","DO NOT TRANSLATE"
+"mailCode1998","DO NOT TRANSLATE"
+"mailCode1999","DO NOT TRANSLATE"
+"mailCode2000","DO NOT TRANSLATE"
+"3a054ff6","<title>Digistalk Gathering</title>
+<body>Gather five Digistalks!
+
+Reward: 1,000 NWP</body>"
+"e6db041f","<title>Success: Digistalks</title>
+<body>You gathered five Digistalks!
+
+Received: 1,000 NWP</body>"
+"3a054ff5","<title>Goblimon Hunt</title>
+<body>Defeat five Goblimon!
+
+Reward: 1,000 NWP</body>"
+"552c844a","<title>Success: Goblimon</title>
+<body>You defeated five Goblimon!
+
+Received: 1,000 NWP</body>"
+"3a054ff4","<title>Conductor Lemon Gathering</title>
+<body>Gather three Conductor Lemons!
+
+Reward: 2,000 NWP</body>"
+"ea549641","<title>Success: Conductor Lemons</title>
+<body>You gathered three Conductor Lemons!
+
+Received: 2,000 NWP</body>"
+"3a054ff3","<title>Aruraumon Hunt</title>
+<body>Defeat five Aruraumon!
+
+Reward: 1,000 NWP</body>"
+"9f67bfa4","<title>Success: Aruraumon</title>
+<body>You defeated five Aruraumon!
+
+Received: 1,000 NWP</body>"
+"3a054ff2","<title>Logic Volcano Trip #1</title>
+<body>Go to Taomon's Meditation Place at Logic
+Volcano!
+
+Reward: 3,000 NWP</body>"
+"133ee34b","<title>Success: Logic Volcano #1</title>
+<body>You went to Taomon's Meditation Place at
+Logic Volcano!
+
+Received: 3,000 NWP</body>"
+"3a054ff1","<title>Green Digistalk Gathering</title>
+<body>Gather five Green Digistalks!
+
+Reward: 4,000 NWP</body>"
+"a0536096","<title>Success: Green Digistalks</title>
+<body>You gathered five Green Digistalks!
+
+Received: 4,000 NWP</body>"
+"3a054ff0","<title>Gotsumon Hunt</title>
+<body>Defeat five Gotsumon!
+
+Reward: 1,000 NWP</body>"
+"357b72ad","<title>Success: Gotsumon</title>
+<body>You defeated five Gotsumon!
+
+Received: 1,000 NWP</body>"
+"3a054fff","<title>Cheerful Apple Gathering</title>
+<body>Gather three Cheerful Apples!
+
+Reward: 1,000 NWP</body>"
+"98faff00","<title>Success: Cheerful Apples</title>
+<body>You gathered three Cheerful Apples!
+
+Received: 1,000 NWP</body>"
+"3a054ffe","<title>Garurumon (Black) Hunt!</title>
+<body>Defeat two Garurumon (Black)!
+
+Reward: 2,000 NWP</body>"
+"4e0fbc67","<title>Success: Garurumon (Black)</title>
+<body>You defeated two Garurumon (Black)!
+
+Received: 2,000 NWP</body>"
+"39054e04","<title>Server Desert Trip #1</title>
+<body>Go to Dead End Town in the Server
+Desert!
+
+Reward: 1,000 NWP</body>"
+"bf1c0011","<title>Success: Server Desert #1</title>
+<body>You went to Dead End Town in the Server
+Desert!
+
+Received: 1,000 NWP</body>"
+"39054e05","<title>Salty Fruit Gathering</title>
+<body>Gather four Salty Fruits!
+
+Reward: 3,000 NWP</body>"
+"29f3ee1a","<title>Success: Salty Fruits</title>
+<body>You gathered four Salty Fruits!
+
+Received: 3,000 NWP</body>"
+"39054e06","<title>Fugamon Hunt</title>
+<body>Defeat three Fugamon!
+
+Reward: 4,000 NWP</body>"
+"7cdf3e2f","<title>Success: Fugamon</title>
+<body>You defeated three Fugamon!
+
+Received: 4,000 NWP</body>"
+"39054e07","<title>Celestial Chestnut Gathering</title>
+<body>Gather one Celestial Chestnut!
+
+Reward: 1,000 NWP</body>"
+"9081a88","<title>Success: Celestial Chestnut</title>
+<body>You gathered one Celestial Chestnut!
+
+Received: 1,000 NWP</body>"
+"39054e00","<title>Shamamon Hunt</title>
+<body>Defeat five Shamamon!
+
+Reward: 1,000 NWP</body>"
+"cbd467d","<title>Success: Shamamon</title>
+<body>You defeated five Shamamon!
+
+Received: 1,000 NWP</body>"
+"39054e01","<title>MOD Cape Trip #1</title>
+<body>Go to Ship 2.0 Cabin in MOD Cape!
+
+Reward: 2,000 NWP</body>"
+"77953466","<title>Success: MOD Cape #1</title>
+<body>You went to Ship 2.0 Cabin in MOD Cape!
+
+Received: 2,000 NWP</body>"
+"39054e02","<title>Unlucky Shroom Gathering</title>
+<body>Gather two Unlucky Shrooms!
+
+Reward: 1,000 NWP</body>"
+"ea80b61b","<title>Success: Unlucky Shrooms</title>
+<body>You gathered two Unlucky Shrooms!
+
+Received: 1,000 NWP</body>"
+"39054e03","<title>Woodmon Hunt</title>
+<body>Defeat three Woodmon!
+
+Reward: 3,000 NWP</body>"
+"356d8cb4","<title>Success: Woodmon</title>
+<body>You defeated the Woodmon!
+
+Received: 3,000 NWP</body>"
+"39054e0c","<title>Golden Acorn Gathering</title>
+<body>Collect one Golden Acorn!
+
+Reward: 4,000 NWP</body>"
+"65085d9","<title>Success: Golden Acorn</title>
+<body>You gathered one Golden Acorn!
+
+Received: 4,000 NWP</body>"
+"39054e0d","<title>Vegiemon Hunt</title>
+<body>Defeat five Vegiemon!
+
+Reward: 1,000 NWP</body>"
+"9128a662","<title>Success: Vegiemon</title>
+<body>You defeated five Vegiemon!
+
+Received: 1,000 NWP</body>"
+"3c0552dd","<title>Ohguino Wastelands Trip #1</title>
+<body>Go to the Secret Graveyard in the
+Ohguino Wastelands!
+
+Reward: 1,000 NWP</body>"
+"6867e3b2","<title>Success: Ohguino Wastelands #1</title>
+<body>You went to the Secret Graveyard in the
+Ohguino Wastelands!
+
+Received: 1,000 NWP</body>"
+"3c0552dc","<title>Deluxe Mushroom Gathering</title>
+<body>Gather two Deluxe Mushrooms!
+
+Reward: 2,000 NWP</body>"
+"1d902869","<title>Success: Deluxe Mushroom</title>
+<body>You gathered two Deluxe Mushrooms!
+
+Received: 2,000 NWP</body>"
+"3c0552df","<title>Agumon (Black) Hunt</title>
+<body>Defeat five Agumon (Black)!
+
+Reward: 1,000 NWP</body>"
+"477c1020","<title>Success: Agumon (Black)</title>
+<body>You defeated five Agumon (Black)!
+
+Received: 1,000 NWP</body>"
+"3c0552de","<title>Baby Strawberry Gathering</title>
+<body>Gather two Baby Strawberries!
+
+Reward: 3,000 NWP</body>"
+"fb539807","<title>Success: Baby Strawberries</title>
+<body>You gathered two Baby Strawberries!
+
+Received: 3,000 NWP</body>"
+"3c0552d9","<title>Saberdramon Hunt</title>
+<body>Defeat four Saberdramon!
+
+Reward: 4,000 NWP</body>"
+"b60abc1e","<title>Success: Saberdramon</title>
+<body>You defeated four Saberdramon!
+
+Received: 4,000 NWP</body>"
+"3c0552d8","<title>Bony Resort Trip #1</title>
+<body>Go to the Celeb Blue Room at the Bony
+Resort!
+
+Reward: 1,000 NWP</body>"
+"6b3300b5","<title>Success: Bony Resort #1</title>
+<body>You went to the Celeb Blue Room at the
+Bony Resort!
+
+Received: 1,000 NWP</body>"
+"3c0552db","<title>Fighty Fungus Gathering</title>
+<body>Gather one Fighty Fungus.
+
+Reward: 1,000 NWP</body>"
+"92a47f8c","<title>Success: Fighty Fungus</title>
+<body>You gathered one Fighty Fungus!
+
+Received: 1,000 NWP</body>"
+"3c0552da","<title>ClearAgumon Hunt</title>
+<body>Defeat ten ClearAgumon!
+
+Reward: 2,000 NWP</body>"
+"48f67153","<title>Success: ClearAgumon</title>
+<body>You defeated ten ClearAgumon!
+
+Received: 2,000 NWP</body>"
+"3c0552d5","<title>Orange Banana Gathering</title>
+<body>Gather two Orange Bananas!
+
+Reward: 1,000 NWP</body>"
+"131996a","<title>Success: Orange Banana</title>
+<body>You gathered two Orange Bananas!
+
+Received: 1,000 NWP</body>"
+"3c0552d4","<title>Wizardmon Hunt</title>
+<body>Defeat six Wizardmon!
+
+Reward: 3,000 NWP</body>"
+"9796dfe1","<title>Success: Wizardmon</title>
+<body>You defeated six Wizardmon!
+
+Received: 3,000 NWP</body>"
+"3b05516a","<title>Faulty Ex Machina Trip #1</title>
+<body>Go to the West Coast of Faulty Ex Machina!
+
+Reward: 4,000 NWP</body>"
+"51171c63","<title>Success: Faulty Ex Machina #1</title>
+<body>You went to the West Coast of Faulty Ex
+Machina!
+
+Received: 4,000 NWP</body>"
+"3b05516b","<title>Celebration Nameko Gathering</title>
+<body>Gather one Celebration Nameko!
+
+Reward: 1,000 NWP</body>"
+"dc02c45c","<title>Success: Celebration Nameko</title>
+<body>You gathered one Celebration Nameko!
+
+Received: 1,000 NWP</body>"
+"3b055168","<title>Guardromon Hunt</title>
+<body>Defeat six Guardromon!
+
+Reward: 1,000 NWP</body>"
+"7490e045","<title>Success: Guardromon</title>
+<body>You defeated six Guardromon!
+
+Received: 1,000 NWP</body>"
+"3b055169","<title>Cloudy Orange Gathering</title>
+<body>Gather two Cloudy Oranges!
+
+Reward: 2,000 NWP</body>"
+"fe2bcc6e","<title>Success: Cloudy Oranges</title>
+<body>You gathered two Cloudy Oranges!
+
+Received: 2,000 NWP</body>"
+"3b05516e","<title>Guardromon (Gold) Hunt</title>
+<body>Defeat one Guardromon (Gold)!
+
+Reward: 1,000 NWP</body>"
+"5eeac17","<title>Success: Guardromon (Gold)</title>
+<body>You defeated one Guardromon (Gold)!
+
+Received: 1,000 NWP</body>"
+"3b05516f","<title>Absolute Zero Trip #1</title>
+<body>Go to the Freeze Way in Absolute Zero!
+
+Reward: 3,000 NWP</body>"
+"90da54f0","<title>Success: Absolute Zero #1</title>
+<body>You went to the Freeze Way in Absolute
+Zero!
+
+Received: 3,000 NWP</body>"
+"3b05516c","<title>Frostcut Mushroom Gathering</title>
+<body>Gather four Frostcut Mushrooms!
+
+Reward: 4,000 NWP</body>"
+"282b3c79","<title>Success: Frostcut Mushrooms</title>
+<body>You gathered four Frostcut Mushrooms!
+
+Received: 4,000 NWP</body>"
+"3b05516d","<title>SnowAgumon Hunt</title>
+<body>Defeat five SnowAgumon!
+
+Reward: 1,000 NWP</body>"
+"b3035c02","<title>Success: SnowAgumon</title>
+<body>You defeated five SnowAgumon!
+
+Received: 1,000 NWP</body>"
+"3b055162","<title>Confusion Cherry Gathering</title>
+<body>Gather one Confusion Cherry!
+
+Reward: 1,000 NWP</body>"
+"9e103bb","<title>Success: Confusion Cherry</title>
+<body>You gathered one Confusion Cherry!
+
+Received: 1,000 NWP</body>"
+"3b055163","<title>SnowGoblimon Hunt</title>
+<body>Defeat ten SnowGoblimon!
+
+Reward: 2,000 NWP</body>"
+"54cc4754","<title>Success: SnowGoblimon</title>
+<body>You defeated ten SnowGoblimon!
+
+Received: 2,000 NWP</body>"
+"3605494b","<title>Infinite Cauldron Trip #1</title>
+<body>Go to Layer 03 in the Infinite Cauldron!
+
+Reward: 1,000 NWP</body>"
+"93cf9c7c","<title>Success: Infinite Cauldron #1</title>
+<body>You went to Layer 03 in the Infinite
+Cauldron!
+
+Received: 1,000 NWP</body>"
+"3605494a","<title>Quick Fruit Gathering</title>
+<body>Gather three Quick Fruits!
+
+Reward: 3,000 NWP</body>"
+"7a6bf03","<title>Success: Quick Fruits</title>
+<body>You gathered three Quick Fruits!
+
+Received: 3,000 NWP</body>"
+"36054949","<title>Datamon Hunt</title>
+<body>Defeat three Datamon!
+
+Reward: 4,000 NWP</body>"
+"b4b9dc0e","<title>Success: Datamon</title>
+<body>You defeated three Datamon!
+
+Received: 4,000 NWP</body>"
+"36054948","<title>Digifry Fishing</title>
+<body>Fish for three Digifry!
+
+Reward: 1,000 NWP</body>"
+"29e34f65","<title>Success: Digifry</title>
+<body>You caught three Digifry!
+
+Received: 1,000 NWP</body>"
+"3605494f","<title>Piddomon Hunt</title>
+<body>Defeat three Piddomon!
+
+Reward: 1,000 NWP</body>"
+"462cc310","<title>Success: Piddomon Hunt</title>
+<body>You defeated three Piddomon!
+
+Received: 1,000 NWP</body>"
+"3605494e","<title>Logic Volcano Trip #2</title>
+<body>Go to the Crimson Shrine at Logic
+Volcano!
+
+Reward: 2,000 NWP</body>"
+"bb411b37","<title>Success: Logic Volcano #2</title>
+<body>You went to the Crimson Shrine at
+Logic Volcano!
+
+Reward: 2,000 NWP</body>"
+"3605494d","<title>Acrid Fruit Gathering</title>
+<body>Gather one Acrid Fruit!
+
+Reward: 1,000 NWP</body>"
+"6992ffa2","<title>Success: Acrid Fruit</title>
+<body>You gathered one Acrid Fruit!
+
+Received: 1,000 NWP</body>"
+"3605494c","<title>Meramon Hunt</title>
+<body>Defeat six Meramon!
+
+Reward: 3,000 NWP</body>"
+"debadf19","<title>Success: Meramon</title>
+<body>You defeated six Meramon!
+
+Received: 3,000 NWP</body>"
+"36054943","<title>Digicrucian Fishing</title>
+<body>Fish for six Digicrucians!
+
+Reward: 4,000 NWP</body>"
+"b5beaf4","<title>Success: Digicrucians</title>
+<body>You caught six Digicrucians!
+
+Received: 4,000 NWP</body>"
+"36054942","<title>BomberNanimon Hunt</title>
+<body>Defeat two BomberNanimon!
+
+Reward: 1,000 NWP</body>"
+"c070a75b","<title>Success: BomberNanimon</title>
+<body>You defeated two BomberNanimon!
+
+Received: 1,000 NWP</body>"
+"350547d8","<title>MOD Cape Trip #2</title>
+<body>Go to the Captain's Cabin at MOD Cape!
+
+Reward: 1,000 NWP</body>"
+"747ec7b5","<title>Success: MOD Cape #2</title>
+<body>You went to the Captain's Cabin at MOD
+Cape!
+
+Received: 1,000 NWP</body>"
+"350547d9","<title>Rolly Fruit Gathering</title>
+<body>Gather three Rolly Fruits!
+
+Reward: 2,000 NWP</body>"
+"bf56831e","<title>Success: Rolly Fruits</title>
+<body>You gathered three Rolly Fruits!
+
+Received: 2,000 NWP</body>"
+"350547da","<title>Seadramon Hunt</title>
+<body>Defeat four Seadramon!
+
+Reward: 1,000 NWP</body>"
+"52423853","<title>Success: Seadramon</title>
+<body>You defeated four Seadramon!
+
+Received: 1,000 NWP</body>"
+"350547db","<title>Digikoi Fishing</title>
+<body>Fish for four Digikoi!
+
+Reward: 3,000 NWP</body>"
+"9bf0468c","<title>Success: Digikoi</title>
+<body>You caught four Digikoi!
+
+Received: 3,000 NWP</body>"
+"350547dc","<title>WereGarurumon (Black) Hunt</title>
+<body>Defeat one WereGarurumon (Black)!
+
+Reward: 4,000 NWP</body>"
+"26dbef69","<title>Success: WereGarurumon (Blk)</title>
+<body>You defeated one WereGarurumon (Black)!
+
+Received: 4,000 NWP</body>"
+"350547dd","<title>Ohguino Wastelands Trip #2</title>
+<body>Go to the Rose Palace in the Ohguino
+Wastelands!
+
+Reward: 1,000 NWP</body>"
+"71b3aab2","<title>Success: Ohguino Wastelands #2</title>
+<body>You went to the Rose Palace in the
+Ohguino Wastelands!
+
+Received: 1,000 NWP</body>"
+"350547de","<title>Duty Fruit Gathering</title>
+<body>Gather one Duty Fruit!
+
+Reward: 1,000 NWP</body>"
+"49f5f07","<title>Success: Duty Fruit</title>
+<body>You gathered one Duty Fruit!
+
+Received: 1,000 NWP</body>"
+"350547df","<title>Lopmon Hunt</title>
+<body>Defeat six Lopmon!
+
+Reward: 2,000 NWP</body>"
+"50c7d720","<title>Success: Lopmon</title>
+<body>You defeated six Lopmon!
+
+Received: 2,000 NWP</body>"
+"350547d0","<title>Digicarp Fishing</title>
+<body>Fish for three Digicarp!
+
+Reward: 1,000 NWP</body>"
+"ec0b164d","<title>Success: Digicarp</title>
+<body>You caught three Digicarp!
+
+Received: 1,000 NWP</body>"
+"350547d1","<title>BlackGatomon Hunt</title>
+<body>Defeat four BlackGatomon!
+
+Reward: 3,000 NWP</body>"
+"582038b6","<title>Success: BlackGatomon</title>
+<body>You defeated four BlackGatomon!
+
+Received: 3,000 NWP</body>"
+"38054c91","<title>Bony Resort Trip #2</title>
+<body>Go to the Pink Stone House at the Bony
+Resort!
+
+Reward: 4,000 NWP</body>"
+"7fb77276","<title>Success: Bony Resort #2</title>
+<body>You went to the Pink Stone House at the
+Bony Resort!
+
+Received: 4,000 NWP</body>"
+"38054c90","<title>Dozy Fruit Gathering</title>
+<body>Gather one Dozy Fruit!
+
+Reward: 1,000 NWP</body>"
+"161cb80d","<title>Success: Dozy Fruit</title>
+<body>You gathered one Dozy Fruit!
+
+Received: 1,000 NWP</body>"
+"38054c93","<title>Sukamon Hunt</title>
+<body>Defeat six Sukamon!
+
+Reward: 1,000 NWP</body>"
+"7d8e9c04","<title>Success: Sukamon</title>
+<body>You defeated six Sukamon!
+
+Received: 1,000 NWP</body>"
+"38054c92","<title>Digibitterling Fishing</title>
+<body>Fish for two Digibitterlings!
+
+Reward: 2,000 NWP</body>"
+"f2a2f42b","<title>Success: Digibitterling</title>
+<body>You caught two Digibitterlings!
+
+Received: 2,000 NWP</body>"
+"38054c95","<title>PlatinumSukamon Hunt</title>
+<body>Defeat one PlatinumSukamon!
+
+Reward: 1,000 NWP</body>"
+"348f022a","<title>Success: PlatinumSukamon</title>
+<body>You defeated one PlatinumSukamon!
+
+Received: 1,000 NWP</body>"
+"38054c94","<title>Faulty Ex Machina Trip #2</title>
+<body>Go to KingSukamon's Chamber at Faulty Ex
+Machina!
+
+Reward: 3,000 NWP</body>"
+"c879dfa1","<title>Success: Faulty Ex Machina #2</title>
+<body>You went to KingSukamon's Chamber at
+Faulty Ex Machina!
+
+Received: 3,000 NWP</body>"
+"38054c97","<title>Cobb Fruit Gathering</title>
+<body>Gather four Cobb Fruits!
+
+Reward: 4,000 NWP</body>"
+"1265fa18","<title>Success: Cobb Fruits</title>
+<body>You gathered four Cobb Fruits!
+
+Received: 4,000 NWP</body>"
+"38054c96","<title>WaruSeadramon Hunt</title>
+<body>Defeat two WaruSeadramon!
+
+Reward: 1,000 NWP</body>"
+"c77ab77f","<title>Success: WaruSeadramon</title>
+<body>You defeated two WaruSeadramon!
+
+Received: 1,000 NWP</body>"
+"38054c99","<title>Digisalmon Fishing</title>
+<body>Fish for one Digisalmon!
+
+Reward: 1,000 NWP</body>"
+"e6ec29de","<title>Success: Digisalmon</title>
+<body>You caught one Digisalmon!
+
+Received: 1,000 NWP</body>"
+"38054c98","<title>Meteormon Hunt</title>
+<body>Defeat two Meteormon!
+
+Reward: 2,000 NWP</body>"
+"9c146e75","<title>Success: Meteormon</title>
+<body>You defeated two Meteormon!
+
+Received: 2,000 NWP</body>"
+"37054b3e","<title>Infinite Cauldron Trip #2</title>
+<body>Go to Layer 06 at the Infinite Cauldron!
+
+Reward: 1,000 NWP</body>"
+"267a15a7","<title>Success: Infinite Cauldron #2</title>
+<body>You went to Layer 06 at the Infinite
+Cauldron!
+
+Received: 1,000 NWP</body>"
+"37054b3f","<title>Oily Fruit Gathering</title>
+<body>Gather three Oily Fruits!
+
+Reward: 3,000 NWP</body>"
+"71655940","<title>Success: Oily Fruits</title>
+<body>You gathered three Oily Fruits!
+
+Received: 3,000 NWP</body>"
+"37054b3c","<title>MegaSeadramon Hunt</title>
+<body>Defeat one MegaSeadramon!
+
+Reward: 4,000 NWP</body>"
+"47797089","<title>Success: MegaSeadramon</title>
+<body>You defeated one MegaSeadramon!
+
+Received: 4,000 NWP</body>"
+"37054b3d","<title>Digitrout Fishing</title>
+<body>Fish for five Digitrout!
+
+Reward: 1,000 NWP</body>"
+"938e6152","<title>Success: Digitrout</title>
+<body>You caught five Digitrout!
+
+Received: 1,000 NWP</body>"
+"37054b3a","<title>Youkomon Hunt</title>
+<body>Defeat five Youkomon!
+
+Reward: 1,000 NWP</body>"
+"71a0f2f3","<title>Success: Youkomon</title>
+<body>You defeated five Youkomon!
+
+Received: 1,000 NWP</body>"
+"37054b3b","<title>Logic Volcano Trip #3</title>
+<body>Go to the Dragon's Trident at Logic
+Volcano!
+
+Reward: 2,000 NWP</body>"
+"bc8dc8ac","<title>Success: Logic Volcano #3</title>
+<body>You went to the Dragon's Trident at
+Logic Volcano!
+
+Received: 2,000 NWP</body>"
+"37054b38","<title>Black Digitrout Fishing</title>
+<body>Fish for three Black Digitrout!
+
+Reward: 1,000 NWP</body>"
+"951ab6d5","<title>Success: Black Digitrout</title>
+<body>You caught three Black Digitrout!
+
+Received: 1,000 NWP</body>"
+"37054b39","<title>WarGrowlmon (Orange) Hunt</title>
+<body>Defeat one WarGrowlmon (Orange)!
+
+Reward: 3,000 NWP</body>"
+"dff2723e","<title>Success: WarGrowlmon (Orange)</title>
+<body>You defeated one WarGrowlmon (Orange)!
+
+Received: 3,000 NWP</body>"
+"37054b36","<title>Digisnakehead Fishing</title>
+<body>Fish for one Digisnakehead!
+
+Reward: 4,000 NWP</body>"
+"bf43cb5f","<title>Success: Digisnakehead</title>
+<body>You caught one Digisnakehead!
+
+Received: 4,000 NWP</body>"
+"37054b37","<title>Hagurumon Hunt</title>
+<body>Defeat six Hagurumon!
+
+Reward: 1,000 NWP</body>"
+"a2f0ef8","<title>Success: Hagurumon</title>
+<body>You defeated six Hagurumon!
+
+Received: 1,000 NWP</body>"
+"3205431f","<title>Absolute Zero Trip #2</title>
+<body>Go to the Concealed Gorge at Absolute
+Zero!
+
+Reward: 1,000 NWP</body>"
+"26b7c860","<title>Success: Absolute Zero #2</title>
+<body>You went to the Concealed Gorge at
+Absolute Zero!
+
+Received: 1,000 NWP</body>"
+"3205431e","<title>Digieel Fishing</title>
+<body>Fish for one Digieel!
+
+Reward: 2,000 NWP</body>"
+"dd082647","<title>Success: Digieel</title>
+<body>You caught one Digieel!
+
+Received: 2,000 NWP</body>"
+"3205431d","<title>Icemon Hunt</title>
+<body>Defeat four Icemon!
+
+Reward: 1,000 NWP</body>"
+"4a1c71f2","<title>Success: Icemon</title>
+<body>You defeated four Icemon!
+
+Received: 1,000 NWP</body>"
+"3205431c","<title>Digituna Fishing</title>
+<body>Fish for one Digituna!
+
+Reward: 3,000 NWP</body>"
+"ff44b5a9","<title>Success: Digituna</title>
+<body>You caught one Digituna!
+
+Received: 3,000 NWP</body>"
+"3205431b","<title>Hyogamon Hunt</title>
+<body>Defeat ten Hyogamon!
+
+Reward: 4,000 NWP</body>"
+"74590dcc","<title>Success: Hyogamon</title>
+<body>You defeated ten Hyogamon!
+
+Received: 4,000 NWP</body>"
+"3205431a","<title>Bony Resort Trip #3</title>
+<body>Go to the Night Church at the Bony
+Resort!
+
+Reward: 1,000 NWP</body>"
+"28309593","<title>Success: Bony Resort #3</title>
+<body>You went to the Night Church at the Bony
+Resort!
+
+Received: 1,000 NWP</body>"
+"32054319","<title>Digiarowana Fishing</title>
+<body>Fish for one Digiarowana!
+
+Reward: 1,000 NWP</body>"
+"9544e15e","<title>Success: Digiarowana</title>
+<body>You caught one Digiarowana!
+
+Received: 1,000 NWP</body>"
+"32054318","<title>MegaKabuterimon (Blue) Hunt</title>
+<body>Defeat one MegaKabuterimon (Blue)!
+
+Reward: 2,000 NWP</body>"
+"4a6d25f5","<title>Success: MegaKabuterimon (Bl)</title>
+<body>You defeated one MegaKabuterimon (Blue)!
+
+Received: 2,000 NWP</body>"
+"32054317","<title>Digipirarucu Fishing</title>
+<body>Fish for one Digipirarucu!
+
+Reward: 1,000 NWP</body>"
+"c0beb198","<title>Success: Digipirarucu</title>
+<body>You caught one Digipirarucu!
+
+Received: 1,000 NWP</body>"
+"32054316","<title>BlueMeramon Hunt</title>
+<body>Defeat two BlueMeramon!
+
+Reward: 3,000 NWP</body>"
+"75d36eff","<title>Success: BlueMeramon</title>
+<body>You defeated two BlueMeramon!
+
+Received: 3,000 NWP</body>"
+"310541ac","<title>Absolute Zero Trip #3</title>
+<body>Go to the Eternal Glacier at Absolute
+Zero!
+
+Reward: 4,000 NWP</body>"
+"766f3b9","<title>Success: Absolute Zero #3</title>
+<body>You went to the Eternal Glacier at
+Absolute Zero!
+
+Received: 4,000 NWP</body>"
+"310541ad","<title>Quick Fruit Gathering</title>
+<body>Gather two Quick Fruits!
+
+Reward: 1,000 NWP</body>"
+"923d8142","<title>Success: Quick Fruits</title>
+<body>You gathered two Quick Fruits!
+
+Received: 1,000 NWP</body>"
+"310541ae","<title>Gigadramon Hunt</title>
+<body>Defeat one Gigadramon!
+
+Reward: 1,000 NWP</body>"
+"e52a6457","<title>Success: Gigadramon</title>
+<body>You defeated one Gigadramon!
+
+Received: 1,000 NWP</body>"
+"310541af","<title>Digiloach Fishing</title>
+<body>Gather three Digiloaches!
+
+Reward: 2,000 NWP</body>"
+"70160c30","<title>Success: Digiloaches</title>
+<body>You caught three Digiloaches!
+
+Received: 2,000 NWP</body>"
+"310541a8","<title>DemiDevimon Hunt</title>
+<body>Defeat five DemiDevimon!
+
+Reward: 1,000 NWP</body>"
+"53cb0485","<title>Success: DemiDevimon</title>
+<body>You defeated five DemiDevimon!
+
+Received: 1,000 NWP</body>"
+"310541a9","<title>Infinite Cauldron Trip #3</title>
+<body>Go to Core 02 at the Infinite Cauldron!
+
+Reward: 3,000 NWP</body>"
+"dfe059ae","<title>Success: Infinite Cauldron #3</title>
+<body>You went to Core 02 at the Infinite
+Cauldron!
+
+Received: 3,000 NWP</body>"
+"310541aa","<title>Digistalk Gathering</title>
+<body>Gather 12 Digistalks!
+
+Reward: 4,000 NWP!</body>"
+"32cba9a3","<title>Success: Digistalks</title>
+<body>You gathered 12 Digistalks!
+
+Received: 4,000 NWP!</body>"
+"310541ab","<title>RedVegiemon Hunt</title>
+<body>Defeat three RedVegiemon!
+
+Reward: 1,000 NWP!</body>"
+"bdb7519c","<title>Success: RedVegiemon</title>
+<body>You defeated three RedVegiemon!
+
+Received: 1,000 NWP!</body>"
+"310541a4","<title>Digicatfish Fishing</title>
+<body>Fish for one Digicatfish!
+
+Reward: 1,000 NWP</body>"
+"c16e1071","<title>Success: Digicatfish</title>
+<body>You caught one Digicatfish!
+
+Received: 1,000 NWP</body>"
+"310541a5","<title>GranKuwagamon Hunt</title>
+<body>Defeat two GranKuwagamon!
+
+Reward: 3,000 NWP</body>"
+"2c45fe7a","<title>Success: GranKuwagamon</title>
+<body>You defeated two GranKuwagamon!
+
+Received: 3,000 NWP</body>"
+"b4023e0e","<title>Infinite Cauldron Trip #4</title>
+<body>Go to Core 00 at the Infinite Cauldron!
+
+Reward: 4,000 NWP</body>"
+"693b7af7","<title>Success: Infinite Cauldron #4</title>
+<body>You went to Core 00 at the Infinite
+Cauldron!
+
+Received: 4,000 NWP</body>"
