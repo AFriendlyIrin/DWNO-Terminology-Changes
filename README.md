@@ -1,4 +1,4 @@
-# DWNO-Terminology-Changes
+# Digimon World: Next Order - Terminology Changes
 Cosmetic mod altering some terminologies in Digimon World: Next Order. Changes Digimon stage names to their Japanese counterparts, fixes some questionable terminology translations, and tweaks a few other names to ones I believe flow better or make more sense.
 
 The English language CSVs have been provided here if you wish to make your own adjustments. **Note: If you are editing the CSVs with spreadsheet software, you must import the hash column as text to avoid errors.**
