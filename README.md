@@ -5,25 +5,30 @@ The English language CSVs have been provided here if you wish to make your own a
 
 ## List of Changes
 ```
-In-Training      → Baby
-Rookie           → Child
-Champion         → Adult
-Ultimate         → Perfect
-Mega             → Ultimate
-Ingredients      → Food
-Hand-to-Hand     → Martial
-[Skill] Type     → [Skill] System
-Reverse Type     → Rebirth System
-Zeal Injection   → Passion Injection
-Mental Trainer   → Mind Over Matter
-Mister Cook      → Mister Cuisine
-Real X Hunt      → Rare X Hunt
-Training Failure → Care Mistake
+In-Training       → Baby
+Rookie            → Child
+Champion          → Adult
+Ultimate          → Perfect
+Mega              → Ultimate
+Ingredients       → Food
+DigiWhitegold     → DigiPlatinum
+Hand-to-Hand      → Martial
+Weapon/Apparatus  → Machine
+[Skill] Type      → [Skill] System
+Reverse Type      → Rebirth System
+Zeal Injection    → Passion Injection
+Mental Trainer    → Mind Over Matter
+Mister Cook       → Mister Cuisine
+Real X Hunt       → Rare X Hunt
+Arena             → Arcade
+Ohguino Wasteland → Ohguino Wilderness
+Faulty Ex Machina → Fault Ex Machina
+Training Failure  → Care Mistake
   (in digivolve screen, TF → Mistakes)
 Digivolution Conditions → Conditions
   (to make the text less squished)
 ```
-Also fixes an it's/its mistake in one of the item descriptions, because while I had the files open I figured I might as well.
+Additionally, some Digimon's special moves have been changed to more accurate translations (most notably, Pummel Whack → Fist of the Supreme King, with the quiz question updated accordingly). Also fixes an it's/its mistake in one of the item descriptions, because while I had the files open I figured I might as well.
 
 ## Installation
 Only the raw asset files are provided. You will need to pack them into `DigimonDataR.cpk` using a CPK file tool. If you do this, the mod is compatible with the Switch version on any custom firmware with LayeredFS compatibility.
