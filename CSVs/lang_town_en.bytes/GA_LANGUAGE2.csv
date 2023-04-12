@@ -49,7 +49,7 @@ road leading to the south! It can't be THAT Digimon, can it?"
 angel-like Digimon has appeared! I want to catch a glimpse!"
 "2e4f4747","The Noise Storm in Server Desert contains a golden Digimon!
 Although...it looks like it occasionally disappears..."
-"2e4f4740","Whoa! You should check out the Digimon Server Desert's
+"2e4f4740","Whoa! You should check out the Digimon in Server Desert's
 cemetery! It's waiting for you, {0}!"
 "2e4f4741","An interesting Digimon has appeared in Server Desert's
 tower, and apparently it's collecting materials."
@@ -83,36 +83,36 @@ reborn in the Flame Lands in Logic Volcano!"
 Circuit! Talk about scary!"
 "2c4f447e","It looks like there's a tomboy Digimon in Logic Volcano.
 Apparently it's some kind of god, but who knows?"
-"2c4f447f","No way! Agumon's been detected in the Ohguino Wastelands!
+"2c4f447f","No way! Agumon's been detected in the Ohguino Wilderness!
 He's like a big brother to me, so bring him here quick!"
-"2c4f447c","In the Ohguino Wastelands, there's a Digimon who wants to...
+"2c4f447c","In the Ohguino Wilderness, there's a Digimon who wants to...
 ""box""? What's that mean?"
-"2c4f447d","A Goblimon's been detected in the Ohguino Wastelands'
+"2c4f447d","A Goblimon's been detected in the Ohguino Wilderness'
 tunnel, and it's asking for something strange..."
-"2c4f447a","There's a dinosaur-like Digimon in the Ohguino Wastelands'
+"2c4f447a","There's a dinosaur-like Digimon in the Ohguino Wilderness'
 tunnel that's after something."
-"2c4f447b","A Digimon's been sneaking around the Ohguino Wastelands,
+"2c4f447b","A Digimon's been sneaking around the Ohguino Wilderness,
 either looking for something or avoiding work."
 "2c4f4478","There's a plant-like Digimon trying to protect something in
-the Ohguino Wastelands...near the castle, I think."
+the Ohguino Wilderness...near the castle, I think."
 "2c4f4479","A Digimon leader has been organizing everybody at the
-Ohguino Wastelands...fortress?"
+Ohguino Wilderness...fortress?"
 "2c4f4476","There's a Digimon who's looking for something in front of
-the castle walls in the Ohguino Wastelands."
-"2c4f4477","Near the castle in the Ohguino Wastelands, a plant-like
+the castle walls in the Ohguino Wilderness."
+"2c4f4477","Near the castle in the Ohguino Wilderness, a plant-like
 Digimon seems to be guarding something."
 "2d4f45d1","A really cute Digimon's been detected on the other side of
-the Ohguino Wastelands' bridge! I have to see it!"
-"2d4f45d0","The door to the final room in the Ohguino Wastelands castle
+the Ohguino Wilderness' bridge! I have to see it!"
+"2d4f45d0","The door to the final room in the Ohguino Wilderness castle
 is being protected by a really tough Digimon."
-"2d4f45d3","Apparently, the ruler of the Ohguino Wastelands castle is
+"2d4f45d3","Apparently, the ruler of the Ohguino Wilderness castle is
 none other than Rosemon! This could be tough..."
-"2d4f45d2","There's a mean-looking Digimon in the Ohguino Wastelands
+"2d4f45d2","There's a mean-looking Digimon in the Ohguino Wilderness
 fortress that appears to be fretting over something."
-"2d4f45d5","ShineGreymon has fully recovered in the Ohguino Wastelands,
+"2d4f45d5","ShineGreymon has fully recovered in the Ohguino Wilderness,
 so head over there right away!"
 "2d4f45d4","Rosemon said she was going to head back to Rose Palace in
-the Ohguino Wastelands."
+the Ohguino Wilderness."
 "2d4f45d7","A little devil Digimon has been detected at MOD Cape's
 cabin. It may be small, but it's planning something big!"
 "2d4f45d6","There's a Digimon waiting for you at MOD Cape,
@@ -139,26 +139,26 @@ Cape! I bet it's really strong..."
 Cape."
 "2a4f4110","BanchoLeomon says that a dragon-like mechanical Digimon is
 at MOD Cape. Maybe you should go see it?"
-"2a4f4111","Some machinery has been started by a Digimon in Faulty Ex
+"2a4f4111","Some machinery has been started by a Digimon in Fault Ex
 Machina's control room."
 "2b4f428b","A mechanical Digimon is having trouble on the beautiful
-island on the west side of Faulty Ex Machina."
+island on the west side of Fault Ex Machina."
 "2b4f428a","This is weird, but apparently a round Digimon with a beard
-and sunglasses is living underground in Faulty Ex Machina."
+and sunglasses is living underground in Fault Ex Machina."
 "2b4f4289","It looks like there's a slightly--scratch that, MAJORLY
-eccentric Digimon living underground in Faulty Ex Machina."
+eccentric Digimon living underground in Fault Ex Machina."
 "2b4f4288","A Digimon with a metallic body has been detected on the west
-side of Faulty Ex Machina."
+side of Fault Ex Machina."
 "2b4f428f","A big mechanical Digimon's gotten into an argument in Faulty
 Ex Machina. This could get ugly!"
-"2b4f428e","Right in the center of Faulty Ex Machina, a Digimon's lost
+"2b4f428e","Right in the center of Fault Ex Machina, a Digimon's lost
 something, and is in a fix. You should go lend a hand."
-"2b4f428d","A crazy-fast Digimon has been detected in Faulty Ex Machina.
+"2b4f428d","A crazy-fast Digimon has been detected in Fault Ex Machina.
 Hopefully it's not so fast you can't see it!"
-"2b4f428c","There's a MetalGarurumon in Faulty Ex Machina! It would be
+"2b4f428c","There's a MetalGarurumon in Fault Ex Machina! It would be
 great to have it in the city!"
 "2b4f4283","Want to know what a cool Digimon looks like? Well,
-apparently, one has appeared in Faulty Ex Machina!"
+apparently, one has appeared in Fault Ex Machina!"
 "2b4f4282","A toy-like Digimon's having trouble at Bony Resort."
 "284f3e32","At Bony Resort, there are two friendly Digimon who are like
 peas in a pod."
@@ -813,7 +813,7 @@ You can take them to the bathroom, or use a Portable Toilet."
 "7b4947f1","When the ZZZ mark appears, they want to sleep. Open Care
 with <icon>□</icon>, and let them sleep."
 "7b4947fe","If you don't take care of these in a certain amount of time,
-it'll cause a Training Failure."
+it'll cause a Care Mistake."
 "7b4947ff","Be sure not to miss any of those signs."
 "7a494602","Now, about <icon>疲労</icon> (Fatigue) and sickness!"
 "7a494601","When the sweat mark appears, fatigue has built up. It's bad
@@ -849,7 +849,7 @@ Adult, and Perfect... and maybe even higher!"
 "80494f91","Once a partner has lived a certain length of time, a chance
 to Digivolve will present itself."
 "80494f90","There are all sorts of conditions necessary to Digivolve.
-High skill, Training Failures, Weight, Discipline..."
+High skill, Care Mistakes, Weight, Discipline..."
 "80494f93","Each Digivolving Digimon has different requirements. Open up
 your Digivice and try looking at your partner's history."
 "80494f92","At first, all of the conditions will appear hidden, but they
@@ -1007,7 +1007,7 @@ tired."
 "1a45347e","Come on, come on!!!"
 "1a45347f","If you're sleepy, you should get some rest right away!"
 "1a45347c","Well I guess you'd drift off on your own eventually, but if
-you do that'll cause a Training Failure."
+you do that'll cause a Care Mistake."
 "1a45347d","Even if you hold out as much as you can, you'll just wake up
 that much later the next morning."
 "1a45347a","Lookit all these shops!"
@@ -1276,7 +1276,7 @@ DigiOil: {15}  DigiSap: {16}"
 DigiIonwater: {19}  DigiRainbowdrop: {20}"
 "ee0ac37d","DigiCopper: {13}  DigiIron: {14}
 DigiSilver: {15}  DigiGold: {16}"
-"ee0ac37e","DigiWhitegold: {13}  Mithril: {14}
+"ee0ac37e","DigiPlatinum: {13}  Mithril: {14}
 Chrome Digizoit: {15}  BK Digizoit: {16}"
 "ee0ac37f","DigiSand: {13}  DigiStone: {14}
 DigiRock: {15}  DigiLight: {16}"
@@ -1372,7 +1372,7 @@ to try?"
 "e7293c78","You found 10 DigiSilvers! They've been stored in city
 storage!"
 "e7293c79","You found 10 DigiGolds! They've been stored in city storage!"
-"e7293c7a","You found 10 DigiWhitegolds! They've been stored in city
+"e7293c7a","You found 10 DigiPlatinums! They've been stored in city
 storage!"
 "e7293c7b","You found 5 Mithrils! They've been stored in city storage!"
 "e7293c74","You found 5 Chrome Digizoits! They've been stored in city
@@ -1543,7 +1543,7 @@ is Nigh Plains."
 "de90f841","{1}'s incompatible place...
 is Server Desert."
 "de90f846","{1}'s incompatible place...
-is the Ohguino Wastelands."
+is the Ohguino Wilderness."
 "de90f847","{1}'s incompatible place...
 is Logic Volcano."
 "de90f844","{1}'s incompatible place...
@@ -1551,7 +1551,7 @@ is MOD Cape."
 "de90f845","{1}'s incompatible place...
 is the Bony Resort."
 "de90f84a","{1}'s incompatible place...
-is Faulty Ex Machina."
+is Fault Ex Machina."
 "de90f84b","{1}'s incompatible place...
 is Absolute Zero."
 "df90fa34","{2}'s incompatible place...
@@ -1561,7 +1561,7 @@ is Nigh Plains."
 "df90fa36","{2}'s incompatible place...
 is Server Desert."
 "df90fa31","{2}'s incompatible place...
-is the Ohguino Wastelands."
+is the Ohguino Wilderness."
 "df90fa30","{2}'s incompatible place...
 is Logic Volcano."
 "df90fa33","{2}'s incompatible place...
@@ -1569,7 +1569,7 @@ is MOD Cape."
 "df90fa32","{2}'s incompatible place...
 is the Bony Resort."
 "df90fa3d","{2}'s incompatible place...
-is Faulty Ex Machina."
+is Fault Ex Machina."
 "df90fa3c","{2}'s incompatible place...
 is Absolute Zero."
 "e79106a4","Sometimes you have to take them to such places, but try not
@@ -1960,9 +1960,9 @@ Your destination will depend on the day."
 "d8bd1fc3","Today is Tuesday. Your destination is...Logic Volcano."
 "d8bd1fc2","Today is Wednesday. Your destination is...MOD Cape."
 "d8bd1fc1","Today is Thursday. Your destination is...Absolute Zero."
-"d8bd1fc0","Today is Friday. Your destination is...Faulty Ex Machina."
+"d8bd1fc0","Today is Friday. Your destination is...Fault Ex Machina."
 "d8bd1fcf","Today is Saturday. Your destination is...the Ohguino
-Wastelands."
+Wilderness."
 "d7bd1e55","I can't guarantee you'll make it back. If you don't have an
 Auto-Pilot handy, you'd best prepare for the worst."
 "d8bd1fce","No, thank you.
@@ -2806,8 +2806,8 @@ Fire Ball"
 Little Blizzard
 Iceball Bomb"
 "6b037257","Q4: What is Renamon's special move?"
-"6b037258","Diamond Storm
-Fox Tail Inferno
+"6b037258","Fox Arrows
+Fox Fire
 Razor Wind"
 "6b037259","Q4: What is Hackmon's special move?"
 "6c0373c3","Fifth Rush
@@ -2826,9 +2826,9 @@ Smile Bomber"
 Electro Shocker
 Scissor Claw"
 "6c0373c4","Q5: What is Ogremon's special move?"
-"6c0373cb","Drummel Whack
-Pummel Whack
-Thrummel Whack"
+"6c0373cb","Fist of the Fang King"
+Fist of the Supreme King
+Fist of the Demon King"
 "6c0373ca","Q5: What is Wizardmon's special move?"
 "6d0375b6","Spark Cloud
 Electric Cloud
@@ -2946,10 +2946,10 @@ SkullGreymon"
 "24dda670","What is it? I'm busy with my research."
 "24dda671","Well, I guess I can spend some time with you... I owe you,
 after all."
-"24dda672","But I can help you if you want to learn Apparatus or
+"24dda672","But I can help you if you want to learn Machine or
 Martial attack skills."
 "36965f4b","Which skill do you want to learn?"
-"36965f4a","An Apparatus skill
+"36965f4a","A Machine skill
 A Martial skill
 I've changed my mind"
 "36965f49","I don't have any skills I can teach your current partners."
@@ -2978,11 +2978,11 @@ Driver."
 Never mind"
 "35965dde","Got it. Pay close attention, now..."
 "35965ddf","What? Well, that's fine."
-"35965dd0","You learned an Apparatus attack skill - Upgrade"
-"35965dd1","You learned an Apparatus attack skill - Energy Ball"
-"38966291","You learned an Apparatus attack skill - Anti-attack Field"
-"38966290","You learned an Apparatus attack skill - Gigawatt Laser"
-"38966293","You learned an Apparatus attack skill - Delete Program"
+"35965dd0","You learned an Machine attack skill - Upgrade"
+"35965dd1","You learned an Machine attack skill - Energy Ball"
+"38966291","You learned an Machine attack skill - Anti-attack Field"
+"38966290","You learned an Machine attack skill - Gigawatt Laser"
+"38966293","You learned an Machine attack skill - Delete Program"
 "38966292","You learned a Martial attack skill - Muscle Charge"
 "38966295","You learned a Martial attack skill - Spin Attack"
 "38966294","You learned a Martial attack skill - Buster Dive"
@@ -3030,7 +3030,7 @@ for more? That's amazing!"
 "81305901","I give up already! There's nothing more I can give you if
 you go any higher!"
 "5578cd13","Who is it? Whoops, it's {0}. Sorry about that!"
-"5578cd12","Ever since my brainpower got an Apparatus enhancement,
+"5578cd12","Ever since my brainpower got a Machine enhancement,
 my research has benefitted immensely!"
 "5578cd11","What research, you say? It's all about...eternal life!"
 "5578cd10","We mechanical Digimon have not been blessed with
@@ -3039,7 +3039,7 @@ immortality...yet."
 little."
 "5578cd16","Come see me when your partners are getting old. I might be
 able to help."
-"e45ee0b8","How old are they? This Apparatus will check their data."
+"e45ee0b8","How old are they? This apparatus will check their data."
 "e45ee0b9","Huh, older than 15 days? Impressive. This is good data.
 Take this."
 "e45ee0ba","Wow, older than 20 days? Very impressive. This is great
@@ -3462,8 +3462,8 @@ luxury to be able to fish in town?"
 "f7862db3","Come on back when you've got some room to spare. Heh heh,
 I'll be waiting!"
 "7e76c19a","Oh! Welcome! I have something for you!"
-"7e76c19b","Whoa now, you've got a Black Digitrout! I'll take that off
-your hands, then we can talk!"
+"7e76c19b","Whoa now, you've got a Black Digitrout! You'll need to
+get rid of that first, then we can talk!"
 "7e76c198","Let me explain my training method to you."
 "7e76c199","You will need to fish three Black Digitrout."
 "7e76c19e","But in that time you can't leave the area or load data."
@@ -3658,7 +3658,7 @@ I'll leave it for now."
 say, let the experiments begin!"
 "663faa0c","Ready? One...two...three!"
 "663faa0f","Your partner's current HP was halved!"
-"663faa0e","Your partner's current MPs was halved!"
+"663faa0e","Your partner's current MP was halved!"
 "663faa01","Your partner's DigiFriend decreased by 10!"
 "663faa00","Your partner's Bond decreased by 10!"
 "653fa896","Your partner's <icon>躾け</icon> increased by 10!"
@@ -3830,9 +3830,9 @@ TO STRENGTH!"
 PARTNER DIGIMON."
 "71721a12","YOU WANT TO DECREASE A DIGIMON'S WEIGHT. PLEASE SELECT A
 PARTNER DIGIMON."
-"71721a13","YOU WANT TO INCREASE A DIGIMON'S TRAINING FAILURES. PLEASE
+"71721a13","YOU WANT TO INCREASE A DIGIMON'S CARE MISTAKES. PLEASE
 SELECT A PARTNER DIGIMON."
-"71721a10","YOU WANT TO DECREASE A DIGIMON'S TRAINING FAILURES. PLEASE
+"71721a10","YOU WANT TO DECREASE A DIGIMON'S CARE MISTAKES. PLEASE
 SELECT A PARTNER DIGIMON."
 "71721a11","YOU WANT TO INCREASE A DIGIMON'S <icon>躾け</icon>. PLEASE
 SELECT A PARTNER DIGIMON."
@@ -3851,13 +3851,13 @@ I've changed my mind."
 "72721b8d","Through GranKuwagamon's herculean power,
 {2}'s weight decreased by 3."
 "72721b8c","Through GranKuwagamon's herculean power,
-{1}'s Training Failures increased by 1."
+{1}'s Care Mistakes increased by 1."
 "72721b8f","Through GranKuwagamon's herculean power,
-{2}'s Training Failures increased by 1."
+{2}'s Care Mistakes increased by 1."
 "72721b8e","Through GranKuwagamon's herculean power,
-{1}'s Training Failures decreased by 1."
+{1}'s Care Mistakes decreased by 1."
 "72721b81","Through GranKuwagamon's herculean power,
-{2}'s Training Failures decreased by 1."
+{2}'s Care Mistakes decreased by 1."
 "72721b80","Through GranKuwagamon's herculean power,
 {1}'s <icon>躾け</icon> increased by 5."
 "6f721730","Through GranKuwagamon's herculean power,
@@ -4045,7 +4045,7 @@ Never mind"
 "addd3ba6","Learned the Holy attack skill - Judgment"
 "addd3ba9","You learned that without any problems. I hope it serves you
 well."
-"a8c03766","Call Jijimon"
+"a8c03766","Jijimon's Report"
 "a8c03762","You're back, {0}! I have good news!"
 "a8c03701","Patamon has come back to Floatia!"
 "a8c03700","He has set up a warehouse!"
@@ -4243,7 +4243,7 @@ everything is going to be okay!"
 "a6bdf545","He's gone to the lab. He really likes machines!"
 "a6bdf546","Rapidmon has come back to Floatia!"
 "a6bdf547","He's gone to the Entertainment District. He wants to work in
-the arena, I think!"
+the arcade, I think!"
 "a6bdf540","DO NOT TRANSLATE"
 "a6bdf541","DO NOT TRANSLATE"
 "a6bdf542","MachGaogamon has come back to Floatia!"
@@ -4255,7 +4255,7 @@ as an expert fighter."
 "a7bdf736","He's gone to the Dimensional District... Maybe he wants to
 go to the Spacetime Transporter?"
 "a7bdf735","ToyAgumon has come back to Floatia!"
-"a7bdf734","He's gone to the arena. He knows a lot about having fun!"
+"a7bdf734","He's gone to the arcade. He knows a lot about having fun!"
 "a7bdf733","Terriermon has come back to Floatia!"
 "a7bdf732","He caught a whiff of the restaurant and headed there. I hope
 he's not just going there to chow down!"
@@ -4266,7 +4266,7 @@ I think he wants to work there."
 "a7bdf73e","He said that he wanted to research and practice magic.
 I hope things don't get out of hand in the Central District!"
 "a8bdf8aa","Mamemon has come back to Floatia!"
-"a8bdf8ab","He's gone to the arena. Same as always!"
+"a8bdf8ab","He's gone to the arcade. Same as always!"
 "a8bdf8a8","Myotismon has come back to Floatia!"
 "a8bdf8a9","He said that he wanted to return the old cards to beauty.
 He went in the direction of the Entertainment District."
@@ -4280,15 +4280,15 @@ to work with children!"
 "a8bdf8a3","He's gone to the Business District. He said he wanted to
 ​sell something. I wonder what it is..."
 "a9bdfa1d","MetalEtemon has joined the city!"
-"a9bdfa1c","Has even he had a change of heart?! He went to the arena..."
+"a9bdfa1c","Has even he had a change of heart?! He went to the arcade..."
 "a9bdfa1f","PlatinumNumemon has joined the city!"
 "a9bdfa1e","It went to the Advanced Item Shop. It looks like it really
 likes advanced items!"
 "a9bdfa19","Monzaemon has come back to Floatia!"
-"a9bdfa18","He's gone to the arena. From the looks of him, the arena
+"a9bdfa18","He's gone to the arcade. From the looks of him, the arcade
 is the best place for him!"
 "a9bdfa1b","Ophanimon has joined the city!"
-"a9bdfa1a","He's headed straight for the lab. I suspect he's got some
+"a9bdfa1a","She's headed straight for the lab. I suspect she's got some
 really exciting research to do!"
 "a9bdfa15","Barbamon has joined the city!"
 "a9bdfa14","He's gone to the Spacetime Transporter. I guess he has an
@@ -4414,7 +4414,7 @@ about protecting the peace. Reassuring, isn't it?"
 "1ac567e0","He went to the Entertainment District. Apparently, he's not
 too keen on early mornings."
 "1ac567e3","Piedmon has come to Floatia!"
-"1ac567e2","He headed to the Arena. I think he'll fit in there just
+"1ac567e2","He headed to the Arcade. I think he'll fit in there just
 fine!"
 "1ac567ed","Chaosmon has come to Floatia!"
 "1ac567ec","Its powers seemed a little unpredictable, so I recommended
@@ -4552,7 +4552,7 @@ DigiIonwaters!"
 "f11a72b4","You got three DigiRainbowdrops, three DigiLightningwaters,
 and one DigiHolywater!"
 "f11a72b7","You got five each of DigiIrons, DigiSilvers, and DigiGolds!"
-"f11a72b6","You got five each of DigiWhitegolds, Mithrils, and Chrome
+"f11a72b6","You got five each of DigiPlatinums, Mithrils, and Chrome
 Digizoits!"
 "f11a72b9","You got three Black Digizoits, three Red Digizoits, and one
 Blue Digizoit!"
