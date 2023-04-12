@@ -27,12 +27,13 @@ Training Failure  → Care Mistake
   (in digivolve screen, TF → Mistakes)
 Digivolution Conditions → Conditions
   (to make the text less squished)
+Call Jijimon      → Jijimon's Report
 ```
 Additionally, there are a few miscellaneous corrections:
- -Some Digimon's special moves have been changed to more accurate translations (most notably, Pummel Whack → Fist of the Supreme King & Diamond Storm → Fox Arrows, with the quiz questions updated accordingly)
- -Fixed the error in Vikemon's contingency message (he now says to get rid of any Black Digitrout instead of "I'll take that off your hands")
- -Corrected Ophanimon's pronouns to female in her recruitment message
- -Fixes an it's/its mistake in one of the item descriptions
+* Some Digimon's special moves have been changed to more accurate translations (most notably, Pummel Whack → Fist of the Supreme King & Diamond Storm → Fox Arrows, with the quiz questions updated accordingly)
+* Fixed the error in Vikemon's contingency message (he now says to get rid of any Black Digitrout instead of "I'll take that off your hands")
+* Corrected Ophanimon's pronouns to female in her recruitment message
+* Fixed an it's/its mistake in one of the item descriptions
 
 ## Installation
 Only the raw asset files are provided. You will need to pack them into `DigimonDataR.cpk` using a CPK file tool. If you do this, the mod is compatible with the Switch version on any custom firmware with LayeredFS compatibility.
