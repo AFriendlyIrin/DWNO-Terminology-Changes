@@ -44,4 +44,5 @@ Additionally, there are a few more detailed changes:
 Only the raw asset files are provided. You will need to pack them into `DigimonDataR.cpk` using a CPK file tool. If you do this, the mod is compatible with the Switch version on any custom firmware with LayeredFS compatibility.
 
 ## Known Issues
-Replacing all 6 files in the CPK causes the game to crash when loading certain areas. It's not any particular file, it's just any 6 file changes. I have no idea why this happens, but choose 1 file to exclude until the problem can be resolved.
+ * Replacing all 6 files in the CPK causes the game to hang when entering Jijimon's house. It's not any particular file, it's just any 6 file changes. I have no idea why this happens, but choose 1 file to exclude until the problem can be resolved.
+ * Repacking the CPK, at least with the CPK tool I'm using (CPK File Browser), causes the game to hang when attempting to load any story cutscene.
