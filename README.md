@@ -12,6 +12,7 @@ Ultimate          → Perfect
 Mega              → Ultimate
 Ingredients       → Food
 DigiWhitegold     → DigiPlatinum
+MegaGargomon      → SaintGargomon
 Hand-to-Hand      → Martial
 Weapon/Apparatus  → Machine
 [Skill] Type      → [Skill] System
@@ -29,11 +30,14 @@ Digivolution Conditions → Conditions
   (to make the text less squished)
 Call Jijimon      → Jijimon's Report
 ```
-Additionally, there are a few miscellaneous corrections:
+Additionally, there are a few more detailed changes:
 * Some Digimon's special moves have been changed to more accurate translations (most notably, Pummel Whack → Fist of the Supreme King & Diamond Storm → Fox Arrows, with the quiz questions updated accordingly)
 * Fixed the error in Vikemon's contingency message (he now says to get rid of any Black Digitrout instead of "I'll take that off your hands")
 * Corrected Ophanimon's pronouns to female in her recruitment message
 * Fixed an it's/its mistake in one of the item descriptions
+* Reverted Kuro-rin and Kuro-cchi to their original localized names Blackie and Blackosaurus
+* Added information to attack skill descriptions about the magnitude and duration of added buffs, as well as information about attack skills that self-buff
+* Tweaked some odd wording in attack skill descriptions ("much damage" changed to "huge damage")
 
 ## Installation
 Only the raw asset files are provided. You will need to pack them into `DigimonDataR.cpk` using a CPK file tool. If you do this, the mod is compatible with the Switch version on any custom firmware with LayeredFS compatibility.
