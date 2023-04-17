@@ -37,7 +37,7 @@ Additionally, there are a few more detailed changes:
 * Fixed an it's/its mistake in one of the item descriptions
 * Reverted Kuro-rin and Kuro-cchi to their original localized names Blackie and Blackosaurus
 * Added information to attack skill descriptions about the magnitude and duration of added buffs, as well as information about attack skills that self-buff
-** Changed Upgrade's description to accurately convey that it buffs all stats, not just strength and stamina
+  * Changed Upgrade's description to accurately convey that it buffs all stats, not just strength and stamina
 * Tweaked some odd wording in attack skill descriptions ("much damage" changed to "huge damage")
 
 ## Installation
